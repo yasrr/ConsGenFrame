@@ -1,0 +1,2006 @@
+22:26:08.30 | INFO | Lazy Con: OFF
+22:26:08.32 | INFO | Optimised - caller: model_optimize
+22:26:08.47 | INFO | Lazy Con: OFF
+22:26:08.48 | INFO | Optimised - caller: model_optimize
+22:26:08.54 | INFO | Lazy Con: OFF
+22:26:08.56 | INFO | Optimised - caller: adv_train
+22:26:08.56 | INFO | Lazy Con: OFF
+22:26:08.57 | INFO | Optimised - caller: adv_train
+22:26:08.58 | INFO | Lazy Con: OFF
+22:26:08.60 | INFO | Optimised - caller: adv_train
+22:26:08.60 | INFO | Lazy Con: OFF
+22:26:08.62 | INFO | Optimised - caller: adv_train
+22:26:08.63 | INFO | Lazy Con: OFF
+22:26:08.64 | INFO | Optimised - caller: adv_train
+22:26:08.65 | INFO | Lazy Con: OFF
+22:26:08.66 | INFO | Optimised - caller: adv_train
+22:26:08.67 | INFO | Lazy Con: OFF
+22:26:08.69 | INFO | Optimised - caller: adv_train
+22:26:08.69 | INFO | Lazy Con: OFF
+22:26:08.71 | INFO | Optimised - caller: adv_train
+22:26:08.72 | INFO | Lazy Con: OFF
+22:26:08.74 | INFO | Optimised - caller: adv_train
+22:26:08.74 | INFO | Lazy Con: OFF
+22:26:08.78 | INFO | Optimised - caller: adv_train
+22:26:08.78 | INFO | Lazy Con: OFF
+22:26:08.82 | INFO | Optimised - caller: adv_train
+22:26:08.82 | INFO | Lazy Con: OFF
+22:26:08.87 | INFO | Optimised - caller: adv_train
+22:26:08.88 | INFO | Lazy Con: OFF
+22:26:08.91 | INFO | Optimised - caller: adv_train
+22:26:08.92 | INFO | Lazy Con: OFF
+22:26:08.96 | INFO | Optimised - caller: adv_train
+22:26:08.96 | INFO | Lazy Con: OFF
+22:26:09.00 | INFO | Optimised - caller: adv_train
+22:26:09.01 | INFO | Lazy Con: OFF
+22:26:09.04 | INFO | Optimised - caller: adv_train
+22:26:09.05 | INFO | Lazy Con: OFF
+22:26:09.13 | INFO | Optimised - caller: adv_train
+22:26:09.13 | INFO | Lazy Con: OFF
+22:26:09.17 | INFO | Optimised - caller: adv_train
+22:26:09.18 | INFO | Lazy Con: OFF
+22:26:09.28 | INFO | Optimised - caller: adv_train
+22:26:09.29 | INFO | Lazy Con: OFF
+22:26:09.39 | INFO | Optimised - caller: adv_train
+22:26:09.40 | INFO | Lazy Con: OFF
+22:26:09.49 | INFO | Optimised - caller: adv_train
+22:26:09.50 | INFO | Lazy Con: OFF
+22:26:09.60 | INFO | Optimised - caller: adv_train
+22:26:09.61 | INFO | Lazy Con: OFF
+22:26:09.70 | INFO | Optimised - caller: adv_train
+22:26:09.71 | INFO | Lazy Con: OFF
+22:26:09.75 | INFO | Optimised - caller: adv_train
+22:26:09.75 | INFO | Lazy Con: OFF
+22:26:09.80 | INFO | Optimised - caller: adv_train
+22:26:09.81 | INFO | Lazy Con: OFF
+22:26:09.87 | INFO | Optimised - caller: adv_train
+22:26:09.87 | INFO | Lazy Con: OFF
+22:26:09.95 | INFO | Optimised - caller: adv_train
+22:26:09.96 | INFO | Lazy Con: OFF
+22:26:10.04 | INFO | Optimised - caller: adv_train
+22:26:10.05 | INFO | Lazy Con: OFF
+22:26:10.20 | INFO | Optimised - caller: adv_train
+22:26:10.22 | INFO | Lazy Con: OFF
+22:26:10.36 | INFO | Optimised - caller: adv_train
+22:26:10.37 | INFO | Lazy Con: OFF
+22:26:10.55 | INFO | Optimised - caller: adv_train
+22:26:10.56 | INFO | Lazy Con: OFF
+22:26:10.74 | INFO | Optimised - caller: adv_train
+22:26:10.75 | INFO | Lazy Con: OFF
+22:26:10.84 | INFO | Optimised - caller: adv_train
+22:26:10.84 | INFO | Lazy Con: OFF
+22:26:10.99 | INFO | Optimised - caller: adv_train
+22:26:11.00 | INFO | Lazy Con: OFF
+22:26:11.10 | INFO | Optimised - caller: adv_train
+22:26:11.11 | INFO | Lazy Con: OFF
+22:26:11.18 | INFO | Optimised - caller: adv_train
+22:26:11.19 | INFO | Lazy Con: OFF
+22:26:11.30 | INFO | Optimised - caller: adv_train
+22:26:11.30 | INFO | Lazy Con: OFF
+22:26:11.41 | INFO | Optimised - caller: adv_train
+22:26:11.41 | INFO | Lazy Con: OFF
+22:26:11.52 | INFO | Optimised - caller: adv_train
+22:26:11.53 | INFO | Lazy Con: OFF
+22:26:11.64 | INFO | Optimised - caller: adv_train
+22:26:11.65 | INFO | Lazy Con: OFF
+22:26:11.74 | INFO | Optimised - caller: adv_train
+22:26:11.75 | INFO | Lazy Con: OFF
+22:26:11.87 | INFO | Optimised - caller: adv_train
+22:26:11.88 | INFO | Lazy Con: OFF
+22:26:11.94 | INFO | Optimised - caller: adv_train
+22:26:11.95 | INFO | Lazy Con: OFF
+22:26:12.04 | INFO | Optimised - caller: adv_train
+22:26:12.05 | INFO | Lazy Con: OFF
+22:26:12.24 | INFO | Optimised - caller: adv_train
+22:26:12.25 | INFO | Lazy Con: OFF
+22:26:12.40 | INFO | Optimised - caller: adv_train
+22:26:12.41 | INFO | Lazy Con: OFF
+22:26:12.52 | INFO | Optimised - caller: adv_train
+22:26:12.53 | INFO | Lazy Con: OFF
+22:26:12.68 | INFO | Optimised - caller: adv_train
+22:26:12.69 | INFO | Lazy Con: OFF
+22:26:12.81 | INFO | Optimised - caller: adv_train
+22:26:12.82 | INFO | Lazy Con: OFF
+22:26:12.93 | INFO | Optimised - caller: adv_train
+22:26:12.94 | INFO | Lazy Con: OFF
+22:26:13.15 | INFO | Optimised - caller: adv_train
+22:26:13.16 | INFO | Lazy Con: OFF
+22:26:13.30 | INFO | Optimised - caller: adv_train
+22:26:13.31 | INFO | Lazy Con: OFF
+22:26:13.47 | INFO | Optimised - caller: adv_train
+22:26:13.48 | INFO | Lazy Con: OFF
+22:26:13.59 | INFO | Optimised - caller: adv_train
+22:26:13.60 | INFO | Lazy Con: OFF
+22:26:13.75 | INFO | Optimised - caller: adv_train
+22:26:13.75 | INFO | Lazy Con: OFF
+22:26:13.88 | INFO | Optimised - caller: adv_train
+22:26:13.88 | INFO | Lazy Con: OFF
+22:26:14.11 | INFO | Optimised - caller: adv_train
+22:26:14.11 | INFO | Lazy Con: OFF
+22:26:14.34 | INFO | Optimised - caller: adv_train
+22:26:14.35 | INFO | Lazy Con: OFF
+22:26:14.55 | INFO | Optimised - caller: adv_train
+22:26:14.56 | INFO | Lazy Con: OFF
+22:26:14.85 | INFO | Optimised - caller: adv_train
+22:26:14.86 | INFO | Lazy Con: OFF
+22:26:15.00 | INFO | Optimised - caller: adv_train
+22:26:15.02 | INFO | Lazy Con: OFF
+22:26:15.30 | INFO | Optimised - caller: adv_train
+22:26:15.31 | INFO | Lazy Con: OFF
+22:26:15.57 | INFO | Optimised - caller: adv_train
+22:26:15.58 | INFO | Lazy Con: OFF
+22:26:15.71 | INFO | Optimised - caller: adv_train
+22:26:15.72 | INFO | Lazy Con: OFF
+22:26:15.98 | INFO | Optimised - caller: adv_train
+22:26:15.99 | INFO | Lazy Con: OFF
+22:26:16.13 | INFO | Optimised - caller: adv_train
+22:26:16.14 | INFO | Lazy Con: OFF
+22:26:16.27 | INFO | Optimised - caller: adv_train
+22:26:16.28 | INFO | Lazy Con: OFF
+22:26:16.45 | INFO | Optimised - caller: adv_train
+22:26:16.46 | INFO | Lazy Con: OFF
+22:26:16.65 | INFO | Optimised - caller: adv_train
+22:26:16.66 | INFO | Lazy Con: OFF
+22:26:16.78 | INFO | Optimised - caller: adv_train
+22:26:16.79 | INFO | Lazy Con: OFF
+22:26:16.99 | INFO | Optimised - caller: adv_train
+22:26:17.00 | INFO | Lazy Con: OFF
+22:26:17.11 | INFO | Optimised - caller: adv_train
+22:26:17.12 | INFO | Lazy Con: OFF
+22:26:17.24 | INFO | Optimised - caller: adv_train
+22:26:17.24 | INFO | Lazy Con: OFF
+22:26:17.42 | INFO | Optimised - caller: adv_train
+22:26:17.43 | INFO | Lazy Con: OFF
+22:26:17.60 | INFO | Optimised - caller: adv_train
+22:26:17.60 | INFO | Lazy Con: OFF
+22:26:17.79 | INFO | Optimised - caller: adv_train
+22:26:17.79 | INFO | Lazy Con: OFF
+22:26:17.90 | INFO | Optimised - caller: adv_train
+22:26:17.91 | INFO | Lazy Con: OFF
+22:26:18.05 | INFO | Optimised - caller: adv_train
+22:26:18.06 | INFO | Lazy Con: OFF
+22:26:18.25 | INFO | Optimised - caller: adv_train
+22:26:18.26 | INFO | Lazy Con: OFF
+22:26:18.44 | INFO | Optimised - caller: adv_train
+22:26:18.45 | INFO | Lazy Con: OFF
+22:26:18.62 | INFO | Optimised - caller: adv_train
+22:26:18.63 | INFO | Lazy Con: OFF
+22:26:18.83 | INFO | Optimised - caller: adv_train
+22:26:18.84 | INFO | Lazy Con: OFF
+22:26:19.06 | INFO | Optimised - caller: adv_train
+22:26:19.07 | INFO | Lazy Con: OFF
+22:26:19.25 | INFO | Optimised - caller: adv_train
+22:26:19.26 | INFO | Lazy Con: OFF
+22:26:19.48 | INFO | Optimised - caller: adv_train
+22:26:19.48 | INFO | Lazy Con: OFF
+22:26:19.65 | INFO | Optimised - caller: adv_train
+22:26:19.66 | INFO | Lazy Con: OFF
+22:26:20.10 | INFO | Optimised - caller: adv_train
+22:26:20.12 | INFO | Lazy Con: OFF
+22:26:20.48 | INFO | Optimised - caller: adv_train
+22:26:20.50 | INFO | Lazy Con: OFF
+22:26:21.08 | INFO | Optimised - caller: adv_train
+22:26:21.10 | INFO | Lazy Con: OFF
+22:26:21.44 | INFO | Optimised - caller: adv_train
+22:26:21.46 | INFO | Lazy Con: OFF
+22:26:21.94 | INFO | Optimised - caller: adv_train
+22:26:21.96 | INFO | Lazy Con: OFF
+22:26:22.39 | INFO | Optimised - caller: adv_train
+22:26:22.41 | INFO | Lazy Con: OFF
+22:26:22.82 | INFO | Optimised - caller: adv_train
+22:26:22.84 | INFO | Lazy Con: OFF
+22:26:23.26 | INFO | Optimised - caller: adv_train
+22:26:23.31 | INFO | Lazy Con: OFF
+22:26:23.79 | INFO | Optimised - caller: adv_train
+22:26:23.82 | INFO | Lazy Con: OFF
+22:26:24.46 | INFO | Optimised - caller: adv_train
+22:26:24.49 | INFO | Lazy Con: OFF
+22:26:24.87 | INFO | Optimised - caller: adv_train
+22:26:24.89 | INFO | Lazy Con: OFF
+22:26:25.28 | INFO | Optimised - caller: adv_train
+22:26:25.29 | INFO | Lazy Con: OFF
+22:26:25.76 | INFO | Optimised - caller: adv_train
+22:26:25.77 | INFO | Lazy Con: OFF
+22:26:26.16 | INFO | Optimised - caller: adv_train
+22:26:26.18 | INFO | Lazy Con: OFF
+22:26:26.47 | INFO | Optimised - caller: adv_train
+22:26:26.49 | INFO | Lazy Con: OFF
+22:26:26.96 | INFO | Optimised - caller: adv_train
+22:26:26.97 | INFO | Lazy Con: OFF
+22:26:27.40 | INFO | Optimised - caller: adv_train
+22:26:27.42 | INFO | Lazy Con: OFF
+22:26:27.67 | INFO | Optimised - caller: adv_train
+22:26:27.68 | INFO | Lazy Con: OFF
+22:26:28.11 | INFO | Optimised - caller: adv_train
+22:26:28.13 | INFO | Lazy Con: OFF
+22:26:28.46 | INFO | Optimised - caller: adv_train
+22:26:28.47 | INFO | Lazy Con: OFF
+22:26:28.99 | INFO | Optimised - caller: adv_train
+22:26:29.01 | INFO | Lazy Con: OFF
+22:26:29.48 | INFO | Optimised - caller: adv_train
+22:26:29.49 | INFO | Lazy Con: OFF
+22:26:29.73 | INFO | Optimised - caller: adv_train
+22:26:29.75 | INFO | Lazy Con: OFF
+22:26:30.31 | INFO | Optimised - caller: adv_train
+22:26:30.33 | INFO | Lazy Con: OFF
+22:26:30.90 | INFO | Optimised - caller: adv_train
+22:26:30.91 | INFO | Lazy Con: OFF
+22:26:31.33 | INFO | Optimised - caller: adv_train
+22:26:31.35 | INFO | Lazy Con: OFF
+22:26:31.80 | INFO | Optimised - caller: adv_train
+22:26:31.82 | INFO | Lazy Con: OFF
+22:26:32.21 | INFO | Optimised - caller: adv_train
+22:26:32.22 | INFO | Lazy Con: OFF
+22:26:32.74 | INFO | Optimised - caller: adv_train
+22:26:32.76 | INFO | Lazy Con: OFF
+22:26:33.19 | INFO | Optimised - caller: adv_train
+22:26:33.21 | INFO | Lazy Con: OFF
+22:26:33.60 | INFO | Optimised - caller: adv_train
+22:26:33.62 | INFO | Lazy Con: OFF
+22:26:34.24 | INFO | Optimised - caller: adv_train
+22:26:34.26 | INFO | Lazy Con: OFF
+22:26:34.78 | INFO | Optimised - caller: adv_train
+22:26:34.80 | INFO | Lazy Con: OFF
+22:26:35.34 | INFO | Optimised - caller: adv_train
+22:26:35.35 | INFO | Lazy Con: OFF
+22:26:35.76 | INFO | Optimised - caller: adv_train
+22:26:35.77 | INFO | Lazy Con: OFF
+22:26:36.22 | INFO | Optimised - caller: adv_train
+22:26:36.24 | INFO | Lazy Con: OFF
+22:26:36.54 | INFO | Optimised - caller: adv_train
+22:26:36.56 | INFO | Lazy Con: OFF
+22:26:37.07 | INFO | Optimised - caller: adv_train
+22:26:37.09 | INFO | Lazy Con: OFF
+22:26:37.67 | INFO | Optimised - caller: adv_train
+22:26:37.69 | INFO | Lazy Con: OFF
+22:26:38.10 | INFO | Optimised - caller: adv_train
+22:26:38.12 | INFO | Lazy Con: OFF
+22:26:38.53 | INFO | Optimised - caller: adv_train
+22:26:38.54 | INFO | Lazy Con: OFF
+22:26:39.11 | INFO | Optimised - caller: adv_train
+22:26:39.13 | INFO | Lazy Con: OFF
+22:26:39.72 | INFO | Optimised - caller: adv_train
+22:26:39.73 | INFO | Lazy Con: OFF
+22:26:40.25 | INFO | Optimised - caller: adv_train
+22:26:40.27 | INFO | Lazy Con: OFF
+22:26:40.77 | INFO | Optimised - caller: adv_train
+22:26:40.79 | INFO | Lazy Con: OFF
+22:26:41.35 | INFO | Optimised - caller: adv_train
+22:26:41.37 | INFO | Lazy Con: OFF
+22:26:41.87 | INFO | Optimised - caller: adv_train
+22:26:41.89 | INFO | Lazy Con: OFF
+22:26:42.42 | INFO | Optimised - caller: adv_train
+22:26:42.44 | INFO | Lazy Con: OFF
+22:26:42.79 | INFO | Optimised - caller: adv_train
+22:26:42.80 | INFO | Lazy Con: OFF
+22:26:43.22 | INFO | Optimised - caller: adv_train
+22:26:43.24 | INFO | Lazy Con: OFF
+22:26:43.78 | INFO | Optimised - caller: adv_train
+22:26:43.79 | INFO | Lazy Con: OFF
+22:26:44.30 | INFO | Optimised - caller: adv_train
+22:26:44.32 | INFO | Lazy Con: OFF
+22:26:44.89 | INFO | Optimised - caller: adv_train
+22:26:44.91 | INFO | Lazy Con: OFF
+22:26:45.41 | INFO | Optimised - caller: adv_train
+22:26:45.43 | INFO | Lazy Con: OFF
+22:26:45.92 | INFO | Optimised - caller: adv_train
+22:26:45.94 | INFO | Lazy Con: OFF
+22:26:46.70 | INFO | Optimised - caller: adv_train
+22:26:46.72 | INFO | Lazy Con: OFF
+22:26:47.30 | INFO | Optimised - caller: adv_train
+22:26:47.32 | INFO | Lazy Con: OFF
+22:26:47.81 | INFO | Optimised - caller: adv_train
+22:26:47.83 | INFO | Lazy Con: OFF
+22:26:48.35 | INFO | Optimised - caller: adv_train
+22:26:48.37 | INFO | Lazy Con: OFF
+22:26:49.12 | INFO | Optimised - caller: adv_train
+22:26:49.14 | INFO | Lazy Con: OFF
+22:26:49.68 | INFO | Optimised - caller: adv_train
+22:26:49.70 | INFO | Lazy Con: OFF
+22:26:50.28 | INFO | Optimised - caller: adv_train
+22:26:50.30 | INFO | Lazy Con: OFF
+22:26:51.41 | INFO | Optimised - caller: adv_train
+22:26:51.43 | INFO | Lazy Con: OFF
+22:26:52.18 | INFO | Optimised - caller: adv_train
+22:26:52.20 | INFO | Lazy Con: OFF
+22:26:52.89 | INFO | Optimised - caller: adv_train
+22:26:52.91 | INFO | Lazy Con: OFF
+22:26:53.58 | INFO | Optimised - caller: adv_train
+22:26:53.60 | INFO | Lazy Con: OFF
+22:26:54.29 | INFO | Optimised - caller: adv_train
+22:26:54.30 | INFO | Lazy Con: OFF
+22:26:55.12 | INFO | Optimised - caller: adv_train
+22:26:55.14 | INFO | Lazy Con: OFF
+22:26:55.86 | INFO | Optimised - caller: adv_train
+22:26:55.88 | INFO | Lazy Con: OFF
+22:26:56.46 | INFO | Optimised - caller: adv_train
+22:26:56.47 | INFO | Lazy Con: OFF
+22:26:57.02 | INFO | Optimised - caller: adv_train
+22:26:57.03 | INFO | Lazy Con: OFF
+22:26:57.70 | INFO | Optimised - caller: adv_train
+22:26:57.72 | INFO | Lazy Con: OFF
+22:26:58.32 | INFO | Optimised - caller: adv_train
+22:26:58.34 | INFO | Lazy Con: OFF
+22:26:59.01 | INFO | Optimised - caller: adv_train
+22:26:59.03 | INFO | Lazy Con: OFF
+22:26:59.73 | INFO | Optimised - caller: adv_train
+22:26:59.75 | INFO | Lazy Con: OFF
+22:27:00.41 | INFO | Optimised - caller: adv_train
+22:27:00.42 | INFO | Lazy Con: OFF
+22:27:00.99 | INFO | Optimised - caller: adv_train
+22:27:01.01 | INFO | Lazy Con: OFF
+22:27:01.76 | INFO | Optimised - caller: adv_train
+22:27:01.78 | INFO | Lazy Con: OFF
+22:27:02.72 | INFO | Optimised - caller: adv_train
+22:27:02.74 | INFO | Lazy Con: OFF
+22:27:03.47 | INFO | Optimised - caller: adv_train
+22:27:03.49 | INFO | Lazy Con: OFF
+22:27:04.22 | INFO | Optimised - caller: adv_train
+22:27:04.24 | INFO | Lazy Con: OFF
+22:27:04.97 | INFO | Optimised - caller: adv_train
+22:27:04.99 | INFO | Lazy Con: OFF
+22:27:05.67 | INFO | Optimised - caller: adv_train
+22:27:05.69 | INFO | Lazy Con: OFF
+22:27:06.37 | INFO | Optimised - caller: adv_train
+22:27:06.39 | INFO | Lazy Con: OFF
+22:27:07.25 | INFO | Optimised - caller: adv_train
+22:27:07.27 | INFO | Lazy Con: OFF
+22:27:07.84 | INFO | Optimised - caller: adv_train
+22:27:07.86 | INFO | Lazy Con: OFF
+22:27:08.41 | INFO | Optimised - caller: adv_train
+22:27:08.42 | INFO | Lazy Con: OFF
+22:27:09.27 | INFO | Optimised - caller: adv_train
+22:27:09.29 | INFO | Lazy Con: OFF
+22:27:10.12 | INFO | Optimised - caller: adv_train
+22:27:10.14 | INFO | Lazy Con: OFF
+22:27:10.84 | INFO | Optimised - caller: adv_train
+22:27:10.86 | INFO | Lazy Con: OFF
+22:27:11.50 | INFO | Optimised - caller: adv_train
+22:27:11.52 | INFO | Lazy Con: OFF
+22:27:12.25 | INFO | Optimised - caller: adv_train
+22:27:12.27 | INFO | Lazy Con: OFF
+22:27:12.91 | INFO | Optimised - caller: adv_train
+22:27:12.93 | INFO | Lazy Con: OFF
+22:27:13.54 | INFO | Optimised - caller: adv_train
+22:27:13.57 | INFO | Lazy Con: OFF
+22:27:14.32 | INFO | Optimised - caller: adv_train
+22:27:14.34 | INFO | Lazy Con: OFF
+22:27:15.19 | INFO | Optimised - caller: adv_train
+22:27:15.21 | INFO | Lazy Con: OFF
+22:27:16.47 | INFO | Optimised - caller: adv_train
+22:27:16.49 | INFO | Lazy Con: OFF
+22:27:17.20 | INFO | Optimised - caller: adv_train
+22:27:17.22 | INFO | Lazy Con: OFF
+22:27:18.09 | INFO | Optimised - caller: adv_train
+22:27:18.12 | INFO | Lazy Con: OFF
+22:27:18.88 | INFO | Optimised - caller: adv_train
+22:27:18.90 | INFO | Lazy Con: OFF
+22:27:19.71 | INFO | Optimised - caller: adv_train
+22:27:19.73 | INFO | Lazy Con: OFF
+22:27:20.69 | INFO | Optimised - caller: adv_train
+22:27:20.71 | INFO | Lazy Con: OFF
+22:27:21.52 | INFO | Optimised - caller: adv_train
+22:27:21.54 | INFO | Lazy Con: OFF
+22:27:22.35 | INFO | Optimised - caller: adv_train
+22:27:22.37 | INFO | Lazy Con: OFF
+22:27:23.28 | INFO | Optimised - caller: adv_train
+22:27:23.30 | INFO | Lazy Con: OFF
+22:27:24.50 | INFO | Optimised - caller: adv_train
+22:27:24.52 | INFO | Lazy Con: OFF
+22:27:25.25 | INFO | Optimised - caller: adv_train
+22:27:25.27 | INFO | Lazy Con: OFF
+22:27:26.33 | INFO | Optimised - caller: adv_train
+22:27:26.35 | INFO | Lazy Con: OFF
+22:27:27.16 | INFO | Optimised - caller: adv_train
+22:27:27.18 | INFO | Lazy Con: OFF
+22:27:27.95 | INFO | Optimised - caller: adv_train
+22:27:27.97 | INFO | Lazy Con: OFF
+22:27:28.77 | INFO | Optimised - caller: adv_train
+22:27:28.79 | INFO | Lazy Con: OFF
+22:27:29.68 | INFO | Optimised - caller: adv_train
+22:27:29.70 | INFO | Lazy Con: OFF
+22:27:30.38 | INFO | Optimised - caller: adv_train
+22:27:30.39 | INFO | Lazy Con: OFF
+22:27:31.10 | INFO | Optimised - caller: adv_train
+22:27:31.12 | INFO | Lazy Con: OFF
+22:27:31.81 | INFO | Optimised - caller: adv_train
+22:27:31.83 | INFO | Lazy Con: OFF
+22:27:32.49 | INFO | Optimised - caller: adv_train
+22:27:32.51 | INFO | Lazy Con: OFF
+22:27:33.51 | INFO | Optimised - caller: adv_train
+22:27:33.53 | INFO | Lazy Con: OFF
+22:27:34.25 | INFO | Optimised - caller: adv_train
+22:27:34.27 | INFO | Lazy Con: OFF
+22:27:34.91 | INFO | Optimised - caller: adv_train
+22:27:34.93 | INFO | Lazy Con: OFF
+22:27:35.73 | INFO | Optimised - caller: adv_train
+22:27:35.75 | INFO | Lazy Con: OFF
+22:27:36.47 | INFO | Optimised - caller: adv_train
+22:27:36.48 | INFO | Lazy Con: OFF
+22:27:37.15 | INFO | Optimised - caller: adv_train
+22:27:37.16 | INFO | Lazy Con: OFF
+22:27:37.85 | INFO | Optimised - caller: adv_train
+22:27:37.87 | INFO | Lazy Con: OFF
+22:27:38.57 | INFO | Optimised - caller: adv_train
+22:27:38.59 | INFO | Lazy Con: OFF
+22:27:39.21 | INFO | Optimised - caller: adv_train
+22:27:39.23 | INFO | Lazy Con: OFF
+22:27:39.83 | INFO | Optimised - caller: adv_train
+22:27:39.85 | INFO | Lazy Con: OFF
+22:27:40.59 | INFO | Optimised - caller: adv_train
+22:27:40.61 | INFO | Lazy Con: OFF
+22:27:41.39 | INFO | Optimised - caller: adv_train
+22:27:41.41 | INFO | Lazy Con: OFF
+22:27:42.04 | INFO | Optimised - caller: adv_train
+22:27:42.06 | INFO | Lazy Con: OFF
+22:27:43.03 | INFO | Optimised - caller: adv_train
+22:27:43.06 | INFO | Lazy Con: OFF
+22:27:43.69 | INFO | Optimised - caller: adv_train
+22:27:43.71 | INFO | Lazy Con: OFF
+22:27:44.55 | INFO | Optimised - caller: adv_train
+22:27:44.57 | INFO | Lazy Con: OFF
+22:27:45.65 | INFO | Optimised - caller: adv_train
+22:27:45.67 | INFO | Lazy Con: OFF
+22:27:46.61 | INFO | Optimised - caller: adv_train
+22:27:46.63 | INFO | Lazy Con: OFF
+22:27:47.65 | INFO | Optimised - caller: adv_train
+22:27:47.67 | INFO | Lazy Con: OFF
+22:27:48.40 | INFO | Optimised - caller: adv_train
+22:27:48.42 | INFO | Lazy Con: OFF
+22:27:49.15 | INFO | Optimised - caller: adv_train
+22:27:49.17 | INFO | Lazy Con: OFF
+22:27:50.05 | INFO | Optimised - caller: adv_train
+22:27:50.07 | INFO | Lazy Con: OFF
+22:27:50.72 | INFO | Optimised - caller: adv_train
+22:27:50.74 | INFO | Lazy Con: OFF
+22:27:51.45 | INFO | Optimised - caller: adv_train
+22:27:51.46 | INFO | Lazy Con: OFF
+22:27:52.24 | INFO | Optimised - caller: adv_train
+22:27:52.25 | INFO | Lazy Con: OFF
+22:27:52.91 | INFO | Optimised - caller: adv_train
+22:27:52.93 | INFO | Lazy Con: OFF
+22:27:54.00 | INFO | Optimised - caller: adv_train
+22:27:54.02 | INFO | Lazy Con: OFF
+22:27:54.92 | INFO | Optimised - caller: adv_train
+22:27:54.94 | INFO | Lazy Con: OFF
+22:27:55.82 | INFO | Optimised - caller: adv_train
+22:27:55.84 | INFO | Lazy Con: OFF
+22:27:56.93 | INFO | Optimised - caller: adv_train
+22:27:56.95 | INFO | Lazy Con: OFF
+22:27:57.75 | INFO | Optimised - caller: adv_train
+22:27:57.77 | INFO | Lazy Con: OFF
+22:27:58.56 | INFO | Optimised - caller: adv_train
+22:27:58.58 | INFO | Lazy Con: OFF
+22:27:59.64 | INFO | Optimised - caller: adv_train
+22:27:59.65 | INFO | Lazy Con: OFF
+22:28:00.43 | INFO | Optimised - caller: adv_train
+22:28:00.45 | INFO | Lazy Con: OFF
+22:28:01.49 | INFO | Optimised - caller: adv_train
+22:28:01.51 | INFO | Lazy Con: OFF
+22:28:02.19 | INFO | Optimised - caller: adv_train
+22:28:02.21 | INFO | Lazy Con: OFF
+22:28:03.10 | INFO | Optimised - caller: adv_train
+22:28:03.12 | INFO | Lazy Con: OFF
+22:28:03.96 | INFO | Optimised - caller: adv_train
+22:28:03.98 | INFO | Lazy Con: OFF
+22:28:04.79 | INFO | Optimised - caller: adv_train
+22:28:04.81 | INFO | Lazy Con: OFF
+22:28:10.13 | INFO | Optimised - caller: adv_train
+22:28:10.15 | INFO | Lazy Con: OFF
+22:28:11.14 | INFO | Optimised - caller: adv_train
+22:28:11.18 | INFO | Lazy Con: OFF
+22:28:12.38 | INFO | Optimised - caller: adv_train
+22:28:12.40 | INFO | Lazy Con: OFF
+22:28:13.32 | INFO | Optimised - caller: adv_train
+22:28:13.34 | INFO | Lazy Con: OFF
+22:28:14.38 | INFO | Optimised - caller: adv_train
+22:28:14.40 | INFO | Lazy Con: OFF
+22:28:15.82 | INFO | Optimised - caller: adv_train
+22:28:15.84 | INFO | Lazy Con: OFF
+22:28:17.27 | INFO | Optimised - caller: adv_train
+22:28:17.30 | INFO | Lazy Con: OFF
+22:28:18.26 | INFO | Optimised - caller: adv_train
+22:28:18.30 | INFO | Lazy Con: OFF
+22:28:19.40 | INFO | Optimised - caller: adv_train
+22:28:19.42 | INFO | Lazy Con: OFF
+22:28:20.80 | INFO | Optimised - caller: adv_train
+22:28:20.82 | INFO | Lazy Con: OFF
+22:28:21.76 | INFO | Optimised - caller: adv_train
+22:28:21.78 | INFO | Lazy Con: OFF
+22:28:22.73 | INFO | Optimised - caller: adv_train
+22:28:22.76 | INFO | Lazy Con: OFF
+22:28:24.49 | INFO | Optimised - caller: adv_train
+22:28:24.51 | INFO | Lazy Con: OFF
+22:28:26.58 | INFO | Optimised - caller: adv_train
+22:28:26.61 | INFO | Lazy Con: OFF
+22:28:28.00 | INFO | Optimised - caller: adv_train
+22:28:28.02 | INFO | Lazy Con: OFF
+22:28:29.25 | INFO | Optimised - caller: adv_train
+22:28:29.28 | INFO | Lazy Con: OFF
+22:28:30.38 | INFO | Optimised - caller: adv_train
+22:28:30.40 | INFO | Lazy Con: OFF
+22:28:31.41 | INFO | Optimised - caller: adv_train
+22:28:31.43 | INFO | Lazy Con: OFF
+22:28:32.69 | INFO | Optimised - caller: adv_train
+22:28:32.72 | INFO | Lazy Con: OFF
+22:28:33.93 | INFO | Optimised - caller: adv_train
+22:28:33.96 | INFO | Lazy Con: OFF
+22:28:35.40 | INFO | Optimised - caller: adv_train
+22:28:35.43 | INFO | Lazy Con: OFF
+22:28:36.36 | INFO | Optimised - caller: adv_train
+22:28:36.38 | INFO | Lazy Con: OFF
+22:28:37.41 | INFO | Optimised - caller: adv_train
+22:28:37.43 | INFO | Lazy Con: OFF
+22:28:38.32 | INFO | Optimised - caller: adv_train
+22:28:38.34 | INFO | Lazy Con: OFF
+22:28:39.13 | INFO | Optimised - caller: adv_train
+22:28:39.15 | INFO | Lazy Con: OFF
+22:28:41.75 | INFO | Optimised - caller: adv_train
+22:28:41.78 | INFO | Lazy Con: OFF
+22:28:42.58 | INFO | Optimised - caller: adv_train
+22:28:42.61 | INFO | Lazy Con: OFF
+22:28:43.36 | INFO | Optimised - caller: adv_train
+22:28:43.38 | INFO | Lazy Con: OFF
+22:28:44.55 | INFO | Optimised - caller: adv_train
+22:28:44.57 | INFO | Lazy Con: OFF
+22:28:46.46 | INFO | Optimised - caller: adv_train
+22:28:46.48 | INFO | Lazy Con: OFF
+22:28:47.38 | INFO | Optimised - caller: adv_train
+22:28:47.41 | INFO | Lazy Con: OFF
+22:28:48.47 | INFO | Optimised - caller: adv_train
+22:28:48.49 | INFO | Lazy Con: OFF
+22:28:49.47 | INFO | Optimised - caller: adv_train
+22:28:49.49 | INFO | Lazy Con: OFF
+22:28:50.42 | INFO | Optimised - caller: adv_train
+22:28:50.44 | INFO | Lazy Con: OFF
+22:28:52.22 | INFO | Optimised - caller: adv_train
+22:28:52.24 | INFO | Lazy Con: OFF
+22:28:53.09 | INFO | Optimised - caller: adv_train
+22:28:53.11 | INFO | Lazy Con: OFF
+22:28:54.18 | INFO | Optimised - caller: adv_train
+22:28:54.20 | INFO | Lazy Con: OFF
+22:28:54.95 | INFO | Optimised - caller: adv_train
+22:28:54.97 | INFO | Lazy Con: OFF
+22:28:55.85 | INFO | Optimised - caller: adv_train
+22:28:55.87 | INFO | Lazy Con: OFF
+22:28:56.79 | INFO | Optimised - caller: adv_train
+22:28:56.81 | INFO | Lazy Con: OFF
+22:28:57.71 | INFO | Optimised - caller: adv_train
+22:28:57.73 | INFO | Lazy Con: OFF
+22:28:58.67 | INFO | Optimised - caller: adv_train
+22:28:58.69 | INFO | Lazy Con: OFF
+22:29:00.27 | INFO | Optimised - caller: adv_train
+22:29:00.29 | INFO | Lazy Con: OFF
+22:29:01.12 | INFO | Optimised - caller: adv_train
+22:29:01.14 | INFO | Lazy Con: OFF
+22:29:02.23 | INFO | Optimised - caller: adv_train
+22:29:02.26 | INFO | Lazy Con: OFF
+22:29:04.78 | INFO | Optimised - caller: adv_train
+22:29:04.80 | INFO | Lazy Con: OFF
+22:29:06.03 | INFO | Optimised - caller: adv_train
+22:29:06.05 | INFO | Lazy Con: OFF
+22:29:08.07 | INFO | Optimised - caller: adv_train
+22:29:08.09 | INFO | Lazy Con: OFF
+22:29:09.65 | INFO | Optimised - caller: adv_train
+22:29:09.67 | INFO | Lazy Con: OFF
+22:29:10.54 | INFO | Optimised - caller: adv_train
+22:29:10.56 | INFO | Lazy Con: OFF
+22:29:11.51 | INFO | Optimised - caller: adv_train
+22:29:11.53 | INFO | Lazy Con: OFF
+22:29:12.39 | INFO | Optimised - caller: adv_train
+22:29:12.42 | INFO | Lazy Con: OFF
+22:29:13.32 | INFO | Optimised - caller: adv_train
+22:29:13.33 | INFO | Lazy Con: OFF
+22:29:15.58 | INFO | Optimised - caller: adv_train
+22:29:15.60 | INFO | Lazy Con: OFF
+22:29:16.63 | INFO | Optimised - caller: adv_train
+22:29:16.65 | INFO | Lazy Con: OFF
+22:29:17.64 | INFO | Optimised - caller: adv_train
+22:29:17.66 | INFO | Lazy Con: OFF
+22:29:18.45 | INFO | Optimised - caller: adv_train
+22:29:18.47 | INFO | Lazy Con: OFF
+22:29:19.67 | INFO | Optimised - caller: adv_train
+22:29:19.69 | INFO | Lazy Con: OFF
+22:29:20.61 | INFO | Optimised - caller: adv_train
+22:29:20.63 | INFO | Lazy Con: OFF
+22:29:21.56 | INFO | Optimised - caller: adv_train
+22:29:21.58 | INFO | Lazy Con: OFF
+22:29:24.73 | INFO | Optimised - caller: adv_train
+22:29:24.75 | INFO | Lazy Con: OFF
+22:29:25.74 | INFO | Optimised - caller: adv_train
+22:29:25.76 | INFO | Lazy Con: OFF
+22:29:27.33 | INFO | Optimised - caller: adv_train
+22:29:27.34 | INFO | Lazy Con: OFF
+22:29:28.55 | INFO | Optimised - caller: adv_train
+22:29:28.57 | INFO | Lazy Con: OFF
+22:29:29.85 | INFO | Optimised - caller: adv_train
+22:29:29.87 | INFO | Lazy Con: OFF
+22:29:31.02 | INFO | Optimised - caller: adv_train
+22:29:31.04 | INFO | Lazy Con: OFF
+22:29:32.43 | INFO | Optimised - caller: adv_train
+22:29:32.45 | INFO | Lazy Con: OFF
+22:29:34.03 | INFO | Optimised - caller: adv_train
+22:29:34.05 | INFO | Lazy Con: OFF
+22:29:35.21 | INFO | Optimised - caller: adv_train
+22:29:35.23 | INFO | Lazy Con: OFF
+22:29:36.42 | INFO | Optimised - caller: adv_train
+22:29:36.44 | INFO | Lazy Con: OFF
+22:29:37.78 | INFO | Optimised - caller: adv_train
+22:29:37.80 | INFO | Lazy Con: OFF
+22:29:38.90 | INFO | Optimised - caller: adv_train
+22:29:38.92 | INFO | Lazy Con: OFF
+22:29:40.02 | INFO | Optimised - caller: adv_train
+22:29:40.04 | INFO | Lazy Con: OFF
+22:29:41.54 | INFO | Optimised - caller: adv_train
+22:29:41.56 | INFO | Lazy Con: OFF
+22:29:42.74 | INFO | Optimised - caller: adv_train
+22:29:42.76 | INFO | Lazy Con: OFF
+22:29:44.11 | INFO | Optimised - caller: adv_train
+22:29:44.13 | INFO | Lazy Con: OFF
+22:29:45.23 | INFO | Optimised - caller: adv_train
+22:29:45.25 | INFO | Lazy Con: OFF
+22:29:46.52 | INFO | Optimised - caller: adv_train
+22:29:46.55 | INFO | Lazy Con: OFF
+22:29:47.78 | INFO | Optimised - caller: adv_train
+22:29:47.81 | INFO | Lazy Con: OFF
+22:29:50.11 | INFO | Optimised - caller: adv_train
+22:29:50.13 | INFO | Lazy Con: OFF
+22:29:51.22 | INFO | Optimised - caller: adv_train
+22:29:51.24 | INFO | Lazy Con: OFF
+22:29:52.05 | INFO | Optimised - caller: adv_train
+22:29:52.07 | INFO | Lazy Con: OFF
+22:29:53.14 | INFO | Optimised - caller: adv_train
+22:29:53.16 | INFO | Lazy Con: OFF
+22:29:54.05 | INFO | Optimised - caller: adv_train
+22:29:54.07 | INFO | Lazy Con: OFF
+22:29:55.00 | INFO | Optimised - caller: adv_train
+22:29:55.02 | INFO | Lazy Con: OFF
+22:29:55.90 | INFO | Optimised - caller: adv_train
+22:29:55.92 | INFO | Lazy Con: OFF
+22:29:56.69 | INFO | Optimised - caller: adv_train
+22:29:56.71 | INFO | Lazy Con: OFF
+22:29:57.47 | INFO | Optimised - caller: adv_train
+22:29:57.49 | INFO | Lazy Con: OFF
+22:29:58.70 | INFO | Optimised - caller: adv_train
+22:29:58.72 | INFO | Lazy Con: OFF
+22:29:59.55 | INFO | Optimised - caller: adv_train
+22:29:59.57 | INFO | Lazy Con: OFF
+22:30:00.59 | INFO | Optimised - caller: adv_train
+22:30:00.61 | INFO | Lazy Con: OFF
+22:30:01.56 | INFO | Optimised - caller: adv_train
+22:30:01.58 | INFO | Lazy Con: OFF
+22:30:02.48 | INFO | Optimised - caller: adv_train
+22:30:02.50 | INFO | Lazy Con: OFF
+22:30:03.45 | INFO | Optimised - caller: adv_train
+22:30:03.47 | INFO | Lazy Con: OFF
+22:30:04.40 | INFO | Optimised - caller: adv_train
+22:30:04.42 | INFO | Lazy Con: OFF
+22:30:07.05 | INFO | Optimised - caller: adv_train
+22:30:07.07 | INFO | Lazy Con: OFF
+22:30:08.09 | INFO | Optimised - caller: adv_train
+22:30:08.11 | INFO | Lazy Con: OFF
+22:30:09.09 | INFO | Optimised - caller: adv_train
+22:30:09.11 | INFO | Lazy Con: OFF
+22:30:10.00 | INFO | Optimised - caller: adv_train
+22:30:10.02 | INFO | Lazy Con: OFF
+22:30:10.81 | INFO | Optimised - caller: adv_train
+22:30:10.83 | INFO | Lazy Con: OFF
+22:30:11.79 | INFO | Optimised - caller: adv_train
+22:30:11.81 | INFO | Lazy Con: OFF
+22:30:13.15 | INFO | Optimised - caller: adv_train
+22:30:13.17 | INFO | Lazy Con: OFF
+22:30:14.46 | INFO | Optimised - caller: adv_train
+22:30:14.48 | INFO | Lazy Con: OFF
+22:30:15.53 | INFO | Optimised - caller: adv_train
+22:30:15.55 | INFO | Lazy Con: OFF
+22:30:16.38 | INFO | Optimised - caller: adv_train
+22:30:16.40 | INFO | Lazy Con: OFF
+22:30:17.54 | INFO | Optimised - caller: adv_train
+22:30:17.57 | INFO | Lazy Con: OFF
+22:30:18.76 | INFO | Optimised - caller: adv_train
+22:30:18.78 | INFO | Lazy Con: OFF
+22:30:19.85 | INFO | Optimised - caller: adv_train
+22:30:19.87 | INFO | Lazy Con: OFF
+22:30:21.20 | INFO | Optimised - caller: adv_train
+22:30:21.21 | INFO | Lazy Con: OFF
+22:30:22.03 | INFO | Optimised - caller: adv_train
+22:30:22.05 | INFO | Lazy Con: OFF
+22:30:23.67 | INFO | Optimised - caller: adv_train
+22:30:23.69 | INFO | Lazy Con: OFF
+22:30:24.63 | INFO | Optimised - caller: adv_train
+22:30:24.65 | INFO | Lazy Con: OFF
+22:30:25.54 | INFO | Optimised - caller: adv_train
+22:30:25.56 | INFO | Lazy Con: OFF
+22:30:26.52 | INFO | Optimised - caller: adv_train
+22:30:26.54 | INFO | Lazy Con: OFF
+22:30:27.45 | INFO | Optimised - caller: adv_train
+22:30:27.47 | INFO | Lazy Con: OFF
+22:30:28.42 | INFO | Optimised - caller: adv_train
+22:30:28.44 | INFO | Lazy Con: OFF
+22:30:29.30 | INFO | Optimised - caller: adv_train
+22:30:29.32 | INFO | Lazy Con: OFF
+22:30:30.48 | INFO | Optimised - caller: adv_train
+22:30:30.50 | INFO | Lazy Con: OFF
+22:30:31.44 | INFO | Optimised - caller: adv_train
+22:30:31.46 | INFO | Lazy Con: OFF
+22:30:33.18 | INFO | Optimised - caller: adv_train
+22:30:33.20 | INFO | Lazy Con: OFF
+22:30:33.96 | INFO | Optimised - caller: adv_train
+22:30:33.98 | INFO | Lazy Con: OFF
+22:30:34.76 | INFO | Optimised - caller: adv_train
+22:30:34.78 | INFO | Lazy Con: OFF
+22:30:36.65 | INFO | Optimised - caller: adv_train
+22:30:36.67 | INFO | Lazy Con: OFF
+22:30:37.58 | INFO | Optimised - caller: adv_train
+22:30:37.60 | INFO | Lazy Con: OFF
+22:30:38.72 | INFO | Optimised - caller: adv_train
+22:30:38.74 | INFO | Lazy Con: OFF
+22:30:39.73 | INFO | Optimised - caller: adv_train
+22:30:39.75 | INFO | Lazy Con: OFF
+22:30:41.48 | INFO | Optimised - caller: adv_train
+22:30:41.50 | INFO | Lazy Con: OFF
+22:30:42.61 | INFO | Optimised - caller: adv_train
+22:30:42.63 | INFO | Lazy Con: OFF
+22:30:43.51 | INFO | Optimised - caller: adv_train
+22:30:43.52 | INFO | Lazy Con: OFF
+22:30:44.70 | INFO | Optimised - caller: adv_train
+22:30:44.72 | INFO | Lazy Con: OFF
+22:30:45.90 | INFO | Optimised - caller: adv_train
+22:30:45.92 | INFO | Lazy Con: OFF
+22:30:47.18 | INFO | Optimised - caller: adv_train
+22:30:47.20 | INFO | Lazy Con: OFF
+22:30:48.17 | INFO | Optimised - caller: adv_train
+22:30:48.20 | INFO | Lazy Con: OFF
+22:30:49.16 | INFO | Optimised - caller: adv_train
+22:30:49.18 | INFO | Lazy Con: OFF
+22:30:50.33 | INFO | Optimised - caller: adv_train
+22:30:50.35 | INFO | Lazy Con: OFF
+22:30:51.38 | INFO | Optimised - caller: adv_train
+22:30:51.39 | INFO | Lazy Con: OFF
+22:30:52.16 | INFO | Optimised - caller: adv_train
+22:30:52.18 | INFO | Lazy Con: OFF
+22:30:53.10 | INFO | Optimised - caller: adv_train
+22:30:53.12 | INFO | Lazy Con: OFF
+22:30:54.05 | INFO | Optimised - caller: adv_train
+22:30:54.08 | INFO | Lazy Con: OFF
+22:30:54.93 | INFO | Optimised - caller: adv_train
+22:30:54.95 | INFO | Lazy Con: OFF
+22:30:56.15 | INFO | Optimised - caller: adv_train
+22:30:56.17 | INFO | Lazy Con: OFF
+22:30:57.25 | INFO | Optimised - caller: adv_train
+22:30:57.27 | INFO | Lazy Con: OFF
+22:30:58.40 | INFO | Optimised - caller: adv_train
+22:30:58.42 | INFO | Lazy Con: OFF
+22:30:59.22 | INFO | Optimised - caller: adv_train
+22:30:59.24 | INFO | Lazy Con: OFF
+22:31:00.44 | INFO | Optimised - caller: adv_train
+22:31:00.46 | INFO | Lazy Con: OFF
+22:31:01.61 | INFO | Optimised - caller: adv_train
+22:31:01.63 | INFO | Lazy Con: OFF
+22:31:02.88 | INFO | Optimised - caller: adv_train
+22:31:02.90 | INFO | Lazy Con: OFF
+22:31:03.93 | INFO | Optimised - caller: adv_train
+22:31:03.95 | INFO | Lazy Con: OFF
+22:31:04.79 | INFO | Optimised - caller: adv_train
+22:31:04.81 | INFO | Lazy Con: OFF
+22:31:05.64 | INFO | Optimised - caller: adv_train
+22:31:05.66 | INFO | Lazy Con: OFF
+22:31:07.12 | INFO | Optimised - caller: adv_train
+22:31:07.14 | INFO | Lazy Con: OFF
+22:31:08.13 | INFO | Optimised - caller: adv_train
+22:31:08.15 | INFO | Lazy Con: OFF
+22:31:09.15 | INFO | Optimised - caller: adv_train
+22:31:09.17 | INFO | Lazy Con: OFF
+22:31:10.21 | INFO | Optimised - caller: adv_train
+22:31:10.23 | INFO | Lazy Con: OFF
+22:31:11.17 | INFO | Optimised - caller: adv_train
+22:31:11.19 | INFO | Lazy Con: OFF
+22:31:12.14 | INFO | Optimised - caller: adv_train
+22:31:12.16 | INFO | Lazy Con: OFF
+22:31:13.80 | INFO | Optimised - caller: adv_train
+22:31:13.82 | INFO | Lazy Con: OFF
+22:31:14.75 | INFO | Optimised - caller: adv_train
+22:31:14.77 | INFO | Lazy Con: OFF
+22:31:16.47 | INFO | Optimised - caller: adv_train
+22:31:16.49 | INFO | Lazy Con: OFF
+22:31:17.39 | INFO | Optimised - caller: adv_train
+22:31:17.41 | INFO | Lazy Con: OFF
+22:31:18.46 | INFO | Optimised - caller: adv_train
+22:31:18.48 | INFO | Lazy Con: OFF
+22:31:19.91 | INFO | Optimised - caller: adv_train
+22:31:19.93 | INFO | Lazy Con: OFF
+22:31:21.06 | INFO | Optimised - caller: adv_train
+22:31:21.08 | INFO | Lazy Con: OFF
+22:31:22.48 | INFO | Optimised - caller: adv_train
+22:31:22.50 | INFO | Lazy Con: OFF
+22:31:24.42 | INFO | Optimised - caller: adv_train
+22:31:24.44 | INFO | Lazy Con: OFF
+22:31:26.21 | INFO | Optimised - caller: adv_train
+22:31:26.23 | INFO | Lazy Con: OFF
+22:31:27.03 | INFO | Optimised - caller: adv_train
+22:31:27.05 | INFO | Lazy Con: OFF
+22:31:28.29 | INFO | Optimised - caller: adv_train
+22:31:28.31 | INFO | Lazy Con: OFF
+22:31:29.29 | INFO | Optimised - caller: adv_train
+22:31:29.31 | INFO | Lazy Con: OFF
+22:31:30.40 | INFO | Optimised - caller: adv_train
+22:31:30.42 | INFO | Lazy Con: OFF
+22:31:31.31 | INFO | Optimised - caller: adv_train
+22:31:31.32 | INFO | Lazy Con: OFF
+22:31:32.94 | INFO | Optimised - caller: adv_train
+22:31:32.96 | INFO | Lazy Con: OFF
+22:31:33.90 | INFO | Optimised - caller: adv_train
+22:31:33.92 | INFO | Lazy Con: OFF
+22:31:34.91 | INFO | Optimised - caller: adv_train
+22:31:34.93 | INFO | Lazy Con: OFF
+22:31:35.84 | INFO | Optimised - caller: adv_train
+22:31:35.86 | INFO | Lazy Con: OFF
+22:31:36.83 | INFO | Optimised - caller: adv_train
+22:31:36.85 | INFO | Lazy Con: OFF
+22:31:37.85 | INFO | Optimised - caller: adv_train
+22:31:37.87 | INFO | Lazy Con: OFF
+22:31:38.78 | INFO | Optimised - caller: adv_train
+22:31:38.79 | INFO | Lazy Con: OFF
+22:31:39.97 | INFO | Optimised - caller: adv_train
+22:31:39.99 | INFO | Lazy Con: OFF
+22:31:41.11 | INFO | Optimised - caller: adv_train
+22:31:41.13 | INFO | Lazy Con: OFF
+22:31:42.15 | INFO | Optimised - caller: adv_train
+22:31:42.17 | INFO | Lazy Con: OFF
+22:31:43.31 | INFO | Optimised - caller: adv_train
+22:31:43.33 | INFO | Lazy Con: OFF
+22:31:44.42 | INFO | Optimised - caller: adv_train
+22:31:44.44 | INFO | Lazy Con: OFF
+22:31:45.42 | INFO | Optimised - caller: adv_train
+22:31:45.44 | INFO | Lazy Con: OFF
+22:31:47.37 | INFO | Optimised - caller: adv_train
+22:31:47.38 | INFO | Lazy Con: OFF
+22:31:48.37 | INFO | Optimised - caller: adv_train
+22:31:48.39 | INFO | Lazy Con: OFF
+22:31:49.82 | INFO | Optimised - caller: adv_train
+22:31:49.84 | INFO | Lazy Con: OFF
+22:31:51.63 | INFO | Optimised - caller: adv_train
+22:31:51.65 | INFO | Lazy Con: OFF
+22:31:52.66 | INFO | Optimised - caller: adv_train
+22:31:52.68 | INFO | Lazy Con: OFF
+22:31:53.87 | INFO | Optimised - caller: adv_train
+22:31:53.89 | INFO | Lazy Con: OFF
+22:31:56.59 | INFO | Optimised - caller: adv_train
+22:31:56.61 | INFO | Lazy Con: OFF
+22:31:59.53 | INFO | Optimised - caller: adv_train
+22:31:59.54 | INFO | Lazy Con: OFF
+22:32:00.56 | INFO | Optimised - caller: adv_train
+22:32:00.58 | INFO | Lazy Con: OFF
+22:32:01.70 | INFO | Optimised - caller: adv_train
+22:32:01.72 | INFO | Lazy Con: OFF
+22:32:02.79 | INFO | Optimised - caller: adv_train
+22:32:02.81 | INFO | Lazy Con: OFF
+22:32:03.91 | INFO | Optimised - caller: adv_train
+22:32:03.93 | INFO | Lazy Con: OFF
+22:32:05.37 | INFO | Optimised - caller: adv_train
+22:32:05.39 | INFO | Lazy Con: OFF
+22:32:06.45 | INFO | Optimised - caller: adv_train
+22:32:06.47 | INFO | Lazy Con: OFF
+22:32:08.55 | INFO | Optimised - caller: adv_train
+22:32:08.57 | INFO | Lazy Con: OFF
+22:32:09.71 | INFO | Optimised - caller: adv_train
+22:32:09.73 | INFO | Lazy Con: OFF
+22:32:11.51 | INFO | Optimised - caller: adv_train
+22:32:11.54 | INFO | Lazy Con: OFF
+22:32:13.33 | INFO | Optimised - caller: adv_train
+22:32:13.35 | INFO | Lazy Con: OFF
+22:32:14.46 | INFO | Optimised - caller: adv_train
+22:32:14.48 | INFO | Lazy Con: OFF
+22:32:18.72 | INFO | Optimised - caller: adv_train
+22:32:18.74 | INFO | Lazy Con: OFF
+22:32:20.19 | INFO | Optimised - caller: adv_train
+22:32:20.21 | INFO | Lazy Con: OFF
+22:32:21.98 | INFO | Optimised - caller: adv_train
+22:32:21.99 | INFO | Lazy Con: OFF
+22:32:25.11 | INFO | Optimised - caller: adv_train
+22:32:25.13 | INFO | Lazy Con: OFF
+22:32:26.26 | INFO | Optimised - caller: adv_train
+22:32:26.28 | INFO | Lazy Con: OFF
+22:32:27.54 | INFO | Optimised - caller: adv_train
+22:32:27.56 | INFO | Lazy Con: OFF
+22:32:28.86 | INFO | Optimised - caller: adv_train
+22:32:28.87 | INFO | Lazy Con: OFF
+22:32:31.13 | INFO | Optimised - caller: adv_train
+22:32:31.15 | INFO | Lazy Con: OFF
+22:32:32.78 | INFO | Optimised - caller: adv_train
+22:32:32.80 | INFO | Lazy Con: OFF
+22:32:34.83 | INFO | Optimised - caller: adv_train
+22:32:34.85 | INFO | Lazy Con: OFF
+22:32:36.07 | INFO | Optimised - caller: adv_train
+22:32:36.09 | INFO | Lazy Con: OFF
+22:32:37.01 | INFO | Optimised - caller: adv_train
+22:32:37.02 | INFO | Lazy Con: OFF
+22:32:38.26 | INFO | Optimised - caller: adv_train
+22:32:38.28 | INFO | Lazy Con: OFF
+22:32:40.52 | INFO | Optimised - caller: adv_train
+22:32:40.54 | INFO | Lazy Con: OFF
+22:32:41.76 | INFO | Optimised - caller: adv_train
+22:32:41.78 | INFO | Lazy Con: OFF
+22:32:42.89 | INFO | Optimised - caller: adv_train
+22:32:42.91 | INFO | Lazy Con: OFF
+22:32:44.93 | INFO | Optimised - caller: adv_train
+22:32:44.95 | INFO | Lazy Con: OFF
+22:32:46.06 | INFO | Optimised - caller: adv_train
+22:32:46.08 | INFO | Lazy Con: OFF
+22:32:47.40 | INFO | Optimised - caller: adv_train
+22:32:47.42 | INFO | Lazy Con: OFF
+22:32:48.75 | INFO | Optimised - caller: adv_train
+22:32:48.77 | INFO | Lazy Con: OFF
+22:32:50.62 | INFO | Optimised - caller: adv_train
+22:32:50.64 | INFO | Lazy Con: OFF
+22:32:51.67 | INFO | Optimised - caller: adv_train
+22:32:51.69 | INFO | Lazy Con: OFF
+22:32:53.72 | INFO | Optimised - caller: adv_train
+22:32:53.74 | INFO | Lazy Con: OFF
+22:32:55.13 | INFO | Optimised - caller: adv_train
+22:32:55.15 | INFO | Lazy Con: OFF
+22:32:56.99 | INFO | Optimised - caller: adv_train
+22:32:57.01 | INFO | Lazy Con: OFF
+22:32:58.54 | INFO | Optimised - caller: adv_train
+22:32:58.56 | INFO | Lazy Con: OFF
+22:32:59.72 | INFO | Optimised - caller: adv_train
+22:32:59.74 | INFO | Lazy Con: OFF
+22:33:01.30 | INFO | Optimised - caller: adv_train
+22:33:01.32 | INFO | Lazy Con: OFF
+22:33:03.10 | INFO | Optimised - caller: adv_train
+22:33:03.12 | INFO | Lazy Con: OFF
+22:33:04.36 | INFO | Optimised - caller: adv_train
+22:33:04.39 | INFO | Lazy Con: OFF
+22:33:05.81 | INFO | Optimised - caller: adv_train
+22:33:05.83 | INFO | Lazy Con: OFF
+22:33:07.38 | INFO | Optimised - caller: adv_train
+22:33:07.40 | INFO | Lazy Con: OFF
+22:33:10.56 | INFO | Optimised - caller: adv_train
+22:33:10.58 | INFO | Lazy Con: OFF
+22:33:13.19 | INFO | Optimised - caller: adv_train
+22:33:13.21 | INFO | Lazy Con: OFF
+22:33:15.35 | INFO | Optimised - caller: adv_train
+22:33:15.37 | INFO | Lazy Con: OFF
+22:33:16.43 | INFO | Optimised - caller: adv_train
+22:33:16.45 | INFO | Lazy Con: OFF
+22:33:17.68 | INFO | Optimised - caller: adv_train
+22:33:17.70 | INFO | Lazy Con: OFF
+22:33:19.12 | INFO | Optimised - caller: adv_train
+22:33:19.14 | INFO | Lazy Con: OFF
+22:33:21.09 | INFO | Optimised - caller: adv_train
+22:33:21.11 | INFO | Lazy Con: OFF
+22:33:22.92 | INFO | Optimised - caller: adv_train
+22:33:22.93 | INFO | Lazy Con: OFF
+22:33:25.23 | INFO | Optimised - caller: adv_train
+22:33:25.25 | INFO | Lazy Con: OFF
+22:33:26.64 | INFO | Optimised - caller: adv_train
+22:33:26.67 | INFO | Lazy Con: OFF
+22:33:27.90 | INFO | Optimised - caller: adv_train
+22:33:27.92 | INFO | Lazy Con: OFF
+22:33:29.42 | INFO | Optimised - caller: adv_train
+22:33:29.44 | INFO | Lazy Con: OFF
+22:33:31.96 | INFO | Optimised - caller: adv_train
+22:33:31.98 | INFO | Lazy Con: OFF
+22:33:33.32 | INFO | Optimised - caller: adv_train
+22:33:33.34 | INFO | Lazy Con: OFF
+22:33:34.49 | INFO | Optimised - caller: adv_train
+22:33:34.51 | INFO | Lazy Con: OFF
+22:33:35.70 | INFO | Optimised - caller: adv_train
+22:33:35.73 | INFO | Lazy Con: OFF
+22:33:36.69 | INFO | Optimised - caller: adv_train
+22:33:36.71 | INFO | Lazy Con: OFF
+22:33:37.82 | INFO | Optimised - caller: adv_train
+22:33:37.84 | INFO | Lazy Con: OFF
+22:33:39.25 | INFO | Optimised - caller: adv_train
+22:33:39.27 | INFO | Lazy Con: OFF
+22:33:41.95 | INFO | Optimised - caller: adv_train
+22:33:41.97 | INFO | Lazy Con: OFF
+22:33:43.16 | INFO | Optimised - caller: adv_train
+22:33:43.18 | INFO | Lazy Con: OFF
+22:33:44.45 | INFO | Optimised - caller: adv_train
+22:33:44.47 | INFO | Lazy Con: OFF
+22:33:46.74 | INFO | Optimised - caller: adv_train
+22:33:46.75 | INFO | Lazy Con: OFF
+22:33:47.94 | INFO | Optimised - caller: adv_train
+22:33:47.96 | INFO | Lazy Con: OFF
+22:33:49.25 | INFO | Optimised - caller: adv_train
+22:33:49.27 | INFO | Lazy Con: OFF
+22:33:51.70 | INFO | Optimised - caller: adv_train
+22:33:51.72 | INFO | Lazy Con: OFF
+22:33:53.29 | INFO | Optimised - caller: adv_train
+22:33:53.31 | INFO | Lazy Con: OFF
+22:33:55.00 | INFO | Optimised - caller: adv_train
+22:33:55.02 | INFO | Lazy Con: OFF
+22:33:57.41 | INFO | Optimised - caller: adv_train
+22:33:57.43 | INFO | Lazy Con: OFF
+22:33:59.60 | INFO | Optimised - caller: adv_train
+22:33:59.62 | INFO | Lazy Con: OFF
+22:34:01.22 | INFO | Optimised - caller: adv_train
+22:34:01.24 | INFO | Lazy Con: OFF
+22:34:02.58 | INFO | Optimised - caller: adv_train
+22:34:02.60 | INFO | Lazy Con: OFF
+22:34:04.13 | INFO | Optimised - caller: adv_train
+22:34:04.15 | INFO | Lazy Con: OFF
+22:34:07.46 | INFO | Optimised - caller: adv_train
+22:34:07.48 | INFO | Lazy Con: OFF
+22:34:08.72 | INFO | Optimised - caller: adv_train
+22:34:08.74 | INFO | Lazy Con: OFF
+22:34:14.15 | INFO | Optimised - caller: adv_train
+22:34:14.17 | INFO | Lazy Con: OFF
+22:34:15.47 | INFO | Optimised - caller: adv_train
+22:34:15.49 | INFO | Lazy Con: OFF
+22:34:17.24 | INFO | Optimised - caller: adv_train
+22:34:17.26 | INFO | Lazy Con: OFF
+22:34:18.62 | INFO | Optimised - caller: adv_train
+22:34:18.64 | INFO | Lazy Con: OFF
+22:34:23.75 | INFO | Optimised - caller: adv_train
+22:34:23.77 | INFO | Lazy Con: OFF
+22:34:27.09 | INFO | Optimised - caller: adv_train
+22:34:27.11 | INFO | Lazy Con: OFF
+22:34:33.70 | INFO | Optimised - caller: adv_train
+22:34:33.72 | INFO | Lazy Con: OFF
+22:34:35.63 | INFO | Optimised - caller: adv_train
+22:34:35.65 | INFO | Lazy Con: OFF
+22:34:38.81 | INFO | Optimised - caller: adv_train
+22:34:38.84 | INFO | Lazy Con: OFF
+22:34:40.41 | INFO | Optimised - caller: adv_train
+22:34:40.68 | INFO | Lazy Con: OFF
+22:34:42.04 | INFO | Optimised - caller: adv_train
+22:34:42.10 | INFO | Lazy Con: OFF
+22:34:43.59 | INFO | Optimised - caller: adv_train
+22:34:43.61 | INFO | Lazy Con: OFF
+22:34:45.07 | INFO | Optimised - caller: adv_train
+22:34:45.09 | INFO | Lazy Con: OFF
+22:34:48.77 | INFO | Optimised - caller: adv_train
+22:34:48.83 | INFO | Lazy Con: OFF
+22:34:51.00 | INFO | Optimised - caller: adv_train
+22:34:51.05 | INFO | Lazy Con: OFF
+22:34:52.60 | INFO | Optimised - caller: adv_train
+22:34:52.62 | INFO | Lazy Con: OFF
+22:34:54.28 | INFO | Optimised - caller: adv_train
+22:34:54.30 | INFO | Lazy Con: OFF
+22:34:58.04 | INFO | Optimised - caller: adv_train
+22:34:58.06 | INFO | Lazy Con: OFF
+22:35:00.41 | INFO | Optimised - caller: adv_train
+22:35:00.43 | INFO | Lazy Con: OFF
+22:35:02.25 | INFO | Optimised - caller: adv_train
+22:35:02.27 | INFO | Lazy Con: OFF
+22:35:03.96 | INFO | Optimised - caller: adv_train
+22:35:03.99 | INFO | Lazy Con: OFF
+22:35:05.39 | INFO | Optimised - caller: adv_train
+22:35:05.41 | INFO | Lazy Con: OFF
+22:35:07.25 | INFO | Optimised - caller: adv_train
+22:35:07.28 | INFO | Lazy Con: OFF
+22:35:09.40 | INFO | Optimised - caller: adv_train
+22:35:09.42 | INFO | Lazy Con: OFF
+22:35:11.24 | INFO | Optimised - caller: adv_train
+22:35:11.26 | INFO | Lazy Con: OFF
+22:35:15.35 | INFO | Optimised - caller: adv_train
+22:35:15.37 | INFO | Lazy Con: OFF
+22:35:18.99 | INFO | Optimised - caller: adv_train
+22:35:19.01 | INFO | Lazy Con: OFF
+22:35:20.44 | INFO | Optimised - caller: adv_train
+22:35:20.46 | INFO | Lazy Con: OFF
+22:35:22.23 | INFO | Optimised - caller: adv_train
+22:35:22.25 | INFO | Lazy Con: OFF
+22:35:29.34 | INFO | Optimised - caller: adv_train
+22:35:29.36 | INFO | Lazy Con: OFF
+22:35:31.45 | INFO | Optimised - caller: adv_train
+22:35:31.46 | INFO | Lazy Con: OFF
+22:35:34.36 | INFO | Optimised - caller: adv_train
+22:35:34.38 | INFO | Lazy Con: OFF
+22:35:35.64 | INFO | Optimised - caller: adv_train
+22:35:35.66 | INFO | Lazy Con: OFF
+22:35:37.53 | INFO | Optimised - caller: adv_train
+22:35:37.55 | INFO | Lazy Con: OFF
+22:35:39.61 | INFO | Optimised - caller: adv_train
+22:35:39.63 | INFO | Lazy Con: OFF
+22:35:41.04 | INFO | Optimised - caller: adv_train
+22:35:41.06 | INFO | Lazy Con: OFF
+22:35:42.84 | INFO | Optimised - caller: adv_train
+22:35:42.86 | INFO | Lazy Con: OFF
+22:35:46.27 | INFO | Optimised - caller: adv_train
+22:35:46.29 | INFO | Lazy Con: OFF
+22:35:50.19 | INFO | Optimised - caller: adv_train
+22:35:50.21 | INFO | Lazy Con: OFF
+22:35:51.54 | INFO | Optimised - caller: adv_train
+22:35:51.56 | INFO | Lazy Con: OFF
+22:35:55.81 | INFO | Optimised - caller: adv_train
+22:35:55.84 | INFO | Lazy Con: OFF
+22:35:57.20 | INFO | Optimised - caller: adv_train
+22:35:57.22 | INFO | Lazy Con: OFF
+22:36:00.31 | INFO | Optimised - caller: adv_train
+22:36:00.33 | INFO | Lazy Con: OFF
+22:36:02.29 | INFO | Optimised - caller: adv_train
+22:36:02.30 | INFO | Lazy Con: OFF
+22:36:03.69 | INFO | Optimised - caller: adv_train
+22:36:03.71 | INFO | Lazy Con: OFF
+22:36:05.06 | INFO | Optimised - caller: adv_train
+22:36:05.08 | INFO | Lazy Con: OFF
+22:36:07.91 | INFO | Optimised - caller: adv_train
+22:36:07.93 | INFO | Lazy Con: OFF
+22:36:09.42 | INFO | Optimised - caller: adv_train
+22:36:09.44 | INFO | Lazy Con: OFF
+22:36:11.86 | INFO | Optimised - caller: adv_train
+22:36:11.88 | INFO | Lazy Con: OFF
+22:36:13.44 | INFO | Optimised - caller: adv_train
+22:36:13.47 | INFO | Lazy Con: OFF
+22:36:14.92 | INFO | Optimised - caller: adv_train
+22:36:14.94 | INFO | Lazy Con: OFF
+22:36:18.94 | INFO | Optimised - caller: adv_train
+22:36:18.96 | INFO | Lazy Con: OFF
+22:36:20.47 | INFO | Optimised - caller: adv_train
+22:36:20.49 | INFO | Lazy Con: OFF
+22:36:21.90 | INFO | Optimised - caller: adv_train
+22:36:21.92 | INFO | Lazy Con: OFF
+22:36:24.33 | INFO | Optimised - caller: adv_train
+22:36:24.35 | INFO | Lazy Con: OFF
+22:36:26.07 | INFO | Optimised - caller: adv_train
+22:36:26.09 | INFO | Lazy Con: OFF
+22:36:29.73 | INFO | Optimised - caller: adv_train
+22:36:29.75 | INFO | Lazy Con: OFF
+22:36:32.38 | INFO | Optimised - caller: adv_train
+22:36:32.40 | INFO | Lazy Con: OFF
+22:36:33.76 | INFO | Optimised - caller: adv_train
+22:36:33.78 | INFO | Lazy Con: OFF
+22:36:35.04 | INFO | Optimised - caller: adv_train
+22:36:35.06 | INFO | Lazy Con: OFF
+22:36:36.37 | INFO | Optimised - caller: adv_train
+22:36:36.39 | INFO | Lazy Con: OFF
+22:36:38.48 | INFO | Optimised - caller: adv_train
+22:36:38.50 | INFO | Lazy Con: OFF
+22:36:40.63 | INFO | Optimised - caller: adv_train
+22:36:40.65 | INFO | Lazy Con: OFF
+22:36:42.29 | INFO | Optimised - caller: adv_train
+22:36:42.32 | INFO | Lazy Con: OFF
+22:36:43.65 | INFO | Optimised - caller: adv_train
+22:36:43.67 | INFO | Lazy Con: OFF
+22:36:45.13 | INFO | Optimised - caller: adv_train
+22:36:45.15 | INFO | Lazy Con: OFF
+22:36:47.69 | INFO | Optimised - caller: adv_train
+22:36:47.71 | INFO | Lazy Con: OFF
+22:36:50.83 | INFO | Optimised - caller: adv_train
+22:36:50.85 | INFO | Lazy Con: OFF
+22:36:52.34 | INFO | Optimised - caller: adv_train
+22:36:52.36 | INFO | Lazy Con: OFF
+22:36:54.33 | INFO | Optimised - caller: adv_train
+22:36:54.35 | INFO | Lazy Con: OFF
+22:36:55.81 | INFO | Optimised - caller: adv_train
+22:36:55.83 | INFO | Lazy Con: OFF
+22:36:57.21 | INFO | Optimised - caller: adv_train
+22:36:57.23 | INFO | Lazy Con: OFF
+22:36:58.54 | INFO | Optimised - caller: adv_train
+22:36:58.56 | INFO | Lazy Con: OFF
+22:36:59.84 | INFO | Optimised - caller: adv_train
+22:36:59.86 | INFO | Lazy Con: OFF
+22:37:01.14 | INFO | Optimised - caller: adv_train
+22:37:01.16 | INFO | Lazy Con: OFF
+22:37:03.41 | INFO | Optimised - caller: adv_train
+22:37:03.43 | INFO | Lazy Con: OFF
+22:37:05.73 | INFO | Optimised - caller: adv_train
+22:37:05.75 | INFO | Lazy Con: OFF
+22:37:07.96 | INFO | Optimised - caller: adv_train
+22:37:07.98 | INFO | Lazy Con: OFF
+22:37:10.04 | INFO | Optimised - caller: adv_train
+22:37:10.06 | INFO | Lazy Con: OFF
+22:37:13.35 | INFO | Optimised - caller: adv_train
+22:37:13.38 | INFO | Lazy Con: OFF
+22:37:14.74 | INFO | Optimised - caller: adv_train
+22:37:14.76 | INFO | Lazy Con: OFF
+22:37:16.61 | INFO | Optimised - caller: adv_train
+22:37:16.63 | INFO | Lazy Con: OFF
+22:37:18.65 | INFO | Optimised - caller: adv_train
+22:37:18.67 | INFO | Lazy Con: OFF
+22:37:20.13 | INFO | Optimised - caller: adv_train
+22:37:20.15 | INFO | Lazy Con: OFF
+22:37:21.42 | INFO | Optimised - caller: adv_train
+22:37:21.44 | INFO | Lazy Con: OFF
+22:37:22.86 | INFO | Optimised - caller: adv_train
+22:37:22.88 | INFO | Lazy Con: OFF
+22:37:24.18 | INFO | Optimised - caller: adv_train
+22:37:24.20 | INFO | Lazy Con: OFF
+22:37:25.56 | INFO | Optimised - caller: adv_train
+22:37:25.58 | INFO | Lazy Con: OFF
+22:37:29.12 | INFO | Optimised - caller: adv_train
+22:37:29.14 | INFO | Lazy Con: OFF
+22:37:31.96 | INFO | Optimised - caller: adv_train
+22:37:31.98 | INFO | Lazy Con: OFF
+22:37:35.06 | INFO | Optimised - caller: adv_train
+22:37:35.08 | INFO | Lazy Con: OFF
+22:37:37.03 | INFO | Optimised - caller: adv_train
+22:37:37.05 | INFO | Lazy Con: OFF
+22:37:38.79 | INFO | Optimised - caller: adv_train
+22:37:38.81 | INFO | Lazy Con: OFF
+22:37:41.65 | INFO | Optimised - caller: adv_train
+22:37:41.67 | INFO | Lazy Con: OFF
+22:37:44.08 | INFO | Optimised - caller: adv_train
+22:37:44.10 | INFO | Lazy Con: OFF
+22:37:47.81 | INFO | Optimised - caller: adv_train
+22:37:47.83 | INFO | Lazy Con: OFF
+22:37:49.71 | INFO | Optimised - caller: adv_train
+22:37:49.73 | INFO | Lazy Con: OFF
+22:37:51.50 | INFO | Optimised - caller: adv_train
+22:37:51.52 | INFO | Lazy Con: OFF
+22:37:52.87 | INFO | Optimised - caller: adv_train
+22:37:52.89 | INFO | Lazy Con: OFF
+22:37:54.20 | INFO | Optimised - caller: adv_train
+22:37:54.22 | INFO | Lazy Con: OFF
+22:37:58.86 | INFO | Optimised - caller: adv_train
+22:37:58.88 | INFO | Lazy Con: OFF
+22:38:00.19 | INFO | Optimised - caller: adv_train
+22:38:00.21 | INFO | Lazy Con: OFF
+22:38:01.41 | INFO | Optimised - caller: adv_train
+22:38:01.43 | INFO | Lazy Con: OFF
+22:38:03.83 | INFO | Optimised - caller: adv_train
+22:38:03.85 | INFO | Lazy Con: OFF
+22:38:05.13 | INFO | Optimised - caller: adv_train
+22:38:05.15 | INFO | Lazy Con: OFF
+22:38:08.51 | INFO | Optimised - caller: adv_train
+22:38:08.53 | INFO | Lazy Con: OFF
+22:38:09.89 | INFO | Optimised - caller: adv_train
+22:38:09.91 | INFO | Lazy Con: OFF
+22:38:11.09 | INFO | Optimised - caller: adv_train
+22:38:11.11 | INFO | Lazy Con: OFF
+22:38:12.36 | INFO | Optimised - caller: adv_train
+22:38:12.38 | INFO | Lazy Con: OFF
+22:38:13.92 | INFO | Optimised - caller: adv_train
+22:38:13.94 | INFO | Lazy Con: OFF
+22:38:15.83 | INFO | Optimised - caller: adv_train
+22:38:15.85 | INFO | Lazy Con: OFF
+22:38:17.12 | INFO | Optimised - caller: adv_train
+22:38:17.14 | INFO | Lazy Con: OFF
+22:38:19.01 | INFO | Optimised - caller: adv_train
+22:38:19.04 | INFO | Lazy Con: OFF
+22:38:20.32 | INFO | Optimised - caller: adv_train
+22:38:20.34 | INFO | Lazy Con: OFF
+22:38:22.00 | INFO | Optimised - caller: adv_train
+22:38:22.02 | INFO | Lazy Con: OFF
+22:38:23.51 | INFO | Optimised - caller: adv_train
+22:38:23.53 | INFO | Lazy Con: OFF
+22:38:25.01 | INFO | Optimised - caller: adv_train
+22:38:25.03 | INFO | Lazy Con: OFF
+22:38:26.63 | INFO | Optimised - caller: adv_train
+22:38:26.65 | INFO | Lazy Con: OFF
+22:38:31.02 | INFO | Optimised - caller: adv_train
+22:38:31.04 | INFO | Lazy Con: OFF
+22:38:34.05 | INFO | Optimised - caller: adv_train
+22:38:34.07 | INFO | Lazy Con: OFF
+22:38:35.31 | INFO | Optimised - caller: adv_train
+22:38:35.33 | INFO | Lazy Con: OFF
+22:38:36.65 | INFO | Optimised - caller: adv_train
+22:38:36.67 | INFO | Lazy Con: OFF
+22:38:40.97 | INFO | Optimised - caller: adv_train
+22:38:40.98 | INFO | Lazy Con: OFF
+22:38:43.65 | INFO | Optimised - caller: adv_train
+22:38:43.67 | INFO | Lazy Con: OFF
+22:38:46.73 | INFO | Optimised - caller: adv_train
+22:38:46.75 | INFO | Lazy Con: OFF
+22:38:50.14 | INFO | Optimised - caller: adv_train
+22:38:50.16 | INFO | Lazy Con: OFF
+22:38:51.50 | INFO | Optimised - caller: adv_train
+22:38:51.52 | INFO | Lazy Con: OFF
+22:38:54.35 | INFO | Optimised - caller: adv_train
+22:38:54.37 | INFO | Lazy Con: OFF
+22:38:55.91 | INFO | Optimised - caller: adv_train
+22:38:55.93 | INFO | Lazy Con: OFF
+22:38:57.99 | INFO | Optimised - caller: adv_train
+22:38:58.01 | INFO | Lazy Con: OFF
+22:38:59.40 | INFO | Optimised - caller: adv_train
+22:38:59.42 | INFO | Lazy Con: OFF
+22:39:01.64 | INFO | Optimised - caller: adv_train
+22:39:01.66 | INFO | Lazy Con: OFF
+22:39:03.18 | INFO | Optimised - caller: adv_train
+22:39:03.20 | INFO | Lazy Con: OFF
+22:39:04.64 | INFO | Optimised - caller: adv_train
+22:39:04.65 | INFO | Lazy Con: OFF
+22:39:06.05 | INFO | Optimised - caller: adv_train
+22:39:06.07 | INFO | Lazy Con: OFF
+22:39:07.36 | INFO | Optimised - caller: adv_train
+22:39:07.39 | INFO | Lazy Con: OFF
+22:39:09.09 | INFO | Optimised - caller: adv_train
+22:39:09.11 | INFO | Lazy Con: OFF
+22:39:10.47 | INFO | Optimised - caller: adv_train
+22:39:10.49 | INFO | Lazy Con: OFF
+22:39:11.87 | INFO | Optimised - caller: adv_train
+22:39:11.89 | INFO | Lazy Con: OFF
+22:39:13.23 | INFO | Optimised - caller: adv_train
+22:39:13.25 | INFO | Lazy Con: OFF
+22:39:15.94 | INFO | Optimised - caller: adv_train
+22:39:15.96 | INFO | Lazy Con: OFF
+22:39:17.34 | INFO | Optimised - caller: adv_train
+22:39:17.36 | INFO | Lazy Con: OFF
+22:39:20.07 | INFO | Optimised - caller: adv_train
+22:39:20.09 | INFO | Lazy Con: OFF
+22:39:22.78 | INFO | Optimised - caller: adv_train
+22:39:22.80 | INFO | Lazy Con: OFF
+22:39:26.19 | INFO | Optimised - caller: adv_train
+22:39:26.21 | INFO | Lazy Con: OFF
+22:39:28.17 | INFO | Optimised - caller: adv_train
+22:39:28.19 | INFO | Lazy Con: OFF
+22:39:30.71 | INFO | Optimised - caller: adv_train
+22:39:30.74 | INFO | Lazy Con: OFF
+22:39:31.88 | INFO | Optimised - caller: adv_train
+22:39:31.90 | INFO | Lazy Con: OFF
+22:39:33.41 | INFO | Optimised - caller: adv_train
+22:39:33.43 | INFO | Lazy Con: OFF
+22:39:34.90 | INFO | Optimised - caller: adv_train
+22:39:34.92 | INFO | Lazy Con: OFF
+22:39:36.76 | INFO | Optimised - caller: adv_train
+22:39:36.78 | INFO | Lazy Con: OFF
+22:39:38.38 | INFO | Optimised - caller: adv_train
+22:39:38.40 | INFO | Lazy Con: OFF
+22:39:40.21 | INFO | Optimised - caller: adv_train
+22:39:40.24 | INFO | Lazy Con: OFF
+22:39:41.65 | INFO | Optimised - caller: adv_train
+22:39:41.67 | INFO | Lazy Con: OFF
+22:39:43.05 | INFO | Optimised - caller: adv_train
+22:39:43.07 | INFO | Lazy Con: OFF
+22:39:45.51 | INFO | Optimised - caller: adv_train
+22:39:45.53 | INFO | Lazy Con: OFF
+22:39:46.88 | INFO | Optimised - caller: adv_train
+22:39:46.90 | INFO | Lazy Con: OFF
+22:39:48.27 | INFO | Optimised - caller: adv_train
+22:39:48.29 | INFO | Lazy Con: OFF
+22:39:49.91 | INFO | Optimised - caller: adv_train
+22:39:49.93 | INFO | Lazy Con: OFF
+22:39:51.24 | INFO | Optimised - caller: adv_train
+22:39:51.26 | INFO | Lazy Con: OFF
+22:39:52.52 | INFO | Optimised - caller: adv_train
+22:39:52.55 | INFO | Lazy Con: OFF
+22:39:54.03 | INFO | Optimised - caller: adv_train
+22:39:54.06 | INFO | Lazy Con: OFF
+22:39:55.90 | INFO | Optimised - caller: adv_train
+22:39:55.92 | INFO | Lazy Con: OFF
+22:39:57.58 | INFO | Optimised - caller: adv_train
+22:39:57.60 | INFO | Lazy Con: OFF
+22:40:00.91 | INFO | Optimised - caller: adv_train
+22:40:00.93 | INFO | Lazy Con: OFF
+22:40:03.34 | INFO | Optimised - caller: adv_train
+22:40:03.36 | INFO | Lazy Con: OFF
+22:40:04.56 | INFO | Optimised - caller: adv_train
+22:40:04.58 | INFO | Lazy Con: OFF
+22:40:05.70 | INFO | Optimised - caller: adv_train
+22:40:05.72 | INFO | Lazy Con: OFF
+22:40:07.06 | INFO | Optimised - caller: adv_train
+22:40:07.09 | INFO | Lazy Con: OFF
+22:40:10.15 | INFO | Optimised - caller: adv_train
+22:40:10.17 | INFO | Lazy Con: OFF
+22:40:12.66 | INFO | Optimised - caller: adv_train
+22:40:12.68 | INFO | Lazy Con: OFF
+22:40:16.12 | INFO | Optimised - caller: adv_train
+22:40:16.14 | INFO | Lazy Con: OFF
+22:40:17.65 | INFO | Optimised - caller: adv_train
+22:40:17.67 | INFO | Lazy Con: OFF
+22:40:19.02 | INFO | Optimised - caller: adv_train
+22:40:19.04 | INFO | Lazy Con: OFF
+22:40:20.57 | INFO | Optimised - caller: adv_train
+22:40:20.59 | INFO | Lazy Con: OFF
+22:40:22.74 | INFO | Optimised - caller: adv_train
+22:40:22.76 | INFO | Lazy Con: OFF
+22:40:25.56 | INFO | Optimised - caller: adv_train
+22:40:25.58 | INFO | Lazy Con: OFF
+22:40:30.17 | INFO | Optimised - caller: adv_train
+22:40:30.19 | INFO | Lazy Con: OFF
+22:40:32.60 | INFO | Optimised - caller: adv_train
+22:40:32.62 | INFO | Lazy Con: OFF
+22:40:35.26 | INFO | Optimised - caller: adv_train
+22:40:35.28 | INFO | Lazy Con: OFF
+22:40:37.47 | INFO | Optimised - caller: adv_train
+22:40:37.49 | INFO | Lazy Con: OFF
+22:40:40.85 | INFO | Optimised - caller: adv_train
+22:40:40.87 | INFO | Lazy Con: OFF
+22:40:42.43 | INFO | Optimised - caller: adv_train
+22:40:42.45 | INFO | Lazy Con: OFF
+22:40:44.14 | INFO | Optimised - caller: adv_train
+22:40:44.16 | INFO | Lazy Con: OFF
+22:40:46.04 | INFO | Optimised - caller: adv_train
+22:40:46.06 | INFO | Lazy Con: OFF
+22:40:50.32 | INFO | Optimised - caller: adv_train
+22:40:50.33 | INFO | Lazy Con: OFF
+22:40:51.25 | INFO | Optimised - caller: adv_train
+22:40:51.26 | INFO | Lazy Con: OFF
+22:40:52.75 | INFO | Optimised - caller: adv_train
+22:40:52.76 | INFO | Lazy Con: OFF
+22:40:53.99 | INFO | Optimised - caller: adv_train
+22:40:54.00 | INFO | Lazy Con: OFF
+22:40:56.35 | INFO | Optimised - caller: adv_train
+22:40:56.36 | INFO | Lazy Con: OFF
+22:40:57.13 | INFO | Optimised - caller: adv_train
+22:40:57.14 | INFO | Lazy Con: OFF
+22:40:58.28 | INFO | Optimised - caller: adv_train
+22:40:58.29 | INFO | Lazy Con: OFF
+22:40:59.24 | INFO | Optimised - caller: adv_train
+22:40:59.25 | INFO | Lazy Con: OFF
+22:41:00.87 | INFO | Optimised - caller: adv_train
+22:41:00.88 | INFO | Lazy Con: OFF
+22:41:01.84 | INFO | Optimised - caller: adv_train
+22:41:01.86 | INFO | Lazy Con: OFF
+22:41:02.67 | INFO | Optimised - caller: adv_train
+22:41:02.68 | INFO | Lazy Con: OFF
+22:41:03.62 | INFO | Optimised - caller: adv_train
+22:41:03.62 | INFO | Lazy Con: OFF
+22:41:04.67 | INFO | Optimised - caller: adv_train
+22:41:04.68 | INFO | Lazy Con: OFF
+22:41:05.44 | INFO | Optimised - caller: adv_train
+22:41:05.45 | INFO | Lazy Con: OFF
+22:41:06.24 | INFO | Optimised - caller: adv_train
+22:41:06.25 | INFO | Lazy Con: OFF
+22:41:07.31 | INFO | Optimised - caller: adv_train
+22:41:07.31 | INFO | Lazy Con: OFF
+22:41:08.08 | INFO | Optimised - caller: adv_train
+22:41:08.09 | INFO | Lazy Con: OFF
+22:41:08.91 | INFO | Optimised - caller: adv_train
+22:41:08.92 | INFO | Lazy Con: OFF
+22:41:09.92 | INFO | Optimised - caller: adv_train
+22:41:09.93 | INFO | Lazy Con: OFF
+22:41:10.84 | INFO | Optimised - caller: adv_train
+22:41:10.85 | INFO | Lazy Con: OFF
+22:41:12.37 | INFO | Optimised - caller: adv_train
+22:41:12.39 | INFO | Lazy Con: OFF
+22:41:13.47 | INFO | Optimised - caller: adv_train
+22:41:13.48 | INFO | Lazy Con: OFF
+22:41:14.26 | INFO | Optimised - caller: adv_train
+22:41:14.27 | INFO | Lazy Con: OFF
+22:41:15.26 | INFO | Optimised - caller: adv_train
+22:41:15.27 | INFO | Lazy Con: OFF
+22:41:16.10 | INFO | Optimised - caller: adv_train
+22:41:16.11 | INFO | Lazy Con: OFF
+22:41:17.21 | INFO | Optimised - caller: adv_train
+22:41:17.22 | INFO | Lazy Con: OFF
+22:41:18.87 | INFO | Optimised - caller: adv_train
+22:41:18.89 | INFO | Lazy Con: OFF
+22:41:20.12 | INFO | Optimised - caller: adv_train
+22:41:20.13 | INFO | Lazy Con: OFF
+22:41:21.32 | INFO | Optimised - caller: adv_train
+22:41:21.34 | INFO | Lazy Con: OFF
+22:41:22.32 | INFO | Optimised - caller: adv_train
+22:41:22.33 | INFO | Lazy Con: OFF
+22:41:23.50 | INFO | Optimised - caller: adv_train
+22:41:23.51 | INFO | Lazy Con: OFF
+22:41:24.52 | INFO | Optimised - caller: adv_train
+22:41:24.53 | INFO | Lazy Con: OFF
+22:41:25.53 | INFO | Optimised - caller: adv_train
+22:41:25.54 | INFO | Lazy Con: OFF
+22:41:26.48 | INFO | Optimised - caller: adv_train
+22:41:26.49 | INFO | Lazy Con: OFF
+22:41:27.76 | INFO | Optimised - caller: adv_train
+22:41:27.77 | INFO | Lazy Con: OFF
+22:41:28.83 | INFO | Optimised - caller: adv_train
+22:41:28.84 | INFO | Lazy Con: OFF
+22:41:30.67 | INFO | Optimised - caller: adv_train
+22:41:30.68 | INFO | Lazy Con: OFF
+22:41:32.61 | INFO | Optimised - caller: adv_train
+22:41:32.62 | INFO | Lazy Con: OFF
+22:41:33.50 | INFO | Optimised - caller: adv_train
+22:41:33.51 | INFO | Lazy Con: OFF
+22:41:34.78 | INFO | Optimised - caller: adv_train
+22:41:34.79 | INFO | Lazy Con: OFF
+22:41:35.79 | INFO | Optimised - caller: adv_train
+22:41:35.80 | INFO | Lazy Con: OFF
+22:41:37.87 | INFO | Optimised - caller: adv_train
+22:41:37.88 | INFO | Lazy Con: OFF
+22:41:38.99 | INFO | Optimised - caller: adv_train
+22:41:39.00 | INFO | Lazy Con: OFF
+22:41:40.11 | INFO | Optimised - caller: adv_train
+22:41:40.12 | INFO | Lazy Con: OFF
+22:41:41.17 | INFO | Optimised - caller: adv_train
+22:41:41.18 | INFO | Lazy Con: OFF
+22:41:42.44 | INFO | Optimised - caller: adv_train
+22:41:42.45 | INFO | Lazy Con: OFF
+22:41:43.54 | INFO | Optimised - caller: adv_train
+22:41:43.55 | INFO | Lazy Con: OFF
+22:41:44.63 | INFO | Optimised - caller: adv_train
+22:41:44.64 | INFO | Lazy Con: OFF
+22:41:45.59 | INFO | Optimised - caller: adv_train
+22:41:45.60 | INFO | Lazy Con: OFF
+22:41:47.27 | INFO | Optimised - caller: adv_train
+22:41:47.28 | INFO | Lazy Con: OFF
+22:41:48.51 | INFO | Optimised - caller: adv_train
+22:41:48.52 | INFO | Lazy Con: OFF
+22:41:49.38 | INFO | Optimised - caller: adv_train
+22:41:49.39 | INFO | Lazy Con: OFF
+22:41:50.71 | INFO | Optimised - caller: adv_train
+22:41:50.72 | INFO | Lazy Con: OFF
+22:41:51.90 | INFO | Optimised - caller: adv_train
+22:41:51.91 | INFO | Lazy Con: OFF
+22:41:52.73 | INFO | Optimised - caller: adv_train
+22:41:52.74 | INFO | Lazy Con: OFF
+22:41:53.58 | INFO | Optimised - caller: adv_train
+22:41:53.59 | INFO | Lazy Con: OFF
+22:41:54.52 | INFO | Optimised - caller: adv_train
+22:41:54.53 | INFO | Lazy Con: OFF
+22:41:56.41 | INFO | Optimised - caller: adv_train
+22:41:56.42 | INFO | Lazy Con: OFF
+22:41:57.43 | INFO | Optimised - caller: adv_train
+22:41:57.44 | INFO | Lazy Con: OFF
+22:41:59.51 | INFO | Optimised - caller: adv_train
+22:41:59.52 | INFO | Lazy Con: OFF
+22:42:00.62 | INFO | Optimised - caller: adv_train
+22:42:00.63 | INFO | Lazy Con: OFF
+22:42:01.84 | INFO | Optimised - caller: adv_train
+22:42:01.85 | INFO | Lazy Con: OFF
+22:42:03.06 | INFO | Optimised - caller: adv_train
+22:42:03.07 | INFO | Lazy Con: OFF
+22:42:04.41 | INFO | Optimised - caller: adv_train
+22:42:04.42 | INFO | Lazy Con: OFF
+22:42:05.59 | INFO | Optimised - caller: adv_train
+22:42:05.60 | INFO | Lazy Con: OFF
+22:42:06.87 | INFO | Optimised - caller: adv_train
+22:42:06.88 | INFO | Lazy Con: OFF
+22:42:08.13 | INFO | Optimised - caller: adv_train
+22:42:08.14 | INFO | Lazy Con: OFF
+22:42:09.17 | INFO | Optimised - caller: adv_train
+22:42:09.18 | INFO | Lazy Con: OFF
+22:42:10.20 | INFO | Optimised - caller: adv_train
+22:42:10.21 | INFO | Lazy Con: OFF
+22:42:11.18 | INFO | Optimised - caller: adv_train
+22:42:11.19 | INFO | Lazy Con: OFF
+22:42:12.32 | INFO | Optimised - caller: adv_train
+22:42:12.33 | INFO | Lazy Con: OFF
+22:42:13.27 | INFO | Optimised - caller: adv_train
+22:42:13.28 | INFO | Lazy Con: OFF
+22:42:14.41 | INFO | Optimised - caller: adv_train
+22:42:14.42 | INFO | Lazy Con: OFF
+22:42:15.48 | INFO | Optimised - caller: adv_train
+22:42:15.49 | INFO | Lazy Con: OFF
+22:42:17.20 | INFO | Optimised - caller: adv_train
+22:42:17.22 | INFO | Lazy Con: OFF
+22:42:18.18 | INFO | Optimised - caller: adv_train
+22:42:18.19 | INFO | Lazy Con: OFF
+22:42:19.52 | INFO | Optimised - caller: adv_train
+22:42:19.53 | INFO | Lazy Con: OFF
+22:42:20.66 | INFO | Optimised - caller: adv_train
+22:42:20.67 | INFO | Lazy Con: OFF
+22:42:21.72 | INFO | Optimised - caller: adv_train
+22:42:21.73 | INFO | Lazy Con: OFF
+22:42:23.32 | INFO | Optimised - caller: adv_train
+22:42:23.33 | INFO | Lazy Con: OFF
+22:42:24.40 | INFO | Optimised - caller: adv_train
+22:42:24.40 | INFO | Lazy Con: OFF
+22:42:26.06 | INFO | Optimised - caller: adv_train
+22:42:26.07 | INFO | Lazy Con: OFF
+22:42:27.57 | INFO | Optimised - caller: adv_train
+22:42:27.58 | INFO | Lazy Con: OFF
+22:42:28.83 | INFO | Optimised - caller: adv_train
+22:42:28.84 | INFO | Lazy Con: OFF
+22:42:29.94 | INFO | Optimised - caller: adv_train
+22:42:29.95 | INFO | Lazy Con: OFF
+22:42:31.42 | INFO | Optimised - caller: adv_train
+22:42:31.43 | INFO | Lazy Con: OFF
+22:42:32.94 | INFO | Optimised - caller: adv_train
+22:42:32.95 | INFO | Lazy Con: OFF
+22:42:34.35 | INFO | Optimised - caller: adv_train
+22:42:34.36 | INFO | Lazy Con: OFF
+22:42:35.28 | INFO | Optimised - caller: adv_train
+22:42:35.29 | INFO | Lazy Con: OFF
+22:42:36.36 | INFO | Optimised - caller: adv_train
+22:42:36.37 | INFO | Lazy Con: OFF
+22:42:37.35 | INFO | Optimised - caller: adv_train
+22:42:37.37 | INFO | Lazy Con: OFF
+22:42:38.80 | INFO | Optimised - caller: adv_train
+22:42:38.81 | INFO | Lazy Con: OFF
+22:42:39.80 | INFO | Optimised - caller: adv_train
+22:42:39.81 | INFO | Lazy Con: OFF
+22:42:41.29 | INFO | Optimised - caller: adv_train
+22:42:41.30 | INFO | Lazy Con: OFF
+22:42:42.29 | INFO | Optimised - caller: adv_train
+22:42:42.30 | INFO | Lazy Con: OFF
+22:42:43.39 | INFO | Optimised - caller: adv_train
+22:42:43.40 | INFO | Lazy Con: OFF
+22:42:44.60 | INFO | Optimised - caller: adv_train
+22:42:44.61 | INFO | Lazy Con: OFF
+22:42:45.77 | INFO | Optimised - caller: adv_train
+22:42:45.78 | INFO | Lazy Con: OFF
+22:42:47.31 | INFO | Optimised - caller: adv_train
+22:42:47.32 | INFO | Lazy Con: OFF
+22:42:48.31 | INFO | Optimised - caller: adv_train
+22:42:48.32 | INFO | Lazy Con: OFF
+22:42:49.24 | INFO | Optimised - caller: adv_train
+22:42:49.25 | INFO | Lazy Con: OFF
+22:42:50.48 | INFO | Optimised - caller: adv_train
+22:42:50.49 | INFO | Lazy Con: OFF
+22:42:52.06 | INFO | Optimised - caller: adv_train
+22:42:52.07 | INFO | Lazy Con: OFF
+22:42:52.99 | INFO | Optimised - caller: adv_train
+22:42:53.00 | INFO | Lazy Con: OFF
+22:42:54.25 | INFO | Optimised - caller: adv_train
+22:42:54.26 | INFO | Lazy Con: OFF
+22:42:55.21 | INFO | Optimised - caller: adv_train
+22:42:55.22 | INFO | Lazy Con: OFF
+22:42:56.10 | INFO | Optimised - caller: adv_train
+22:42:56.11 | INFO | Lazy Con: OFF
+22:42:58.14 | INFO | Optimised - caller: adv_train
+22:42:58.15 | INFO | Lazy Con: OFF
+22:42:59.62 | INFO | Optimised - caller: adv_train
+22:42:59.63 | INFO | Lazy Con: OFF
+22:43:00.88 | INFO | Optimised - caller: adv_train
+22:43:00.88 | INFO | Lazy Con: OFF
+22:43:02.10 | INFO | Optimised - caller: adv_train
+22:43:02.11 | INFO | Lazy Con: OFF
+22:43:04.55 | INFO | Optimised - caller: adv_train
+22:43:04.56 | INFO | Lazy Con: OFF
+22:43:06.05 | INFO | Optimised - caller: adv_train
+22:43:06.06 | INFO | Lazy Con: OFF
+22:43:07.46 | INFO | Optimised - caller: adv_train
+22:43:07.47 | INFO | Lazy Con: OFF
+22:43:08.55 | INFO | Optimised - caller: adv_train
+22:43:08.56 | INFO | Lazy Con: OFF
+22:43:09.71 | INFO | Optimised - caller: adv_train
+22:43:09.72 | INFO | Lazy Con: OFF
+22:43:10.67 | INFO | Optimised - caller: adv_train
+22:43:10.69 | INFO | Lazy Con: OFF
+22:43:12.05 | INFO | Optimised - caller: adv_train
+22:43:12.06 | INFO | Lazy Con: OFF
+22:43:13.14 | INFO | Optimised - caller: adv_train
+22:43:13.15 | INFO | Lazy Con: OFF
+22:43:14.95 | INFO | Optimised - caller: adv_train
+22:43:14.96 | INFO | Lazy Con: OFF
+22:43:16.34 | INFO | Optimised - caller: adv_train
+22:43:16.35 | INFO | Lazy Con: OFF
+22:43:18.27 | INFO | Optimised - caller: adv_train
+22:43:18.28 | INFO | Lazy Con: OFF
+22:43:20.32 | INFO | Optimised - caller: adv_train
+22:43:20.33 | INFO | Lazy Con: OFF
+22:43:21.52 | INFO | Optimised - caller: adv_train
+22:43:21.53 | INFO | Lazy Con: OFF
+22:43:22.57 | INFO | Optimised - caller: adv_train
+22:43:22.58 | INFO | Lazy Con: OFF
+22:43:23.98 | INFO | Optimised - caller: adv_train
+22:43:23.98 | INFO | Lazy Con: OFF
+22:43:25.30 | INFO | Optimised - caller: adv_train
+22:43:25.31 | INFO | Lazy Con: OFF
+22:43:26.30 | INFO | Optimised - caller: adv_train
+22:43:26.31 | INFO | Lazy Con: OFF
+22:43:27.90 | INFO | Optimised - caller: adv_train
+22:43:27.91 | INFO | Lazy Con: OFF
+22:43:29.70 | INFO | Optimised - caller: adv_train
+22:43:29.71 | INFO | Lazy Con: OFF
+22:43:30.78 | INFO | Optimised - caller: adv_train
+22:43:30.79 | INFO | Lazy Con: OFF
+22:43:31.84 | INFO | Optimised - caller: adv_train
+22:43:31.85 | INFO | Lazy Con: OFF
+22:43:33.34 | INFO | Optimised - caller: adv_train
+22:43:33.35 | INFO | Lazy Con: OFF
+22:43:34.59 | INFO | Optimised - caller: adv_train
+22:43:34.60 | INFO | Lazy Con: OFF
+22:43:35.57 | INFO | Optimised - caller: adv_train
+22:43:35.58 | INFO | Lazy Con: OFF
+22:43:36.90 | INFO | Optimised - caller: adv_train
+22:43:36.91 | INFO | Lazy Con: OFF
+22:43:38.11 | INFO | Optimised - caller: adv_train
+22:43:38.12 | INFO | Lazy Con: OFF
+22:43:39.05 | INFO | Optimised - caller: adv_train
+22:43:39.06 | INFO | Lazy Con: OFF
+22:43:40.20 | INFO | Optimised - caller: adv_train
+22:43:40.21 | INFO | Lazy Con: OFF
+22:43:41.15 | INFO | Optimised - caller: adv_train
+22:43:41.16 | INFO | Lazy Con: OFF
+22:43:42.27 | INFO | Optimised - caller: adv_train
+22:43:42.28 | INFO | Lazy Con: OFF
+22:43:43.21 | INFO | Optimised - caller: adv_train
+22:43:43.22 | INFO | Lazy Con: OFF
+22:43:44.54 | INFO | Optimised - caller: adv_train
+22:43:44.55 | INFO | Lazy Con: OFF
+22:43:45.56 | INFO | Optimised - caller: adv_train
+22:43:45.57 | INFO | Lazy Con: OFF
+22:43:46.94 | INFO | Optimised - caller: adv_train
+22:43:46.95 | INFO | Lazy Con: OFF
+22:43:48.43 | INFO | Optimised - caller: adv_train
+22:43:48.44 | INFO | Lazy Con: OFF
+22:43:49.40 | INFO | Optimised - caller: adv_train
+22:43:49.41 | INFO | Lazy Con: OFF
+22:43:50.93 | INFO | Optimised - caller: adv_train
+22:43:50.94 | INFO | Lazy Con: OFF
+22:43:51.96 | INFO | Optimised - caller: adv_train
+22:43:51.97 | INFO | Lazy Con: OFF
+22:43:53.32 | INFO | Optimised - caller: adv_train
+22:43:53.33 | INFO | Lazy Con: OFF
+22:43:54.60 | INFO | Optimised - caller: adv_train
+22:43:54.61 | INFO | Lazy Con: OFF
+22:43:55.77 | INFO | Optimised - caller: adv_train
+22:43:55.78 | INFO | Lazy Con: OFF
+22:43:56.67 | INFO | Optimised - caller: adv_train
+22:43:56.68 | INFO | Lazy Con: OFF
+22:43:57.69 | INFO | Optimised - caller: adv_train
+22:43:57.70 | INFO | Lazy Con: OFF
+22:43:58.96 | INFO | Optimised - caller: adv_train
+22:43:58.97 | INFO | Lazy Con: OFF
+22:44:00.92 | INFO | Optimised - caller: adv_train
+22:44:00.93 | INFO | Lazy Con: OFF
+22:44:02.12 | INFO | Optimised - caller: adv_train
+22:44:02.13 | INFO | Lazy Con: OFF
+22:44:03.30 | INFO | Optimised - caller: adv_train
+22:44:03.31 | INFO | Lazy Con: OFF
+22:44:04.81 | INFO | Optimised - caller: adv_train
+22:44:04.82 | INFO | Lazy Con: OFF
+22:44:06.83 | INFO | Optimised - caller: adv_train
+22:44:06.84 | INFO | Lazy Con: OFF
+22:44:08.27 | INFO | Optimised - caller: adv_train
+22:44:08.28 | INFO | Lazy Con: OFF
+22:44:09.41 | INFO | Optimised - caller: adv_train
+22:44:09.42 | INFO | Lazy Con: OFF
+22:44:10.80 | INFO | Optimised - caller: adv_train
+22:44:10.81 | INFO | Lazy Con: OFF
+22:44:12.01 | INFO | Optimised - caller: adv_train
+22:44:12.02 | INFO | Lazy Con: OFF
+22:44:13.79 | INFO | Optimised - caller: adv_train
+22:44:13.80 | INFO | Lazy Con: OFF
+22:44:15.71 | INFO | Optimised - caller: adv_train
+22:44:15.72 | INFO | Lazy Con: OFF
+22:44:17.01 | INFO | Optimised - caller: adv_train
+22:44:17.02 | INFO | Lazy Con: OFF
+22:44:18.63 | INFO | Optimised - caller: adv_train
+22:44:18.64 | INFO | Lazy Con: OFF
+22:44:19.88 | INFO | Optimised - caller: adv_train
+22:44:19.89 | INFO | Lazy Con: OFF
+22:44:21.39 | INFO | Optimised - caller: adv_train
+22:44:21.41 | INFO | Lazy Con: OFF
+22:44:22.72 | INFO | Optimised - caller: adv_train
+22:44:22.73 | INFO | Lazy Con: OFF
+22:44:23.98 | INFO | Optimised - caller: adv_train
+22:44:23.99 | INFO | Lazy Con: OFF
+22:44:25.29 | INFO | Optimised - caller: adv_train
+22:44:25.30 | INFO | Lazy Con: OFF
+22:44:26.99 | INFO | Optimised - caller: adv_train
+22:44:27.01 | INFO | Lazy Con: OFF
+22:44:28.37 | INFO | Optimised - caller: adv_train
+22:44:28.38 | INFO | Lazy Con: OFF
+22:44:29.80 | INFO | Optimised - caller: adv_train
+22:44:29.81 | INFO | Lazy Con: OFF
+22:44:31.53 | INFO | Optimised - caller: adv_train
+22:44:31.54 | INFO | Lazy Con: OFF
+22:44:34.53 | INFO | Optimised - caller: adv_train
+22:44:34.55 | INFO | Lazy Con: OFF
+22:44:36.03 | INFO | Optimised - caller: adv_train
+22:44:36.04 | INFO | Lazy Con: OFF
+22:44:37.17 | INFO | Optimised - caller: adv_train
+22:44:37.18 | INFO | Lazy Con: OFF
+22:44:38.45 | INFO | Optimised - caller: adv_train
+22:44:38.46 | INFO | Lazy Con: OFF
+22:44:39.67 | INFO | Optimised - caller: adv_train
+22:44:39.68 | INFO | Lazy Con: OFF
+22:44:41.30 | INFO | Optimised - caller: adv_train
+22:44:41.31 | INFO | Lazy Con: OFF
+22:44:44.83 | INFO | Optimised - caller: adv_train
+22:44:44.84 | INFO | Lazy Con: OFF
+22:44:46.08 | INFO | Optimised - caller: adv_train
+22:44:46.09 | INFO | Lazy Con: OFF
+22:44:48.02 | INFO | Optimised - caller: adv_train
+22:44:48.03 | INFO | Lazy Con: OFF
+22:44:49.26 | INFO | Optimised - caller: adv_train
+22:44:49.27 | INFO | Lazy Con: OFF
+22:44:50.23 | INFO | Optimised - caller: adv_train
+22:44:50.24 | INFO | Lazy Con: OFF
+22:44:52.21 | INFO | Optimised - caller: adv_train
+22:44:52.22 | INFO | Lazy Con: OFF
+22:44:53.26 | INFO | Optimised - caller: adv_train
+22:44:53.27 | INFO | Lazy Con: OFF
+22:44:54.47 | INFO | Optimised - caller: adv_train
+22:44:54.48 | INFO | Lazy Con: OFF
+22:44:55.94 | INFO | Optimised - caller: adv_train
+22:44:55.95 | INFO | Lazy Con: OFF
+22:44:57.04 | INFO | Optimised - caller: adv_train
+22:44:57.05 | INFO | Lazy Con: OFF
+22:44:58.52 | INFO | Optimised - caller: adv_train
+22:44:58.53 | INFO | Lazy Con: OFF
+22:44:59.71 | INFO | Optimised - caller: adv_train
+22:44:59.72 | INFO | Lazy Con: OFF
+22:45:01.10 | INFO | Optimised - caller: adv_train
+22:45:01.11 | INFO | Lazy Con: OFF
+22:45:02.40 | INFO | Optimised - caller: adv_train
+22:45:02.41 | INFO | Lazy Con: OFF
+22:45:03.48 | INFO | Optimised - caller: adv_train
+22:45:03.49 | INFO | Lazy Con: OFF
+22:45:04.38 | INFO | Optimised - caller: adv_train
+22:45:04.39 | INFO | Lazy Con: OFF
+22:45:05.90 | INFO | Optimised - caller: adv_train
+22:45:05.90 | INFO | Lazy Con: OFF
+22:45:07.44 | INFO | Optimised - caller: adv_train
+22:45:07.45 | INFO | Lazy Con: OFF
+22:45:09.88 | INFO | Optimised - caller: adv_train
+22:45:09.89 | INFO | Lazy Con: OFF
+22:45:11.25 | INFO | Optimised - caller: adv_train
+22:45:11.26 | INFO | Lazy Con: OFF
+22:45:12.63 | INFO | Optimised - caller: adv_train
+22:45:12.64 | INFO | Lazy Con: OFF
+22:45:13.69 | INFO | Optimised - caller: adv_train
+22:45:13.70 | INFO | Lazy Con: OFF
+22:45:14.82 | INFO | Optimised - caller: adv_train
+22:45:14.84 | INFO | Lazy Con: OFF
+22:45:16.22 | INFO | Optimised - caller: adv_train
+22:45:16.24 | INFO | Lazy Con: OFF
+22:45:17.43 | INFO | Optimised - caller: adv_train
+22:45:17.44 | INFO | Lazy Con: OFF
+22:45:18.87 | INFO | Optimised - caller: adv_train
+22:45:18.88 | INFO | Lazy Con: OFF
+22:45:20.44 | INFO | Optimised - caller: adv_train
+22:45:20.45 | INFO | Lazy Con: OFF
+22:45:21.87 | INFO | Optimised - caller: adv_train
+22:45:21.88 | INFO | Lazy Con: OFF
+22:45:23.28 | INFO | Optimised - caller: adv_train
+22:45:23.29 | INFO | Lazy Con: OFF
+22:45:24.81 | INFO | Optimised - caller: adv_train
+22:45:24.82 | INFO | Lazy Con: OFF
+22:45:25.85 | INFO | Optimised - caller: adv_train
+22:45:25.86 | INFO | Lazy Con: OFF
+22:45:27.13 | INFO | Optimised - caller: adv_train
+22:45:27.14 | INFO | Lazy Con: OFF
+22:45:28.44 | INFO | Optimised - caller: adv_train
+22:45:28.45 | INFO | Lazy Con: OFF
+22:45:29.63 | INFO | Optimised - caller: adv_train
+22:45:29.64 | INFO | Lazy Con: OFF
+22:45:31.44 | INFO | Optimised - caller: adv_train
+22:45:31.45 | INFO | Lazy Con: OFF
+22:45:32.72 | INFO | Optimised - caller: adv_train
+22:45:32.73 | INFO | Lazy Con: OFF
+22:45:33.85 | INFO | Optimised - caller: adv_train
+22:45:33.86 | INFO | Lazy Con: OFF
+22:45:34.98 | INFO | Optimised - caller: adv_train
+22:45:34.99 | INFO | Lazy Con: OFF
+22:45:36.42 | INFO | Optimised - caller: adv_train
+22:45:36.43 | INFO | Lazy Con: OFF
+22:45:37.65 | INFO | Optimised - caller: adv_train
+22:45:37.66 | INFO | Lazy Con: OFF
+22:45:39.14 | INFO | Optimised - caller: adv_train
+22:45:39.15 | INFO | Lazy Con: OFF
+22:45:40.36 | INFO | Optimised - caller: adv_train
+22:45:40.38 | INFO | Lazy Con: OFF
+22:45:41.41 | INFO | Optimised - caller: adv_train
+22:45:41.42 | INFO | Lazy Con: OFF
+22:45:42.83 | INFO | Optimised - caller: adv_train
+22:45:42.84 | INFO | Lazy Con: OFF
+22:45:45.14 | INFO | Optimised - caller: adv_train
+22:45:45.15 | INFO | Lazy Con: OFF
+22:45:46.78 | INFO | Optimised - caller: adv_train
+22:45:46.79 | INFO | Lazy Con: OFF
+22:45:47.97 | INFO | Optimised - caller: adv_train
+22:45:47.98 | INFO | Lazy Con: OFF
+22:45:49.39 | INFO | Optimised - caller: adv_train
+22:45:49.40 | INFO | Lazy Con: OFF
+22:45:50.93 | INFO | Optimised - caller: adv_train
+22:45:50.94 | INFO | Lazy Con: OFF
+22:45:53.79 | INFO | Optimised - caller: adv_train
+22:45:53.80 | INFO | Lazy Con: OFF
+22:45:54.92 | INFO | Optimised - caller: adv_train
+22:45:54.93 | INFO | Lazy Con: OFF
+22:45:56.50 | INFO | Optimised - caller: adv_train
+22:45:56.51 | INFO | Lazy Con: OFF
+22:45:58.20 | INFO | Optimised - caller: adv_train
+22:45:58.21 | INFO | Lazy Con: OFF
+22:45:59.41 | INFO | Optimised - caller: adv_train
+22:45:59.42 | INFO | Lazy Con: OFF
+22:46:00.63 | INFO | Optimised - caller: adv_train
+22:46:00.64 | INFO | Lazy Con: OFF
+22:46:01.87 | INFO | Optimised - caller: adv_train
+22:46:01.88 | INFO | Lazy Con: OFF
+22:46:03.24 | INFO | Optimised - caller: adv_train
+22:46:03.25 | INFO | Lazy Con: OFF
+22:46:04.58 | INFO | Optimised - caller: adv_train
+22:46:04.59 | INFO | Lazy Con: OFF
+22:46:05.98 | INFO | Optimised - caller: adv_train
+22:46:05.99 | INFO | Lazy Con: OFF
+22:46:07.37 | INFO | Optimised - caller: adv_train
+22:46:07.38 | INFO | Lazy Con: OFF
+22:46:08.51 | INFO | Optimised - caller: adv_train
+22:46:08.52 | INFO | Lazy Con: OFF
+22:46:10.60 | INFO | Optimised - caller: adv_train
+22:46:10.61 | INFO | Lazy Con: OFF
+22:46:11.75 | INFO | Optimised - caller: adv_train
+22:46:11.76 | INFO | Lazy Con: OFF
+22:46:12.86 | INFO | Optimised - caller: adv_train
+22:46:12.87 | INFO | Lazy Con: OFF
+22:46:13.88 | INFO | Optimised - caller: adv_train
+22:46:13.90 | INFO | Lazy Con: OFF
+22:46:15.15 | INFO | Optimised - caller: adv_train
+22:46:15.16 | INFO | Lazy Con: OFF
+22:46:16.78 | INFO | Optimised - caller: adv_train
+22:46:16.79 | INFO | Lazy Con: OFF
+22:46:18.58 | INFO | Optimised - caller: adv_train
+22:46:18.59 | INFO | Lazy Con: OFF
+22:46:19.73 | INFO | Optimised - caller: adv_train
+22:46:19.74 | INFO | Lazy Con: OFF
+22:46:21.03 | INFO | Optimised - caller: adv_train
+22:46:21.04 | INFO | Lazy Con: OFF
+22:46:22.44 | INFO | Optimised - caller: adv_train
+22:46:22.45 | INFO | Lazy Con: OFF
+22:46:23.77 | INFO | Optimised - caller: adv_train
+22:46:23.78 | INFO | Lazy Con: OFF
+22:46:25.06 | INFO | Optimised - caller: adv_train
+22:46:25.08 | INFO | Lazy Con: OFF
+22:46:26.56 | INFO | Optimised - caller: adv_train
+22:46:26.57 | INFO | Lazy Con: OFF
+22:46:27.61 | INFO | Optimised - caller: adv_train
+22:46:27.62 | INFO | Lazy Con: OFF
+22:46:28.86 | INFO | Optimised - caller: adv_train
+22:46:28.87 | INFO | Lazy Con: OFF
+22:46:29.99 | INFO | Optimised - caller: adv_train
+22:46:30.00 | INFO | Lazy Con: OFF
+22:46:32.24 | INFO | Optimised - caller: adv_train
+22:46:32.26 | INFO | Lazy Con: OFF
+22:46:33.71 | INFO | Optimised - caller: adv_train
+22:46:33.72 | INFO | Lazy Con: OFF
+22:46:37.21 | INFO | Optimised - caller: adv_train
+22:46:37.22 | INFO | Lazy Con: OFF
+22:46:38.82 | INFO | Optimised - caller: adv_train
+22:46:38.83 | INFO | Lazy Con: OFF
+22:46:40.31 | INFO | Optimised - caller: adv_train
+22:46:40.32 | INFO | Lazy Con: OFF
+22:46:41.96 | INFO | Optimised - caller: adv_train
+22:46:41.97 | INFO | Lazy Con: OFF
+22:46:43.16 | INFO | Optimised - caller: adv_train
+22:46:43.17 | INFO | Lazy Con: OFF
+22:46:45.06 | INFO | Optimised - caller: adv_train
+22:46:45.07 | INFO | Lazy Con: OFF
+22:46:46.61 | INFO | Optimised - caller: adv_train
+22:46:46.62 | INFO | Lazy Con: OFF
+22:46:48.80 | INFO | Optimised - caller: adv_train
+22:46:48.81 | INFO | Lazy Con: OFF
+22:46:51.11 | INFO | Optimised - caller: adv_train
+22:46:51.12 | INFO | Lazy Con: OFF
+22:46:53.27 | INFO | Optimised - caller: adv_train
+22:46:53.28 | INFO | Lazy Con: OFF
+22:46:55.33 | INFO | Optimised - caller: adv_train
+22:46:55.34 | INFO | Lazy Con: OFF
+22:46:58.57 | INFO | Optimised - caller: adv_train
+22:46:58.58 | INFO | Lazy Con: OFF
+22:46:59.87 | INFO | Optimised - caller: adv_train
+22:46:59.88 | INFO | Lazy Con: OFF
+22:47:01.10 | INFO | Optimised - caller: adv_train
+22:47:01.11 | INFO | Lazy Con: OFF
+22:47:02.30 | INFO | Optimised - caller: adv_train
+22:47:02.31 | INFO | Lazy Con: OFF
+22:47:03.86 | INFO | Optimised - caller: adv_train
+22:47:03.87 | INFO | Lazy Con: OFF
+22:47:05.52 | INFO | Optimised - caller: adv_train
+22:47:05.53 | INFO | Lazy Con: OFF
+22:47:07.48 | INFO | Optimised - caller: adv_train
+22:47:07.49 | INFO | Lazy Con: OFF
+22:47:08.77 | INFO | Optimised - caller: adv_train
+22:47:08.79 | INFO | Lazy Con: OFF
+22:47:09.90 | INFO | Optimised - caller: adv_train
+22:47:09.91 | INFO | Lazy Con: OFF
+22:47:11.60 | INFO | Optimised - caller: adv_train
+22:47:11.61 | INFO | Lazy Con: OFF
+22:47:13.06 | INFO | Optimised - caller: adv_train
+22:47:13.07 | INFO | Lazy Con: OFF
+22:47:14.99 | INFO | Optimised - caller: adv_train
+22:47:15.00 | INFO | Lazy Con: OFF
+22:47:17.46 | INFO | Optimised - caller: adv_train
+22:47:17.47 | INFO | Lazy Con: OFF
+22:47:18.85 | INFO | Optimised - caller: adv_train
+22:47:18.86 | INFO | Lazy Con: OFF
+22:47:20.34 | INFO | Optimised - caller: adv_train
+22:47:20.35 | INFO | Lazy Con: OFF
+22:47:23.03 | INFO | Optimised - caller: adv_train
+22:47:23.04 | INFO | Lazy Con: OFF
+22:47:24.90 | INFO | Optimised - caller: adv_train
+22:47:24.91 | INFO | Lazy Con: OFF
+22:47:26.23 | INFO | Optimised - caller: adv_train
+22:47:26.24 | INFO | Lazy Con: OFF
+22:47:27.44 | INFO | Optimised - caller: adv_train
+22:47:27.46 | INFO | Lazy Con: OFF
+22:47:29.77 | INFO | Optimised - caller: adv_train
+22:47:29.78 | INFO | Lazy Con: OFF
+22:47:31.73 | INFO | Optimised - caller: adv_train
+22:47:31.74 | INFO | Lazy Con: OFF
+22:47:33.34 | INFO | Optimised - caller: adv_train
+22:47:33.35 | INFO | Lazy Con: OFF
+22:47:35.84 | INFO | Optimised - caller: adv_train
+22:47:35.86 | INFO | Lazy Con: OFF
+22:47:36.99 | INFO | Optimised - caller: adv_train
+22:47:37.00 | INFO | Lazy Con: OFF
+22:47:38.68 | INFO | Optimised - caller: adv_train
+22:47:38.70 | INFO | Lazy Con: OFF
+22:47:39.91 | INFO | Optimised - caller: adv_train
+22:47:39.92 | INFO | Lazy Con: OFF
+22:47:41.44 | INFO | Optimised - caller: adv_train
+22:47:41.45 | INFO | Lazy Con: OFF
+22:47:42.72 | INFO | Optimised - caller: adv_train
+22:47:42.73 | INFO | Lazy Con: OFF
+22:47:44.27 | INFO | Optimised - caller: adv_train
+22:47:44.28 | INFO | Lazy Con: OFF
+22:47:45.77 | INFO | Optimised - caller: adv_train
+22:47:45.78 | INFO | Lazy Con: OFF
+22:47:47.09 | INFO | Optimised - caller: adv_train
+22:47:47.11 | INFO | Lazy Con: OFF
+22:47:48.82 | INFO | Optimised - caller: adv_train

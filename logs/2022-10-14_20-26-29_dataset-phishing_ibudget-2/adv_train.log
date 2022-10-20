@@ -1,0 +1,727 @@
+20:26:29.88 | INFO | initial optimization
+20:26:29.88 | INFO | while loop timeout: 0s
+20:26:29.88 | INFO | while loop start_time: 2022-10-14 09:26:29
+20:26:29.88 | INFO | while loop end_time: 2022-10-14 09:26:29
+20:26:29.88 | INFO | ################## itr_num: 1 time: 0s ###################
+20:26:29.88 | INFO | Adv example found during itr_num: 1 
+20:26:29.88 | INFO | added cuts : 1
+20:26:29.90 | INFO | re-optimized
+20:26:29.90 | INFO | ObjVal: -1751.0 | Bound: -1751.0 | Gap: 0.0 | Optimal: True
+20:26:29.91 | INFO | --------------------- wgt details ---------------------
+20:26:29.91 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:29.91 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 20.0
+20:26:29.91 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 7.0
+20:26:29.91 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 10.0
+20:26:29.91 | INFO | ################## itr_num: 2 time: 0s ###################
+20:26:29.91 | INFO | Adv example found during itr_num: 2 
+20:26:29.91 | INFO | added cuts : 2
+20:26:29.93 | INFO | re-optimized
+20:26:29.93 | INFO | ObjVal: -1751.0 | Bound: -1751.0 | Gap: 0.0 | Optimal: True
+20:26:29.93 | INFO | --------------------- wgt details ---------------------
+20:26:29.93 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: -0.0
+20:26:29.93 | INFO | wneg diff (f,c): (19, 1) | precut: -0.0 | postcut: 1.0
+20:26:29.93 | INFO | bias diff (f,c): 0 | precut: 20.0 | postcut: 19.0
+20:26:29.93 | INFO | bias diff (f,c): 2 | precut: 10.0 | postcut: 9.0
+20:26:29.93 | INFO | ################## itr_num: 3 time: 0s ###################
+20:26:29.94 | INFO | Adv example found during itr_num: 3 
+20:26:29.94 | INFO | added cuts : 3
+20:26:29.96 | INFO | re-optimized
+20:26:29.96 | INFO | ObjVal: -1751.0 | Bound: -1751.0 | Gap: 0.0 | Optimal: True
+20:26:29.96 | INFO | --------------------- wgt details ---------------------
+20:26:29.96 | INFO | wpos diff (f,c): (21, 1) | precut: -0.0 | postcut: 1.0
+20:26:29.96 | INFO | wneg diff (f,c): (19, 1) | precut: 1.0 | postcut: -0.0
+20:26:29.96 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 20.0
+20:26:29.96 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 10.0
+20:26:29.96 | INFO | ################## itr_num: 4 time: 0s ###################
+20:26:29.97 | INFO | Adv example found during itr_num: 4 
+20:26:29.97 | INFO | added cuts : 4
+20:26:29.99 | INFO | re-optimized
+20:26:29.99 | INFO | ObjVal: -1751.0 | Bound: -1751.0 | Gap: 0.0 | Optimal: True
+20:26:29.99 | INFO | --------------------- wgt details ---------------------
+20:26:29.99 | INFO | wpos diff (f,c): (21, 1) | precut: 1.0 | postcut: -0.0
+20:26:29.99 | INFO | wneg diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:29.99 | INFO | bias diff (f,c): 0 | precut: 20.0 | postcut: 19.0
+20:26:29.99 | INFO | bias diff (f,c): 2 | precut: 10.0 | postcut: 9.0
+20:26:29.99 | INFO | ################## itr_num: 5 time: 0s ###################
+20:26:30.00 | INFO | Adv example found during itr_num: 5 
+20:26:30.00 | INFO | added cuts : 5
+20:26:30.02 | INFO | re-optimized
+20:26:30.02 | INFO | ObjVal: -1751.0 | Bound: -1751.0 | Gap: 0.0 | Optimal: True
+20:26:30.02 | INFO | --------------------- wgt details ---------------------
+20:26:30.02 | INFO | wneg diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.02 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.02 | INFO | ################## itr_num: 6 time: 0s ###################
+20:26:30.02 | INFO | Adv example found during itr_num: 6 
+20:26:30.02 | INFO | added cuts : 6
+20:26:30.04 | INFO | re-optimized
+20:26:30.04 | INFO | ObjVal: -1751.0 | Bound: -1751.0 | Gap: 0.0 | Optimal: True
+20:26:30.04 | INFO | --------------------- wgt details ---------------------
+20:26:30.04 | INFO | wneg diff (f,c): (7, 1) | precut: 1.0 | postcut: 0.0
+20:26:30.04 | INFO | wneg diff (f,c): (10, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.04 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 18.0
+20:26:30.04 | INFO | bias diff (f,c): 1 | precut: 7.0 | postcut: 6.0
+20:26:30.04 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 8.0
+20:26:30.04 | INFO | ################## itr_num: 7 time: 0s ###################
+20:26:30.05 | INFO | Adv example found during itr_num: 7 
+20:26:30.05 | INFO | added cuts : 7
+20:26:30.07 | INFO | re-optimized
+20:26:30.07 | INFO | ObjVal: -1751.0 | Bound: -1751.0 | Gap: 0.0 | Optimal: True
+20:26:30.07 | INFO | --------------------- wgt details ---------------------
+20:26:30.07 | INFO | wpos diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.07 | INFO | wneg diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.07 | INFO | bias diff (f,c): 0 | precut: 18.0 | postcut: 23.0
+20:26:30.07 | INFO | bias diff (f,c): 1 | precut: 6.0 | postcut: 11.0
+20:26:30.07 | INFO | bias diff (f,c): 2 | precut: 8.0 | postcut: 13.0
+20:26:30.07 | INFO | ################## itr_num: 8 time: 0s ###################
+20:26:30.07 | INFO | Adv example found during itr_num: 8 
+20:26:30.07 | INFO | added cuts : 8
+20:26:30.09 | INFO | re-optimized
+20:26:30.09 | INFO | ObjVal: -1751.0 | Bound: -1751.0 | Gap: 0.0 | Optimal: True
+20:26:30.09 | INFO | --------------------- wgt details ---------------------
+20:26:30.09 | INFO | wpos diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.09 | INFO | wneg diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.09 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 19.0
+20:26:30.09 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 7.0
+20:26:30.09 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 9.0
+20:26:30.09 | INFO | ################## itr_num: 9 time: 0s ###################
+20:26:30.10 | INFO | Adv example found during itr_num: 9 
+20:26:30.10 | INFO | added cuts : 9
+20:26:30.12 | INFO | re-optimized
+20:26:30.12 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.12 | INFO | --------------------- wgt details ---------------------
+20:26:30.12 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.12 | INFO | wpos diff (f,c): (21, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.12 | INFO | wneg diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.12 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 23.0
+20:26:30.12 | INFO | bias diff (f,c): 1 | precut: 7.0 | postcut: 9.0
+20:26:30.12 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 13.0
+20:26:30.12 | INFO | ################## itr_num: 10 time: 0s ###################
+20:26:30.13 | INFO | Adv example found during itr_num: 10 
+20:26:30.13 | INFO | added cuts : 10
+20:26:30.15 | INFO | re-optimized
+20:26:30.15 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.15 | INFO | --------------------- wgt details ---------------------
+20:26:30.15 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.16 | INFO | wneg diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.16 | INFO | bias diff (f,c): 1 | precut: 9.0 | postcut: 10.0
+20:26:30.16 | INFO | ################## itr_num: 11 time: 0s ###################
+20:26:30.16 | INFO | Adv example found during itr_num: 11 
+20:26:30.16 | INFO | added cuts : 11
+20:26:30.19 | INFO | re-optimized
+20:26:30.19 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.19 | INFO | --------------------- wgt details ---------------------
+20:26:30.19 | INFO | wneg diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.19 | INFO | wneg diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.19 | INFO | ################## itr_num: 12 time: 0s ###################
+20:26:30.20 | INFO | Adv example found during itr_num: 12 
+20:26:30.20 | INFO | added cuts : 12
+20:26:30.22 | INFO | re-optimized
+20:26:30.22 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.22 | INFO | --------------------- wgt details ---------------------
+20:26:30.22 | INFO | wpos diff (f,c): (10, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.22 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.22 | INFO | wpos diff (f,c): (21, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.22 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.22 | INFO | ################## itr_num: 13 time: 0s ###################
+20:26:30.23 | INFO | Adv example found during itr_num: 13 
+20:26:30.23 | INFO | added cuts : 13
+20:26:30.26 | INFO | re-optimized
+20:26:30.26 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.26 | INFO | --------------------- wgt details ---------------------
+20:26:30.26 | INFO | wpos diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.26 | INFO | wpos diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.26 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.26 | INFO | wneg diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.26 | INFO | bias diff (f,c): 1 | precut: 10.0 | postcut: 11.0
+20:26:30.26 | INFO | ################## itr_num: 14 time: 0s ###################
+20:26:30.27 | INFO | Adv example found during itr_num: 14 
+20:26:30.27 | INFO | added cuts : 14
+20:26:30.30 | INFO | re-optimized
+20:26:30.30 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.30 | INFO | --------------------- wgt details ---------------------
+20:26:30.30 | INFO | wpos diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.30 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.30 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.30 | INFO | wneg diff (f,c): (21, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.30 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 20.0
+20:26:30.30 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 8.0
+20:26:30.30 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 10.0
+20:26:30.30 | INFO | ################## itr_num: 15 time: 0s ###################
+20:26:30.31 | INFO | Adv example found during itr_num: 15 
+20:26:30.31 | INFO | added cuts : 15
+20:26:30.35 | INFO | re-optimized
+20:26:30.35 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.35 | INFO | --------------------- wgt details ---------------------
+20:26:30.35 | INFO | wpos diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.35 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.35 | INFO | wpos diff (f,c): (21, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.35 | INFO | wneg diff (f,c): (21, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.35 | INFO | bias diff (f,c): 0 | precut: 20.0 | postcut: 23.0
+20:26:30.35 | INFO | bias diff (f,c): 1 | precut: 8.0 | postcut: 10.0
+20:26:30.35 | INFO | bias diff (f,c): 2 | precut: 10.0 | postcut: 13.0
+20:26:30.35 | INFO | ################## itr_num: 16 time: 0s ###################
+20:26:30.35 | INFO | Adv example found during itr_num: 16 
+20:26:30.35 | INFO | added cuts : 16
+20:26:30.38 | INFO | re-optimized
+20:26:30.38 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.38 | INFO | --------------------- wgt details ---------------------
+20:26:30.38 | INFO | wpos diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.38 | INFO | wpos diff (f,c): (10, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.38 | INFO | wpos diff (f,c): (21, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.38 | INFO | wneg diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.38 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 18.0
+20:26:30.38 | INFO | bias diff (f,c): 1 | precut: 10.0 | postcut: 6.0
+20:26:30.38 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 8.0
+20:26:30.38 | INFO | ################## itr_num: 17 time: 0s ###################
+20:26:30.39 | INFO | Adv example found during itr_num: 17 
+20:26:30.39 | INFO | added cuts : 17
+20:26:30.43 | INFO | re-optimized
+20:26:30.43 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.43 | INFO | --------------------- wgt details ---------------------
+20:26:30.43 | INFO | wpos diff (f,c): (10, 1) | precut: 1.0 | postcut: 0.0
+20:26:30.43 | INFO | wpos diff (f,c): (16, 2) | precut: 1.0 | postcut: 0.0
+20:26:30.43 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.43 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: 0.0
+20:26:30.43 | INFO | bias diff (f,c): 0 | precut: 18.0 | postcut: 19.0
+20:26:30.43 | INFO | bias diff (f,c): 2 | precut: 8.0 | postcut: 9.0
+20:26:30.43 | INFO | ################## itr_num: 18 time: 0s ###################
+20:26:30.44 | INFO | Adv example found during itr_num: 18 
+20:26:30.44 | INFO | added cuts : 18
+20:26:30.49 | INFO | re-optimized
+20:26:30.49 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.49 | INFO | --------------------- wgt details ---------------------
+20:26:30.49 | INFO | wpos diff (f,c): (1, 1) | precut: 0.0 | postcut: 1.0
+20:26:30.49 | INFO | wpos diff (f,c): (16, 2) | precut: 0.0 | postcut: 1.0
+20:26:30.49 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: 0.0
+20:26:30.49 | INFO | wneg diff (f,c): (18, 1) | precut: 0.0 | postcut: 1.0
+20:26:30.49 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 18.0
+20:26:30.49 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 8.0
+20:26:30.49 | INFO | ################## itr_num: 19 time: 0s ###################
+20:26:30.50 | INFO | Adv example found during itr_num: 19 
+20:26:30.50 | INFO | added cuts : 19
+20:26:30.52 | INFO | re-optimized
+20:26:30.52 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.52 | INFO | --------------------- wgt details ---------------------
+20:26:30.52 | INFO | wpos diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.52 | INFO | wpos diff (f,c): (10, 1) | precut: 0.0 | postcut: 1.0
+20:26:30.52 | INFO | wpos diff (f,c): (21, 1) | precut: 0.0 | postcut: 1.0
+20:26:30.52 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.52 | INFO | bias diff (f,c): 0 | precut: 18.0 | postcut: 23.0
+20:26:30.52 | INFO | bias diff (f,c): 1 | precut: 6.0 | postcut: 10.0
+20:26:30.52 | INFO | bias diff (f,c): 2 | precut: 8.0 | postcut: 13.0
+20:26:30.52 | INFO | ################## itr_num: 20 time: 0s ###################
+20:26:30.53 | INFO | Adv example found during itr_num: 20 
+20:26:30.53 | INFO | added cuts : 20
+20:26:30.55 | INFO | re-optimized
+20:26:30.56 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.56 | INFO | --------------------- wgt details ---------------------
+20:26:30.56 | INFO | wpos diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.56 | INFO | wpos diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.56 | INFO | ################## itr_num: 21 time: 0s ###################
+20:26:30.56 | INFO | Adv example found during itr_num: 21 
+20:26:30.56 | INFO | added cuts : 21
+20:26:30.59 | INFO | re-optimized
+20:26:30.59 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.59 | INFO | --------------------- wgt details ---------------------
+20:26:30.59 | INFO | wpos diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.59 | INFO | wpos diff (f,c): (21, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.59 | INFO | wneg diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.59 | INFO | wneg diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.59 | INFO | bias diff (f,c): 1 | precut: 10.0 | postcut: 11.0
+20:26:30.59 | INFO | ################## itr_num: 22 time: 0s ###################
+20:26:30.60 | INFO | Adv example found during itr_num: 22 
+20:26:30.60 | INFO | added cuts : 22
+20:26:30.62 | INFO | re-optimized
+20:26:30.62 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.62 | INFO | --------------------- wgt details ---------------------
+20:26:30.62 | INFO | wneg diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.62 | INFO | wneg diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.63 | INFO | ################## itr_num: 23 time: 0s ###################
+20:26:30.63 | INFO | Adv example found during itr_num: 23 
+20:26:30.63 | INFO | added cuts : 23
+20:26:30.67 | INFO | re-optimized
+20:26:30.67 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.67 | INFO | --------------------- wgt details ---------------------
+20:26:30.67 | INFO | wneg diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.67 | INFO | wneg diff (f,c): (10, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.67 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 18.0
+20:26:30.67 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 6.0
+20:26:30.67 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 8.0
+20:26:30.67 | INFO | ################## itr_num: 24 time: 0s ###################
+20:26:30.68 | INFO | Adv example found during itr_num: 24 
+20:26:30.68 | INFO | added cuts : 24
+20:26:30.72 | INFO | re-optimized
+20:26:30.72 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.72 | INFO | --------------------- wgt details ---------------------
+20:26:30.72 | INFO | wneg diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.72 | INFO | wneg diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.72 | INFO | ################## itr_num: 25 time: 0s ###################
+20:26:30.73 | INFO | Adv example found during itr_num: 25 
+20:26:30.73 | INFO | added cuts : 25
+20:26:30.76 | INFO | re-optimized
+20:26:30.76 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.76 | INFO | --------------------- wgt details ---------------------
+20:26:30.76 | INFO | wpos diff (f,c): (21, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.76 | INFO | wneg diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.76 | INFO | wneg diff (f,c): (10, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.76 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.76 | INFO | bias diff (f,c): 0 | precut: 18.0 | postcut: 23.0
+20:26:30.76 | INFO | bias diff (f,c): 1 | precut: 6.0 | postcut: 10.0
+20:26:30.76 | INFO | bias diff (f,c): 2 | precut: 8.0 | postcut: 13.0
+20:26:30.76 | INFO | ################## itr_num: 26 time: 0s ###################
+20:26:30.77 | INFO | Adv example found during itr_num: 26 
+20:26:30.77 | INFO | added cuts : 26
+20:26:30.79 | INFO | re-optimized
+20:26:30.79 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.79 | INFO | --------------------- wgt details ---------------------
+20:26:30.79 | INFO | wpos diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.79 | INFO | wpos diff (f,c): (21, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.79 | INFO | wneg diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.79 | INFO | wneg diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.79 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 19.0
+20:26:30.79 | INFO | bias diff (f,c): 1 | precut: 10.0 | postcut: 7.0
+20:26:30.79 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 9.0
+20:26:30.79 | INFO | ################## itr_num: 27 time: 0s ###################
+20:26:30.80 | INFO | Adv example found during itr_num: 27 
+20:26:30.80 | INFO | added cuts : 27
+20:26:30.83 | INFO | re-optimized
+20:26:30.83 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.83 | INFO | --------------------- wgt details ---------------------
+20:26:30.83 | INFO | wpos diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.83 | INFO | wneg diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.83 | INFO | wneg diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.83 | INFO | wneg diff (f,c): (10, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.83 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 23.0
+20:26:30.83 | INFO | bias diff (f,c): 1 | precut: 7.0 | postcut: 11.0
+20:26:30.83 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 13.0
+20:26:30.83 | INFO | ################## itr_num: 28 time: 0s ###################
+20:26:30.83 | INFO | Adv example found during itr_num: 28 
+20:26:30.83 | INFO | added cuts : 28
+20:26:30.87 | INFO | re-optimized
+20:26:30.87 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.87 | INFO | --------------------- wgt details ---------------------
+20:26:30.87 | INFO | wpos diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.87 | INFO | wneg diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.87 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 18.0
+20:26:30.87 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 6.0
+20:26:30.87 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 8.0
+20:26:30.87 | INFO | ################## itr_num: 29 time: 1s ###################
+20:26:30.87 | INFO | Adv example found during itr_num: 29 
+20:26:30.87 | INFO | added cuts : 29
+20:26:30.91 | INFO | re-optimized
+20:26:30.91 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.91 | INFO | --------------------- wgt details ---------------------
+20:26:30.91 | INFO | wpos diff (f,c): (1, 1) | precut: 1.0 | postcut: 0.0
+20:26:30.91 | INFO | wpos diff (f,c): (19, 0) | precut: 1.0 | postcut: -0.0
+20:26:30.91 | INFO | wneg diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:30.91 | INFO | bias diff (f,c): 0 | precut: 18.0 | postcut: 23.0
+20:26:30.91 | INFO | bias diff (f,c): 1 | precut: 6.0 | postcut: 11.0
+20:26:30.91 | INFO | bias diff (f,c): 2 | precut: 8.0 | postcut: 13.0
+20:26:30.91 | INFO | ################## itr_num: 30 time: 1s ###################
+20:26:30.92 | INFO | Adv example found during itr_num: 30 
+20:26:30.92 | INFO | added cuts : 30
+20:26:30.96 | INFO | re-optimized
+20:26:30.96 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:30.96 | INFO | --------------------- wgt details ---------------------
+20:26:30.96 | INFO | wpos diff (f,c): (19, 0) | precut: -0.0 | postcut: 1.0
+20:26:30.96 | INFO | wneg diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.96 | INFO | wneg diff (f,c): (21, 1) | precut: -0.0 | postcut: 1.0
+20:26:30.96 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 12.0
+20:26:30.96 | INFO | ################## itr_num: 31 time: 1s ###################
+20:26:30.97 | INFO | Adv example found during itr_num: 31 
+20:26:30.97 | INFO | added cuts : 31
+20:26:31.02 | INFO | re-optimized
+20:26:31.02 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.02 | INFO | --------------------- wgt details ---------------------
+20:26:31.02 | INFO | wpos diff (f,c): (16, 2) | precut: 1.0 | postcut: -0.0
+20:26:31.02 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: 0.0
+20:26:31.02 | INFO | wneg diff (f,c): (19, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.02 | INFO | wneg diff (f,c): (21, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.02 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 19.0
+20:26:31.02 | INFO | bias diff (f,c): 1 | precut: 12.0 | postcut: 7.0
+20:26:31.02 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 9.0
+20:26:31.02 | INFO | ################## itr_num: 32 time: 1s ###################
+20:26:31.03 | INFO | Adv example found during itr_num: 32 
+20:26:31.03 | INFO | added cuts : 32
+20:26:31.06 | INFO | re-optimized
+20:26:31.06 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.06 | INFO | --------------------- wgt details ---------------------
+20:26:31.06 | INFO | wpos diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.06 | INFO | wpos diff (f,c): (16, 2) | precut: -0.0 | postcut: 1.0
+20:26:31.06 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 23.0
+20:26:31.06 | INFO | bias diff (f,c): 1 | precut: 7.0 | postcut: 11.0
+20:26:31.06 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 13.0
+20:26:31.06 | INFO | ################## itr_num: 33 time: 1s ###################
+20:26:31.06 | INFO | Adv example found during itr_num: 33 
+20:26:31.06 | INFO | added cuts : 33
+20:26:31.09 | INFO | re-optimized
+20:26:31.09 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.09 | INFO | --------------------- wgt details ---------------------
+20:26:31.09 | INFO | wpos diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.09 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.09 | INFO | wneg diff (f,c): (10, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.09 | INFO | wneg diff (f,c): (19, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.09 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 19.0
+20:26:31.09 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 6.0
+20:26:31.09 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 9.0
+20:26:31.09 | INFO | ################## itr_num: 34 time: 1s ###################
+20:26:31.10 | INFO | Adv example found during itr_num: 34 
+20:26:31.10 | INFO | added cuts : 34
+20:26:31.13 | INFO | re-optimized
+20:26:31.13 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.13 | INFO | --------------------- wgt details ---------------------
+20:26:31.13 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.13 | INFO | wpos diff (f,c): (21, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.13 | INFO | wneg diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.13 | INFO | wneg diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.13 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 23.0
+20:26:31.13 | INFO | bias diff (f,c): 1 | precut: 6.0 | postcut: 10.0
+20:26:31.13 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 13.0
+20:26:31.13 | INFO | ################## itr_num: 35 time: 1s ###################
+20:26:31.14 | INFO | Adv example found during itr_num: 35 
+20:26:31.14 | INFO | added cuts : 35
+20:26:31.17 | INFO | re-optimized
+20:26:31.17 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.17 | INFO | --------------------- wgt details ---------------------
+20:26:31.17 | INFO | wpos diff (f,c): (19, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.17 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.17 | INFO | wpos diff (f,c): (21, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.17 | INFO | wneg diff (f,c): (1, 1) | precut: 1.0 | postcut: 0.0
+20:26:31.17 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 18.0
+20:26:31.17 | INFO | bias diff (f,c): 1 | precut: 10.0 | postcut: 5.0
+20:26:31.17 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 8.0
+20:26:31.17 | INFO | ################## itr_num: 36 time: 1s ###################
+20:26:31.18 | INFO | Adv example found during itr_num: 36 
+20:26:31.18 | INFO | added cuts : 36
+20:26:31.22 | INFO | re-optimized
+20:26:31.22 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.22 | INFO | --------------------- wgt details ---------------------
+20:26:31.22 | INFO | wpos diff (f,c): (19, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.22 | INFO | wneg diff (f,c): (1, 1) | precut: 0.0 | postcut: 1.0
+20:26:31.22 | INFO | bias diff (f,c): 0 | precut: 18.0 | postcut: 23.0
+20:26:31.22 | INFO | bias diff (f,c): 1 | precut: 5.0 | postcut: 10.0
+20:26:31.22 | INFO | bias diff (f,c): 2 | precut: 8.0 | postcut: 13.0
+20:26:31.22 | INFO | ################## itr_num: 37 time: 1s ###################
+20:26:31.22 | INFO | Adv example found during itr_num: 37 
+20:26:31.22 | INFO | added cuts : 37
+20:26:31.27 | INFO | re-optimized
+20:26:31.27 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.27 | INFO | --------------------- wgt details ---------------------
+20:26:31.28 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.28 | INFO | wneg diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.28 | INFO | wneg diff (f,c): (19, 2) | precut: 1.0 | postcut: -0.0
+20:26:31.28 | INFO | bias diff (f,c): 1 | precut: 10.0 | postcut: 11.0
+20:26:31.28 | INFO | ################## itr_num: 38 time: 1s ###################
+20:26:31.28 | INFO | Adv example found during itr_num: 38 
+20:26:31.28 | INFO | added cuts : 38
+20:26:31.33 | INFO | re-optimized
+20:26:31.33 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.33 | INFO | --------------------- wgt details ---------------------
+20:26:31.33 | INFO | wpos diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.33 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.33 | INFO | wneg diff (f,c): (19, 2) | precut: -0.0 | postcut: 1.0
+20:26:31.33 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 10.0
+20:26:31.33 | INFO | ################## itr_num: 39 time: 1s ###################
+20:26:31.34 | INFO | Adv example found during itr_num: 39 
+20:26:31.34 | INFO | added cuts : 39
+20:26:31.39 | INFO | re-optimized
+20:26:31.40 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.40 | INFO | --------------------- wgt details ---------------------
+20:26:31.40 | INFO | wpos diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.40 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.40 | INFO | wpos diff (f,c): (21, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.40 | INFO | wneg diff (f,c): (19, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.40 | INFO | ################## itr_num: 40 time: 1s ###################
+20:26:31.40 | INFO | Adv example found during itr_num: 40 
+20:26:31.40 | INFO | added cuts : 40
+20:26:31.45 | INFO | re-optimized
+20:26:31.45 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.45 | INFO | --------------------- wgt details ---------------------
+20:26:31.45 | INFO | wpos diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.45 | INFO | wneg diff (f,c): (19, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.45 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 18.0
+20:26:31.45 | INFO | bias diff (f,c): 1 | precut: 10.0 | postcut: 5.0
+20:26:31.45 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 8.0
+20:26:31.45 | INFO | ################## itr_num: 41 time: 1s ###################
+20:26:31.46 | INFO | Adv example found during itr_num: 41 
+20:26:31.46 | INFO | added cuts : 41
+20:26:31.49 | INFO | re-optimized
+20:26:31.49 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.49 | INFO | --------------------- wgt details ---------------------
+20:26:31.49 | INFO | wpos diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.49 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.49 | INFO | wpos diff (f,c): (21, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.49 | INFO | wneg diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.49 | INFO | bias diff (f,c): 0 | precut: 18.0 | postcut: 19.0
+20:26:31.49 | INFO | bias diff (f,c): 1 | precut: 5.0 | postcut: 6.0
+20:26:31.49 | INFO | bias diff (f,c): 2 | precut: 8.0 | postcut: 9.0
+20:26:31.49 | INFO | ################## itr_num: 42 time: 1s ###################
+20:26:31.50 | INFO | Adv example found during itr_num: 42 
+20:26:31.50 | INFO | added cuts : 42
+20:26:31.56 | INFO | re-optimized
+20:26:31.56 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.56 | INFO | --------------------- wgt details ---------------------
+20:26:31.56 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.56 | INFO | wneg diff (f,c): (10, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.56 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 23.0
+20:26:31.56 | INFO | bias diff (f,c): 1 | precut: 6.0 | postcut: 11.0
+20:26:31.56 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 13.0
+20:26:31.56 | INFO | ################## itr_num: 43 time: 1s ###################
+20:26:31.56 | INFO | Adv example found during itr_num: 43 
+20:26:31.56 | INFO | added cuts : 43
+20:26:31.60 | INFO | re-optimized
+20:26:31.60 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.60 | INFO | --------------------- wgt details ---------------------
+20:26:31.60 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.60 | INFO | wneg diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.60 | INFO | wneg diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.60 | INFO | wneg diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.60 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 10.0
+20:26:31.60 | INFO | ################## itr_num: 44 time: 1s ###################
+20:26:31.61 | INFO | Adv example found during itr_num: 44 
+20:26:31.61 | INFO | added cuts : 44
+20:26:31.66 | INFO | re-optimized
+20:26:31.66 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.66 | INFO | --------------------- wgt details ---------------------
+20:26:31.66 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: 0.0
+20:26:31.66 | INFO | wneg diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.66 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: 0.0
+20:26:31.66 | INFO | wneg diff (f,c): (19, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.66 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 19.0
+20:26:31.66 | INFO | bias diff (f,c): 1 | precut: 10.0 | postcut: 7.0
+20:26:31.66 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 9.0
+20:26:31.66 | INFO | ################## itr_num: 45 time: 1s ###################
+20:26:31.67 | INFO | Adv example found during itr_num: 45 
+20:26:31.67 | INFO | added cuts : 45
+20:26:31.71 | INFO | re-optimized
+20:26:31.71 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.71 | INFO | --------------------- wgt details ---------------------
+20:26:31.71 | INFO | wneg diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.71 | INFO | wneg diff (f,c): (10, 1) | precut: 0.0 | postcut: 1.0
+20:26:31.71 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 23.0
+20:26:31.71 | INFO | bias diff (f,c): 1 | precut: 7.0 | postcut: 11.0
+20:26:31.71 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 13.0
+20:26:31.71 | INFO | ################## itr_num: 46 time: 1s ###################
+20:26:31.72 | INFO | Adv example found during itr_num: 46 
+20:26:31.72 | INFO | added cuts : 46
+20:26:31.76 | INFO | re-optimized
+20:26:31.76 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.76 | INFO | --------------------- wgt details ---------------------
+20:26:31.76 | INFO | wneg diff (f,c): (7, 1) | precut: 0.0 | postcut: 1.0
+20:26:31.76 | INFO | wneg diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.76 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 19.0
+20:26:31.76 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 7.0
+20:26:31.76 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 9.0
+20:26:31.76 | INFO | ################## itr_num: 47 time: 1s ###################
+20:26:31.77 | INFO | Adv example found during itr_num: 47 
+20:26:31.77 | INFO | added cuts : 47
+20:26:31.81 | INFO | re-optimized
+20:26:31.81 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.81 | INFO | --------------------- wgt details ---------------------
+20:26:31.81 | INFO | wpos diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.81 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.81 | INFO | wneg diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.81 | INFO | wneg diff (f,c): (19, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.81 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 23.0
+20:26:31.81 | INFO | bias diff (f,c): 1 | precut: 7.0 | postcut: 10.0
+20:26:31.81 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 13.0
+20:26:31.81 | INFO | ################## itr_num: 48 time: 1s ###################
+20:26:31.82 | INFO | Adv example found during itr_num: 48 
+20:26:31.82 | INFO | added cuts : 48
+20:26:31.86 | INFO | re-optimized
+20:26:31.86 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.86 | INFO | --------------------- wgt details ---------------------
+20:26:31.86 | INFO | wpos diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.86 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.86 | INFO | wneg diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.86 | INFO | wneg diff (f,c): (19, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.86 | INFO | bias diff (f,c): 1 | precut: 10.0 | postcut: 11.0
+20:26:31.86 | INFO | ################## itr_num: 49 time: 2s ###################
+20:26:31.87 | INFO | Adv example found during itr_num: 49 
+20:26:31.87 | INFO | added cuts : 49
+20:26:31.93 | INFO | re-optimized
+20:26:31.93 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:31.93 | INFO | --------------------- wgt details ---------------------
+20:26:31.93 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:31.93 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:31.93 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 20.0
+20:26:31.93 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 7.0
+20:26:31.93 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 10.0
+20:26:31.93 | INFO | ################## itr_num: 50 time: 2s ###################
+20:26:31.94 | INFO | Adv example found during itr_num: 50 
+20:26:31.94 | INFO | added cuts : 50
+20:26:32.01 | INFO | re-optimized
+20:26:32.01 | INFO | ObjVal: -1750.0 | Bound: -1750.0 | Gap: 0.0 | Optimal: True
+20:26:32.01 | INFO | --------------------- wgt details ---------------------
+20:26:32.02 | INFO | wpos diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.02 | INFO | wneg diff (f,c): (19, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.02 | INFO | bias diff (f,c): 0 | precut: 20.0 | postcut: 19.0
+20:26:32.02 | INFO | bias diff (f,c): 1 | precut: 7.0 | postcut: 6.0
+20:26:32.02 | INFO | bias diff (f,c): 2 | precut: 10.0 | postcut: 9.0
+20:26:32.02 | INFO | ################## itr_num: 51 time: 2s ###################
+20:26:32.02 | INFO | Adv example found during itr_num: 51 
+20:26:32.02 | INFO | added cuts : 51
+20:26:32.08 | INFO | re-optimized
+20:26:32.08 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:32.08 | INFO | --------------------- wgt details ---------------------
+20:26:32.08 | INFO | wpos diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.08 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.08 | INFO | wneg diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.08 | INFO | wneg diff (f,c): (10, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.08 | INFO | wneg diff (f,c): (19, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.08 | INFO | bias diff (f,c): 1 | precut: 6.0 | postcut: 7.0
+20:26:32.08 | INFO | ################## itr_num: 52 time: 2s ###################
+20:26:32.09 | INFO | Adv example found during itr_num: 52 
+20:26:32.09 | INFO | added cuts : 52
+20:26:32.16 | INFO | re-optimized
+20:26:32.16 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:32.16 | INFO | --------------------- wgt details ---------------------
+20:26:32.16 | INFO | wpos diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.16 | INFO | wpos diff (f,c): (7, 1) | precut: 0.0 | postcut: 1.0
+20:26:32.16 | INFO | wneg diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.16 | INFO | wneg diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.16 | INFO | wneg diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.16 | INFO | wneg diff (f,c): (19, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.16 | INFO | ################## itr_num: 53 time: 2s ###################
+20:26:32.17 | INFO | Adv example found during itr_num: 53 
+20:26:32.17 | INFO | added cuts : 53
+20:26:32.25 | INFO | re-optimized
+20:26:32.25 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:32.25 | INFO | --------------------- wgt details ---------------------
+20:26:32.25 | INFO | wpos diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.25 | INFO | wneg diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.25 | INFO | ################## itr_num: 54 time: 2s ###################
+20:26:32.26 | INFO | Adv example found during itr_num: 54 
+20:26:32.26 | INFO | added cuts : 54
+20:26:32.32 | INFO | re-optimized
+20:26:32.32 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:32.32 | INFO | --------------------- wgt details ---------------------
+20:26:32.32 | INFO | wpos diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.32 | INFO | wpos diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.32 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.32 | INFO | wneg diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.32 | INFO | wneg diff (f,c): (10, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.32 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.32 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 23.0
+20:26:32.32 | INFO | bias diff (f,c): 1 | precut: 7.0 | postcut: 10.0
+20:26:32.32 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 13.0
+20:26:32.32 | INFO | ################## itr_num: 55 time: 2s ###################
+20:26:32.32 | INFO | Adv example found during itr_num: 55 
+20:26:32.32 | INFO | added cuts : 55
+20:26:32.39 | INFO | re-optimized
+20:26:32.39 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:32.40 | INFO | --------------------- wgt details ---------------------
+20:26:32.40 | INFO | wpos diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.40 | INFO | wpos diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.40 | INFO | wpos diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.40 | INFO | wneg diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.40 | INFO | ################## itr_num: 56 time: 2s ###################
+20:26:32.40 | INFO | Adv example found during itr_num: 56 
+20:26:32.40 | INFO | added cuts : 56
+20:26:32.50 | INFO | re-optimized
+20:26:32.50 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:32.50 | INFO | --------------------- wgt details ---------------------
+20:26:32.50 | INFO | wpos diff (f,c): (1, 1) | precut: 1.0 | postcut: 0.0
+20:26:32.50 | INFO | wneg diff (f,c): (10, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.50 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 20.0
+20:26:32.50 | INFO | bias diff (f,c): 1 | precut: 10.0 | postcut: 7.0
+20:26:32.50 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 10.0
+20:26:32.50 | INFO | ################## itr_num: 57 time: 2s ###################
+20:26:32.51 | INFO | Adv example found during itr_num: 57 
+20:26:32.51 | INFO | added cuts : 57
+20:26:32.58 | INFO | re-optimized
+20:26:32.58 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:32.58 | INFO | --------------------- wgt details ---------------------
+20:26:32.58 | INFO | wpos diff (f,c): (21, 1) | precut: 0.0 | postcut: 1.0
+20:26:32.58 | INFO | wneg diff (f,c): (10, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.58 | INFO | bias diff (f,c): 0 | precut: 20.0 | postcut: 21.0
+20:26:32.58 | INFO | bias diff (f,c): 2 | precut: 10.0 | postcut: 11.0
+20:26:32.58 | INFO | ################## itr_num: 58 time: 2s ###################
+20:26:32.59 | INFO | Adv example found during itr_num: 58 
+20:26:32.59 | INFO | added cuts : 58
+20:26:32.69 | INFO | re-optimized
+20:26:32.69 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:32.69 | INFO | --------------------- wgt details ---------------------
+20:26:32.69 | INFO | wpos diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.69 | INFO | wpos diff (f,c): (7, 1) | precut: 1.0 | postcut: 0.0
+20:26:32.69 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: 0.0
+20:26:32.69 | INFO | wneg diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.69 | INFO | bias diff (f,c): 0 | precut: 21.0 | postcut: 20.0
+20:26:32.69 | INFO | bias diff (f,c): 2 | precut: 11.0 | postcut: 10.0
+20:26:32.69 | INFO | ################## itr_num: 59 time: 2s ###################
+20:26:32.69 | INFO | Adv example found during itr_num: 59 
+20:26:32.69 | INFO | added cuts : 59
+20:26:32.80 | INFO | re-optimized
+20:26:32.81 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:32.81 | INFO | --------------------- wgt details ---------------------
+20:26:32.81 | INFO | wpos diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.81 | INFO | wpos diff (f,c): (21, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.81 | INFO | wneg diff (f,c): (1, 1) | precut: 0.0 | postcut: 1.0
+20:26:32.81 | INFO | wneg diff (f,c): (18, 1) | precut: 0.0 | postcut: 1.0
+20:26:32.81 | INFO | bias diff (f,c): 0 | precut: 20.0 | postcut: 19.0
+20:26:32.81 | INFO | bias diff (f,c): 2 | precut: 10.0 | postcut: 9.0
+20:26:32.81 | INFO | ################## itr_num: 60 time: 2s ###################
+20:26:32.81 | INFO | Adv example found during itr_num: 60 
+20:26:32.81 | INFO | added cuts : 60
+20:26:32.93 | INFO | re-optimized
+20:26:32.93 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:32.93 | INFO | --------------------- wgt details ---------------------
+20:26:32.93 | INFO | wpos diff (f,c): (7, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.93 | INFO | wneg diff (f,c): (1, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.93 | INFO | wneg diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:32.93 | INFO | wneg diff (f,c): (19, 1) | precut: -0.0 | postcut: 1.0
+20:26:32.93 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 23.0
+20:26:32.93 | INFO | bias diff (f,c): 1 | precut: 7.0 | postcut: 11.0
+20:26:32.93 | INFO | bias diff (f,c): 2 | precut: 9.0 | postcut: 13.0
+20:26:32.93 | INFO | ################## itr_num: 61 time: 3s ###################
+20:26:32.94 | INFO | Adv example found during itr_num: 61 
+20:26:32.94 | INFO | added cuts : 61
+20:26:33.00 | INFO | re-optimized
+20:26:33.00 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:33.00 | INFO | --------------------- wgt details ---------------------
+20:26:33.00 | INFO | wpos diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:33.00 | INFO | wneg diff (f,c): (20, 1) | precut: 0.0 | postcut: 1.0
+20:26:33.00 | INFO | bias diff (f,c): 1 | precut: 11.0 | postcut: 12.0
+20:26:33.00 | INFO | ################## itr_num: 62 time: 3s ###################
+20:26:33.01 | INFO | Adv example found during itr_num: 62 
+20:26:33.01 | INFO | added cuts : 62
+20:26:33.08 | INFO | re-optimized
+20:26:33.08 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:33.08 | INFO | --------------------- wgt details ---------------------
+20:26:33.08 | INFO | wpos diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:33.08 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:33.08 | INFO | wpos diff (f,c): (21, 1) | precut: -0.0 | postcut: 1.0
+20:26:33.08 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:33.08 | INFO | wneg diff (f,c): (19, 1) | precut: 1.0 | postcut: -0.0
+20:26:33.08 | INFO | wneg diff (f,c): (20, 1) | precut: 1.0 | postcut: 0.0
+20:26:33.08 | INFO | bias diff (f,c): 0 | precut: 23.0 | postcut: 21.0
+20:26:33.08 | INFO | bias diff (f,c): 1 | precut: 12.0 | postcut: 7.0
+20:26:33.08 | INFO | bias diff (f,c): 2 | precut: 13.0 | postcut: 11.0
+20:26:33.08 | INFO | ################## itr_num: 63 time: 3s ###################
+20:26:33.09 | INFO | Adv example found during itr_num: 63 
+20:26:33.09 | INFO | added cuts : 63
+20:26:33.15 | INFO | re-optimized
+20:26:33.15 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:33.15 | INFO | --------------------- wgt details ---------------------
+20:26:33.15 | INFO | wpos diff (f,c): (1, 1) | precut: -0.0 | postcut: 1.0
+20:26:33.15 | INFO | wpos diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:33.15 | INFO | wpos diff (f,c): (20, 1) | precut: 1.0 | postcut: -0.0
+20:26:33.15 | INFO | wpos diff (f,c): (21, 1) | precut: 1.0 | postcut: -0.0
+20:26:33.15 | INFO | wneg diff (f,c): (7, 1) | precut: 0.0 | postcut: 1.0
+20:26:33.15 | INFO | wneg diff (f,c): (18, 1) | precut: -0.0 | postcut: 1.0
+20:26:33.15 | INFO | bias diff (f,c): 0 | precut: 21.0 | postcut: 19.0
+20:26:33.15 | INFO | bias diff (f,c): 2 | precut: 11.0 | postcut: 9.0
+20:26:33.15 | INFO | ################## itr_num: 64 time: 3s ###################
+20:26:33.16 | INFO | Adv example found during itr_num: 64 
+20:26:33.16 | INFO | added cuts : 64
+20:26:33.23 | INFO | re-optimized
+20:26:33.23 | INFO | ObjVal: -1749.0 | Bound: -1749.0 | Gap: 0.0 | Optimal: True
+20:26:33.23 | INFO | --------------------- wgt details ---------------------
+20:26:33.23 | INFO | wpos diff (f,c): (16, 2) | precut: 1.0 | postcut: 0.0
+20:26:33.23 | INFO | wpos diff (f,c): (20, 1) | precut: -0.0 | postcut: 1.0
+20:26:33.23 | INFO | wneg diff (f,c): (7, 1) | precut: 1.0 | postcut: -0.0
+20:26:33.23 | INFO | wneg diff (f,c): (18, 1) | precut: 1.0 | postcut: -0.0
+20:26:33.23 | INFO | bias diff (f,c): 0 | precut: 19.0 | postcut: 18.0
+20:26:33.23 | INFO | bias diff (f,c): 1 | precut: 7.0 | postcut: 6.0
+20:26:33.23 | INFO | ################## itr_num: 65 time: 3s ###################
+20:26:33.25 | INFO | return from while loop at end of itr_num: 65 after achieving ROBUSTNESS

@@ -1,0 +1,24 @@
+20:47:12.95 | INFO | 
+--- Mst Train ---
+20:47:12.99 | INFO | instance_num1: 0 | label: 0 | pred: 0 | correct: True | pred score: 27.0 | gen adv example: False | pred score idx: {0: 27.0, 1: 15.0, 2: 17.0}
+20:47:13.00 | INFO | instance_num1: 1 | label: 0 | pred: 0 | correct: True | pred score: 24.0 | gen adv example: False | pred score idx: {0: 24.0, 1: 15.0, 2: 20.0}
+20:47:13.00 | INFO | instance_num1: 2 | label: 0 | pred: 0 | correct: True | pred score: 24.0 | gen adv example: False | pred score idx: {0: 24.0, 1: 13.0, 2: 20.0}
+20:47:13.01 | INFO | instance_num1: 3 | label: 2 | pred: 0 | correct: False | pred score: 22.0 | gen adv example: False | pred score idx: {0: 22.0, 1: 16.0, 2: 22.0}
+20:47:13.01 | INFO | instance_num1: 4 | label: 0 | pred: 0 | correct: True | pred score: 29.0 | gen adv example: False | pred score idx: {0: 29.0, 1: 15.0, 2: 15.0}
+20:47:13.02 | INFO | instance_num1: 5 | label: 0 | pred: 0 | correct: True | pred score: 23.0 | gen adv example: True | pred score idx: {0: 23.0, 1: 18.0, 2: 21.0}
+20:47:13.03 | INFO | instance_num1: 6 | label: 0 | pred: 0 | correct: True | pred score: 24.0 | gen adv example: False | pred score idx: {0: 24.0, 1: 17.0, 2: 20.0}
+20:47:13.03 | INFO | instance_num1: 7 | label: 2 | pred: 2 | correct: True | pred score: 24.0 | gen adv example: True | pred score idx: {0: 20.0, 1: 14.0, 2: 24.0}
+20:47:13.04 | INFO | instance_num1: 8 | label: 2 | pred: 2 | correct: True | pred score: 24.0 | gen adv example: True | pred score idx: {0: 20.0, 1: 17.0, 2: 24.0}
+20:47:13.04 | INFO | instance_num1: 9 | label: 2 | pred: 0 | correct: False | pred score: 22.0 | gen adv example: False | pred score idx: {0: 22.0, 1: 21.0, 2: 22.0}
+20:47:13.33 | INFO | 
+--- Adv Train ---
+20:47:13.37 | INFO | instance_num1: 0 | label: 0 | pred: 0 | correct: True | pred score: 20.0 | gen adv example: False | pred score idx: {0: 20.0, 1: 5.0, 2: 6.0}
+20:47:13.37 | INFO | instance_num1: 1 | label: 0 | pred: 0 | correct: True | pred score: 17.0 | gen adv example: False | pred score idx: {0: 17.0, 1: 5.0, 2: 9.0}
+20:47:13.38 | INFO | instance_num1: 2 | label: 0 | pred: 0 | correct: True | pred score: 17.0 | gen adv example: False | pred score idx: {0: 17.0, 1: 3.0, 2: 9.0}
+20:47:13.38 | INFO | instance_num1: 3 | label: 2 | pred: 0 | correct: False | pred score: 15.0 | gen adv example: False | pred score idx: {0: 15.0, 1: 6.0, 2: 11.0}
+20:47:13.39 | INFO | instance_num1: 4 | label: 0 | pred: 0 | correct: True | pred score: 22.0 | gen adv example: False | pred score idx: {0: 22.0, 1: 5.0, 2: 4.0}
+20:47:13.39 | INFO | instance_num1: 5 | label: 0 | pred: 0 | correct: True | pred score: 16.0 | gen adv example: False | pred score idx: {0: 16.0, 1: 8.0, 2: 10.0}
+20:47:13.40 | INFO | instance_num1: 6 | label: 0 | pred: 0 | correct: True | pred score: 17.0 | gen adv example: False | pred score idx: {0: 17.0, 1: 7.0, 2: 9.0}
+20:47:13.40 | INFO | instance_num1: 7 | label: 2 | pred: 0 | correct: False | pred score: 13.0 | gen adv example: False | pred score idx: {0: 13.0, 1: 4.0, 2: 13.0}
+20:47:13.40 | INFO | instance_num1: 8 | label: 2 | pred: 0 | correct: False | pred score: 13.0 | gen adv example: False | pred score idx: {0: 13.0, 1: 7.0, 2: 13.0}
+20:47:13.40 | INFO | instance_num1: 9 | label: 2 | pred: 0 | correct: False | pred score: 15.0 | gen adv example: False | pred score idx: {0: 15.0, 1: 11.0, 2: 11.0}

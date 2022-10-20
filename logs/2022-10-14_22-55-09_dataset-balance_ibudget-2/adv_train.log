@@ -1,0 +1,6 @@
+22:55:09.72 | INFO | initial optimization
+22:55:09.72 | INFO | while loop timeout: 0s
+22:55:09.72 | INFO | while loop start_time: 2022-10-14 11:55:09
+22:55:09.72 | INFO | while loop end_time: 2022-10-14 11:55:09
+22:55:09.72 | INFO | ################## itr_num: 1 time: 0s ###################
+22:55:09.76 | INFO | return from while loop at end of itr_num: 1 after achieving ROBUSTNESS

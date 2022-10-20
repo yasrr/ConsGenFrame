@@ -1,0 +1,6 @@
+20:40:58.18 | INFO | Lazy Con: OFF
+20:40:58.20 | INFO | Optimised - caller: model_optimize
+20:40:58.34 | INFO | Lazy Con: OFF
+20:40:58.35 | INFO | Optimised - caller: model_optimize
+20:40:58.41 | INFO | Lazy Con: OFF
+20:40:58.42 | INFO | Optimised - caller: adv_train

@@ -1,0 +1,384 @@
+23:28:30.59 | INFO | ################## itr_num: 999 ###################
+23:28:30.59 | INFO | ------------------ Instance Details ------------------
+23:28:30.59 | INFO | instance_num1: 0
+23:28:30.59 | INFO | label: 2
+23:28:30.59 | INFO | pred: 0
+23:28:30.59 | INFO | correct: False
+23:28:30.59 | INFO | max class score: 14.0
+23:28:30.59 | INFO | all class scores: {0: 14.0, 1: 7.0, 2: 8.0}
+23:28:30.59 | INFO | ################## itr_num: 999 ###################
+23:28:30.59 | INFO | ------------------ Instance Details ------------------
+23:28:30.59 | INFO | instance_num1: 1
+23:28:30.59 | INFO | label: 0
+23:28:30.59 | INFO | pred: 0
+23:28:30.59 | INFO | correct: True
+23:28:30.59 | INFO | max class score: 20.0
+23:28:30.59 | INFO | all class scores: {0: 20.0, 1: 1.0, 2: 2.0}
+23:28:30.59 | INFO | -----------Sub-Problem Details-----------
+23:28:30.59 | INFO | No solution found
+23:28:30.59 | INFO | x_ins: [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+23:28:30.59 | INFO | adv_count (unchanged): 0
+23:28:30.59 | INFO | ################## itr_num: 999 ###################
+23:28:30.59 | INFO | ------------------ Instance Details ------------------
+23:28:30.59 | INFO | instance_num1: 2
+23:28:30.59 | INFO | label: 2
+23:28:30.59 | INFO | pred: 0
+23:28:30.59 | INFO | correct: False
+23:28:30.59 | INFO | max class score: 11.0
+23:28:30.59 | INFO | all class scores: {0: 11.0, 1: 7.0, 2: 11.0}
+23:28:30.59 | INFO | ################## itr_num: 999 ###################
+23:28:30.59 | INFO | ------------------ Instance Details ------------------
+23:28:30.59 | INFO | instance_num1: 3
+23:28:30.59 | INFO | label: 0
+23:28:30.59 | INFO | pred: 0
+23:28:30.59 | INFO | correct: True
+23:28:30.59 | INFO | max class score: 19.0
+23:28:30.59 | INFO | all class scores: {0: 19.0, 1: 3.0, 2: 3.0}
+23:28:30.60 | INFO | -----------Sub-Problem Details-----------
+23:28:30.60 | INFO | No solution found
+23:28:30.60 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+23:28:30.60 | INFO | adv_count (unchanged): 0
+23:28:30.60 | INFO | ################## itr_num: 999 ###################
+23:28:30.60 | INFO | ------------------ Instance Details ------------------
+23:28:30.60 | INFO | instance_num1: 4
+23:28:30.60 | INFO | label: 0
+23:28:30.60 | INFO | pred: 0
+23:28:30.60 | INFO | correct: True
+23:28:30.60 | INFO | max class score: 20.0
+23:28:30.60 | INFO | all class scores: {0: 20.0, 1: 1.0, 2: 2.0}
+23:28:30.60 | INFO | -----------Sub-Problem Details-----------
+23:28:30.60 | INFO | No solution found
+23:28:30.60 | INFO | x_ins: [0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+23:28:30.60 | INFO | adv_count (unchanged): 0
+23:28:30.60 | INFO | ################## itr_num: 999 ###################
+23:28:30.60 | INFO | ------------------ Instance Details ------------------
+23:28:30.60 | INFO | instance_num1: 5
+23:28:30.60 | INFO | label: 0
+23:28:30.60 | INFO | pred: 0
+23:28:30.60 | INFO | correct: True
+23:28:30.60 | INFO | max class score: 14.0
+23:28:30.60 | INFO | all class scores: {0: 14.0, 1: 7.0, 2: 8.0}
+23:28:30.61 | INFO | -----------Sub-Problem Details-----------
+23:28:30.61 | INFO | A solution found
+23:28:30.61 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+23:28:30.61 | INFO | x_adv: [0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1]
+23:28:30.61 | INFO | flips: 4
+23:28:30.61 | INFO | x_ins_pred: 0
+23:28:30.61 | INFO | x_ins_pred score_dict: {0: 14.0, 1: 7.0, 2: 8.0}
+23:28:30.61 | INFO | x_adv_pred: 2
+23:28:30.61 | INFO | x_adv_pred score_dict: {0: 10.0, 1: 9.0, 2: 11.0}
+23:28:30.61 | INFO | label wpos ls: [1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]
+23:28:30.61 | INFO | label wneg ls: [0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1]
+23:28:30.61 | INFO | label bias: 17.0
+23:28:30.61 | INFO | adv wpos ls: [0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.61 | INFO | adv wneg ls: [1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]
+23:28:30.61 | INFO | adv bias: 5.0
+23:28:30.61 | INFO | label+adv w+b: [1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]|[0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1]|17.0|[0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]|[1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]|5.0
+23:28:30.61 | INFO | q01: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+23:28:30.61 | INFO | q10: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+23:28:30.61 | INFO | Solution does change prediction
+23:28:30.61 | INFO | adv_count (incremented): 1
+23:28:30.61 | INFO | ################## itr_num: 999 ###################
+23:28:30.61 | INFO | ------------------ Instance Details ------------------
+23:28:30.61 | INFO | instance_num1: 6
+23:28:30.61 | INFO | label: 0
+23:28:30.61 | INFO | pred: 0
+23:28:30.61 | INFO | correct: True
+23:28:30.61 | INFO | max class score: 14.0
+23:28:30.61 | INFO | all class scores: {0: 14.0, 1: 6.0, 2: 8.0}
+23:28:30.61 | INFO | -----------Sub-Problem Details-----------
+23:28:30.61 | INFO | A solution found
+23:28:30.61 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.61 | INFO | x_adv: [0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1]
+23:28:30.61 | INFO | flips: 4
+23:28:30.61 | INFO | x_ins_pred: 0
+23:28:30.61 | INFO | x_ins_pred score_dict: {0: 14.0, 1: 6.0, 2: 8.0}
+23:28:30.61 | INFO | x_adv_pred: 2
+23:28:30.61 | INFO | x_adv_pred score_dict: {0: 10.0, 1: 9.0, 2: 11.0}
+23:28:30.61 | INFO | label wpos ls: [1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]
+23:28:30.61 | INFO | label wneg ls: [0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1]
+23:28:30.61 | INFO | label bias: 17.0
+23:28:30.61 | INFO | adv wpos ls: [0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.61 | INFO | adv wneg ls: [1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]
+23:28:30.61 | INFO | adv bias: 5.0
+23:28:30.61 | INFO | label+adv w+b: [1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]|[0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1]|17.0|[0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]|[1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]|5.0
+23:28:30.61 | INFO | q01: [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+23:28:30.61 | INFO | q10: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+23:28:30.61 | INFO | Solution does change prediction
+23:28:30.62 | INFO | adv_count (incremented): 1
+23:28:30.62 | INFO | ################## itr_num: 999 ###################
+23:28:30.62 | INFO | ------------------ Instance Details ------------------
+23:28:30.62 | INFO | instance_num1: 7
+23:28:30.62 | INFO | label: 0
+23:28:30.62 | INFO | pred: 0
+23:28:30.62 | INFO | correct: True
+23:28:30.62 | INFO | max class score: 15.0
+23:28:30.62 | INFO | all class scores: {0: 15.0, 1: 5.0, 2: 7.0}
+23:28:30.62 | INFO | -----------Sub-Problem Details-----------
+23:28:30.62 | INFO | A solution found
+23:28:30.62 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.62 | INFO | x_adv: [0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.62 | INFO | flips: 6
+23:28:30.62 | INFO | x_ins_pred: 0
+23:28:30.62 | INFO | x_ins_pred score_dict: {0: 15.0, 1: 5.0, 2: 7.0}
+23:28:30.62 | INFO | x_adv_pred: 2
+23:28:30.62 | INFO | x_adv_pred score_dict: {0: 9.0, 1: 9.0, 2: 13.0}
+23:28:30.62 | INFO | label wpos ls: [1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]
+23:28:30.62 | INFO | label wneg ls: [0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1]
+23:28:30.62 | INFO | label bias: 17.0
+23:28:30.62 | INFO | adv wpos ls: [0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.62 | INFO | adv wneg ls: [1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]
+23:28:30.62 | INFO | adv bias: 5.0
+23:28:30.62 | INFO | label+adv w+b: [1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]|[0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1]|17.0|[0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]|[1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]|5.0
+23:28:30.62 | INFO | q01: [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+23:28:30.62 | INFO | q10: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+23:28:30.62 | INFO | Solution does change prediction
+23:28:30.62 | INFO | adv_count (incremented): 1
+23:28:30.62 | INFO | ################## itr_num: 999 ###################
+23:28:30.62 | INFO | ------------------ Instance Details ------------------
+23:28:30.62 | INFO | instance_num1: 8
+23:28:30.62 | INFO | label: 0
+23:28:30.62 | INFO | pred: 0
+23:28:30.62 | INFO | correct: True
+23:28:30.62 | INFO | max class score: 18.0
+23:28:30.62 | INFO | all class scores: {0: 18.0, 1: 2.0, 2: 3.0}
+23:28:30.63 | INFO | -----------Sub-Problem Details-----------
+23:28:30.63 | INFO | No solution found
+23:28:30.63 | INFO | x_ins: [0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.63 | INFO | adv_count (unchanged): 0
+23:28:30.63 | INFO | ################## itr_num: 999 ###################
+23:28:30.63 | INFO | ------------------ Instance Details ------------------
+23:28:30.63 | INFO | instance_num1: 9
+23:28:30.63 | INFO | label: 0
+23:28:30.63 | INFO | pred: 0
+23:28:30.63 | INFO | correct: True
+23:28:30.63 | INFO | max class score: 19.0
+23:28:30.63 | INFO | all class scores: {0: 19.0, 1: 2.0, 2: 3.0}
+23:28:30.63 | INFO | -----------Sub-Problem Details-----------
+23:28:30.63 | INFO | No solution found
+23:28:30.63 | INFO | x_ins: [1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+23:28:30.63 | INFO | adv_count (unchanged): 0
+23:28:30.76 | INFO | ################## itr_num: 1 ###################
+23:28:30.76 | INFO | ------------------ Instance Details ------------------
+23:28:30.76 | INFO | instance_num1: 0
+23:28:30.76 | INFO | label: 2
+23:28:30.76 | INFO | pred: 0
+23:28:30.76 | INFO | correct: False
+23:28:30.76 | INFO | max class score: 29.0
+23:28:30.76 | INFO | all class scores: {0: 29.0, 1: 1.0, 2: 1.0}
+23:28:30.76 | INFO | ################## itr_num: 1 ###################
+23:28:30.76 | INFO | ------------------ Instance Details ------------------
+23:28:30.76 | INFO | instance_num1: 1
+23:28:30.76 | INFO | label: 0
+23:28:30.76 | INFO | pred: 0
+23:28:30.76 | INFO | correct: True
+23:28:30.76 | INFO | max class score: 29.0
+23:28:30.76 | INFO | all class scores: {0: 29.0, 1: 0.0, 2: 0.0}
+23:28:30.76 | INFO | -----------Sub-Problem Details-----------
+23:28:30.76 | INFO | No solution found
+23:28:30.76 | INFO | x_ins: [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+23:28:30.76 | INFO | adv_count (unchanged): 0
+23:28:30.76 | INFO | ################## itr_num: 1 ###################
+23:28:30.76 | INFO | ------------------ Instance Details ------------------
+23:28:30.76 | INFO | instance_num1: 2
+23:28:30.76 | INFO | label: 2
+23:28:30.76 | INFO | pred: 0
+23:28:30.76 | INFO | correct: False
+23:28:30.76 | INFO | max class score: 28.0
+23:28:30.76 | INFO | all class scores: {0: 28.0, 1: 2.0, 2: 4.0}
+23:28:30.76 | INFO | ################## itr_num: 1 ###################
+23:28:30.76 | INFO | ------------------ Instance Details ------------------
+23:28:30.76 | INFO | instance_num1: 3
+23:28:30.76 | INFO | label: 0
+23:28:30.76 | INFO | pred: 0
+23:28:30.76 | INFO | correct: True
+23:28:30.76 | INFO | max class score: 28.0
+23:28:30.76 | INFO | all class scores: {0: 28.0, 1: 0.0, 2: 0.0}
+23:28:30.76 | INFO | -----------Sub-Problem Details-----------
+23:28:30.76 | INFO | No solution found
+23:28:30.76 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+23:28:30.76 | INFO | adv_count (unchanged): 0
+23:28:30.77 | INFO | ################## itr_num: 1 ###################
+23:28:30.77 | INFO | ------------------ Instance Details ------------------
+23:28:30.77 | INFO | instance_num1: 4
+23:28:30.77 | INFO | label: 0
+23:28:30.77 | INFO | pred: 0
+23:28:30.77 | INFO | correct: True
+23:28:30.77 | INFO | max class score: 29.0
+23:28:30.77 | INFO | all class scores: {0: 29.0, 1: 0.0, 2: 0.0}
+23:28:30.77 | INFO | -----------Sub-Problem Details-----------
+23:28:30.77 | INFO | No solution found
+23:28:30.77 | INFO | x_ins: [0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+23:28:30.77 | INFO | adv_count (unchanged): 0
+23:28:30.77 | INFO | ################## itr_num: 1 ###################
+23:28:30.77 | INFO | ------------------ Instance Details ------------------
+23:28:30.77 | INFO | instance_num1: 5
+23:28:30.77 | INFO | label: 0
+23:28:30.77 | INFO | pred: 0
+23:28:30.77 | INFO | correct: True
+23:28:30.77 | INFO | max class score: 29.0
+23:28:30.77 | INFO | all class scores: {0: 29.0, 1: 1.0, 2: 1.0}
+23:28:30.77 | INFO | -----------Sub-Problem Details-----------
+23:28:30.77 | INFO | No solution found
+23:28:30.77 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+23:28:30.77 | INFO | adv_count (unchanged): 0
+23:28:30.77 | INFO | ################## itr_num: 1 ###################
+23:28:30.77 | INFO | ------------------ Instance Details ------------------
+23:28:30.77 | INFO | instance_num1: 6
+23:28:30.77 | INFO | label: 0
+23:28:30.77 | INFO | pred: 0
+23:28:30.77 | INFO | correct: True
+23:28:30.77 | INFO | max class score: 29.0
+23:28:30.77 | INFO | all class scores: {0: 29.0, 1: 2.0, 2: 2.0}
+23:28:30.78 | INFO | -----------Sub-Problem Details-----------
+23:28:30.78 | INFO | No solution found
+23:28:30.78 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.78 | INFO | adv_count (unchanged): 0
+23:28:30.78 | INFO | ################## itr_num: 1 ###################
+23:28:30.78 | INFO | ------------------ Instance Details ------------------
+23:28:30.78 | INFO | instance_num1: 7
+23:28:30.78 | INFO | label: 0
+23:28:30.78 | INFO | pred: 0
+23:28:30.78 | INFO | correct: True
+23:28:30.78 | INFO | max class score: 30.0
+23:28:30.78 | INFO | all class scores: {0: 30.0, 1: 2.0, 2: 2.0}
+23:28:30.78 | INFO | -----------Sub-Problem Details-----------
+23:28:30.78 | INFO | No solution found
+23:28:30.78 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.78 | INFO | adv_count (unchanged): 0
+23:28:30.78 | INFO | ################## itr_num: 1 ###################
+23:28:30.78 | INFO | ------------------ Instance Details ------------------
+23:28:30.78 | INFO | instance_num1: 8
+23:28:30.78 | INFO | label: 0
+23:28:30.78 | INFO | pred: 0
+23:28:30.78 | INFO | correct: True
+23:28:30.78 | INFO | max class score: 29.0
+23:28:30.78 | INFO | all class scores: {0: 29.0, 1: 1.0, 2: 1.0}
+23:28:30.78 | INFO | -----------Sub-Problem Details-----------
+23:28:30.78 | INFO | No solution found
+23:28:30.78 | INFO | x_ins: [0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.78 | INFO | adv_count (unchanged): 0
+23:28:30.78 | INFO | ################## itr_num: 1 ###################
+23:28:30.78 | INFO | ------------------ Instance Details ------------------
+23:28:30.78 | INFO | instance_num1: 9
+23:28:30.78 | INFO | label: 0
+23:28:30.78 | INFO | pred: 0
+23:28:30.78 | INFO | correct: True
+23:28:30.78 | INFO | max class score: 28.0
+23:28:30.78 | INFO | all class scores: {0: 28.0, 1: 0.0, 2: 0.0}
+23:28:30.79 | INFO | -----------Sub-Problem Details-----------
+23:28:30.79 | INFO | No solution found
+23:28:30.79 | INFO | x_ins: [1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+23:28:30.79 | INFO | adv_count (unchanged): 0
+23:28:30.82 | INFO | ################## itr_num: 999 ###################
+23:28:30.82 | INFO | ------------------ Instance Details ------------------
+23:28:30.82 | INFO | instance_num1: 0
+23:28:30.82 | INFO | label: 2
+23:28:30.82 | INFO | pred: 0
+23:28:30.82 | INFO | correct: False
+23:28:30.82 | INFO | max class score: 29.0
+23:28:30.82 | INFO | all class scores: {0: 29.0, 1: 1.0, 2: 1.0}
+23:28:30.82 | INFO | ################## itr_num: 999 ###################
+23:28:30.82 | INFO | ------------------ Instance Details ------------------
+23:28:30.82 | INFO | instance_num1: 1
+23:28:30.82 | INFO | label: 0
+23:28:30.82 | INFO | pred: 0
+23:28:30.82 | INFO | correct: True
+23:28:30.82 | INFO | max class score: 29.0
+23:28:30.82 | INFO | all class scores: {0: 29.0, 1: 0.0, 2: 0.0}
+23:28:30.82 | INFO | -----------Sub-Problem Details-----------
+23:28:30.82 | INFO | No solution found
+23:28:30.82 | INFO | x_ins: [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+23:28:30.82 | INFO | adv_count (unchanged): 0
+23:28:30.82 | INFO | ################## itr_num: 999 ###################
+23:28:30.82 | INFO | ------------------ Instance Details ------------------
+23:28:30.82 | INFO | instance_num1: 2
+23:28:30.82 | INFO | label: 2
+23:28:30.82 | INFO | pred: 0
+23:28:30.82 | INFO | correct: False
+23:28:30.82 | INFO | max class score: 28.0
+23:28:30.82 | INFO | all class scores: {0: 28.0, 1: 2.0, 2: 4.0}
+23:28:30.82 | INFO | ################## itr_num: 999 ###################
+23:28:30.82 | INFO | ------------------ Instance Details ------------------
+23:28:30.82 | INFO | instance_num1: 3
+23:28:30.82 | INFO | label: 0
+23:28:30.83 | INFO | pred: 0
+23:28:30.83 | INFO | correct: True
+23:28:30.83 | INFO | max class score: 28.0
+23:28:30.83 | INFO | all class scores: {0: 28.0, 1: 0.0, 2: 0.0}
+23:28:30.83 | INFO | -----------Sub-Problem Details-----------
+23:28:30.83 | INFO | No solution found
+23:28:30.83 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+23:28:30.83 | INFO | adv_count (unchanged): 0
+23:28:30.83 | INFO | ################## itr_num: 999 ###################
+23:28:30.83 | INFO | ------------------ Instance Details ------------------
+23:28:30.83 | INFO | instance_num1: 4
+23:28:30.83 | INFO | label: 0
+23:28:30.83 | INFO | pred: 0
+23:28:30.83 | INFO | correct: True
+23:28:30.83 | INFO | max class score: 29.0
+23:28:30.83 | INFO | all class scores: {0: 29.0, 1: 0.0, 2: 0.0}
+23:28:30.83 | INFO | -----------Sub-Problem Details-----------
+23:28:30.83 | INFO | No solution found
+23:28:30.83 | INFO | x_ins: [0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+23:28:30.83 | INFO | adv_count (unchanged): 0
+23:28:30.84 | INFO | ################## itr_num: 999 ###################
+23:28:30.84 | INFO | ------------------ Instance Details ------------------
+23:28:30.84 | INFO | instance_num1: 5
+23:28:30.84 | INFO | label: 0
+23:28:30.84 | INFO | pred: 0
+23:28:30.84 | INFO | correct: True
+23:28:30.84 | INFO | max class score: 29.0
+23:28:30.84 | INFO | all class scores: {0: 29.0, 1: 1.0, 2: 1.0}
+23:28:30.84 | INFO | -----------Sub-Problem Details-----------
+23:28:30.84 | INFO | No solution found
+23:28:30.84 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+23:28:30.84 | INFO | adv_count (unchanged): 0
+23:28:30.84 | INFO | ################## itr_num: 999 ###################
+23:28:30.84 | INFO | ------------------ Instance Details ------------------
+23:28:30.84 | INFO | instance_num1: 6
+23:28:30.84 | INFO | label: 0
+23:28:30.84 | INFO | pred: 0
+23:28:30.84 | INFO | correct: True
+23:28:30.84 | INFO | max class score: 29.0
+23:28:30.84 | INFO | all class scores: {0: 29.0, 1: 2.0, 2: 2.0}
+23:28:30.84 | INFO | -----------Sub-Problem Details-----------
+23:28:30.84 | INFO | No solution found
+23:28:30.84 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.84 | INFO | adv_count (unchanged): 0
+23:28:30.85 | INFO | ################## itr_num: 999 ###################
+23:28:30.85 | INFO | ------------------ Instance Details ------------------
+23:28:30.85 | INFO | instance_num1: 7
+23:28:30.85 | INFO | label: 0
+23:28:30.85 | INFO | pred: 0
+23:28:30.85 | INFO | correct: True
+23:28:30.85 | INFO | max class score: 30.0
+23:28:30.85 | INFO | all class scores: {0: 30.0, 1: 2.0, 2: 2.0}
+23:28:30.85 | INFO | -----------Sub-Problem Details-----------
+23:28:30.85 | INFO | No solution found
+23:28:30.85 | INFO | x_ins: [0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.85 | INFO | adv_count (unchanged): 0
+23:28:30.85 | INFO | ################## itr_num: 999 ###################
+23:28:30.85 | INFO | ------------------ Instance Details ------------------
+23:28:30.85 | INFO | instance_num1: 8
+23:28:30.85 | INFO | label: 0
+23:28:30.85 | INFO | pred: 0
+23:28:30.85 | INFO | correct: True
+23:28:30.85 | INFO | max class score: 29.0
+23:28:30.85 | INFO | all class scores: {0: 29.0, 1: 1.0, 2: 1.0}
+23:28:30.85 | INFO | -----------Sub-Problem Details-----------
+23:28:30.85 | INFO | No solution found
+23:28:30.85 | INFO | x_ins: [0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+23:28:30.85 | INFO | adv_count (unchanged): 0
+23:28:30.86 | INFO | ################## itr_num: 999 ###################
+23:28:30.86 | INFO | ------------------ Instance Details ------------------
+23:28:30.86 | INFO | instance_num1: 9
+23:28:30.86 | INFO | label: 0
+23:28:30.86 | INFO | pred: 0
+23:28:30.86 | INFO | correct: True
+23:28:30.86 | INFO | max class score: 28.0
+23:28:30.86 | INFO | all class scores: {0: 28.0, 1: 0.0, 2: 0.0}
+23:28:30.86 | INFO | -----------Sub-Problem Details-----------
+23:28:30.86 | INFO | No solution found
+23:28:30.86 | INFO | x_ins: [1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+23:28:30.86 | INFO | adv_count (unchanged): 0

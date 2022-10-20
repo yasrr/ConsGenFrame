@@ -1,0 +1,1620 @@
+
+Gurobi 9.5.2 (win64) logging started Wed Oct  5 20:54:08 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 136 rows, 131 columns and 571 nonzeros
+Model fingerprint: 0x343351c0
+Variable types: 0 continuous, 131 integer (48 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 8e+00]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+01]
+Found heuristic solution: objective 1.420000e+11
+Presolve removed 32 rows and 3 columns
+Presolve time: 0.00s
+Presolved: 104 rows, 128 columns, 533 nonzeros
+Variable types: 0 continuous, 128 integer (42 binary)
+Found heuristic solution: objective 1.420000e+11
+
+Root relaxation: objective -3.100000e+01, 51 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -31.00000    0    4 1.4200e+11  -31.00000   100%     -    0s
+H    0     0                      -2.0000000  -31.00000  1450%     -    0s
+H    0     0                     -26.0000000  -31.00000  19.2%     -    0s
+H    0     0                     -31.0000000  -31.00000  0.00%     -    0s
+     0     0  -31.00000    0    4  -31.00000  -31.00000  0.00%     -    0s
+
+Explored 1 nodes (51 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 5: -31 -26 -2 ... 1.42e+11
+No other solutions better than -31
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.100000000000e+01, best bound -3.100000000000e+01, gap 0.0000%
+
+Gurobi 9.5.2 (win64) logging started Wed Oct  5 20:54:16 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 416 rows and 280 columns
+Presolve time: 0.01s
+Presolved: 908 rows, 1270 columns, 7564 nonzeros
+Variable types: 0 continuous, 1270 integer (643 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root relaxation: objective -1.340000e+03, 314 iterations, 0.00 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -1340.000000 -1340.0000  0.00%     -    0s
+
+Explored 1 nodes (314 simplex iterations) in 0.02 seconds (0.02 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 3: -1340 7.9e+11 7.9e+11 
+No other solutions better than -1340
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.340000000000e+03, best bound -1.340000000000e+03, gap 0.0000%
+
+Gurobi 9.5.2 (win64) logging started Wed Oct  5 20:54:52 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 416 rows and 280 columns
+Presolve time: 0.01s
+Presolved: 908 rows, 1270 columns, 7564 nonzeros
+Variable types: 0 continuous, 1270 integer (643 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root relaxation: objective -1.340000e+03, 314 iterations, 0.00 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -1340.000000 -1340.0000  0.00%     -    0s
+
+Explored 1 nodes (314 simplex iterations) in 0.02 seconds (0.02 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 3: -1340 7.9e+11 7.9e+11 
+No other solutions better than -1340
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.340000000000e+03, best bound -1.340000000000e+03, gap 0.0000%
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 16:36:44 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 416 rows and 280 columns
+Presolve time: 0.01s
+Presolved: 908 rows, 1270 columns, 7564 nonzeros
+Variable types: 0 continuous, 1270 integer (643 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root relaxation: objective -1.340000e+03, 314 iterations, 0.00 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -1340.000000 -1340.0000  0.00%     -    0s
+
+Explored 1 nodes (314 simplex iterations) in 0.02 seconds (0.02 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 3: -1340 7.9e+11 7.9e+11 
+No other solutions better than -1340
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.340000000000e+03, best bound -1.340000000000e+03, gap 0.0000%
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 16:36:58 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.05 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.05 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 16:49:55 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.28 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.28 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 16:52:56 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.16 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.16 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 16:53:12 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.14 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.14 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 16:54:57 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.20 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.20 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 16:55:20 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.08 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.07 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 16:57:14 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.19 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 28, time in user-callback 5.19 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 16:58:22 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.08 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.08 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 17:01:00 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.06 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.06 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 17:01:08 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.03 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.03 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 17:02:01 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 248 rows and 3 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.00 seconds (0.01 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 82, time in user-callback 5.00 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 17:28:06 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 416 rows and 280 columns
+Presolve time: 0.01s
+Presolved: 908 rows, 1270 columns, 7564 nonzeros
+Variable types: 0 continuous, 1270 integer (643 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root relaxation: objective -1.340000e+03, 314 iterations, 0.00 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -1340.000000 -1340.0000  0.00%     -    0s
+
+Explored 1 nodes (314 simplex iterations) in 0.02 seconds (0.02 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 3: -1340 7.9e+11 7.9e+11 
+No other solutions better than -1340
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.340000000000e+03, best bound -1.340000000000e+03, gap 0.0000%
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 18:17:30 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 416 rows and 280 columns
+Presolve time: 0.01s
+Presolved: 908 rows, 1270 columns, 7564 nonzeros
+Variable types: 0 continuous, 1270 integer (643 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root relaxation: objective -1.340000e+03, 314 iterations, 0.00 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -1340.000000 -1340.0000  0.00%     -    0s
+
+Explored 1 nodes (314 simplex iterations) in 0.02 seconds (0.02 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 3: -1340 7.9e+11 7.9e+11 
+No other solutions better than -1340
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.340000000000e+03, best bound -1.340000000000e+03, gap 0.0000%
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 21:43:02 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 416 rows and 280 columns
+Presolve time: 0.01s
+Presolved: 908 rows, 1270 columns, 7564 nonzeros
+Variable types: 0 continuous, 1270 integer (643 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root relaxation: objective -1.340000e+03, 314 iterations, 0.00 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -1340.000000 -1340.0000  0.00%     -    0s
+
+Explored 1 nodes (314 simplex iterations) in 0.02 seconds (0.02 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 3: -1340 7.9e+11 7.9e+11 
+No other solutions better than -1340
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.340000000000e+03, best bound -1.340000000000e+03, gap 0.0000%
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 21:43:06 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.06 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.06 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 22:28:53 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 416 rows and 280 columns
+Presolve time: 0.01s
+Presolved: 908 rows, 1270 columns, 7564 nonzeros
+Variable types: 0 continuous, 1270 integer (643 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root relaxation: objective -1.340000e+03, 314 iterations, 0.01 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -1340.000000 -1340.0000  0.00%     -    0s
+
+Explored 1 nodes (314 simplex iterations) in 0.02 seconds (0.02 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 3: -1340 7.9e+11 7.9e+11 
+No other solutions better than -1340
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.340000000000e+03, best bound -1.340000000000e+03, gap 0.0000%
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 22:29:37 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 416 rows and 280 columns
+Presolve time: 0.01s
+Presolved: 908 rows, 1270 columns, 7564 nonzeros
+Variable types: 0 continuous, 1270 integer (643 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root relaxation: objective -1.340000e+03, 314 iterations, 0.00 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -1340.000000 -1340.0000  0.00%     -    0s
+
+Explored 1 nodes (314 simplex iterations) in 0.02 seconds (0.02 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 3: -1340 7.9e+11 7.9e+11 
+No other solutions better than -1340
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.340000000000e+03, best bound -1.340000000000e+03, gap 0.0000%
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 22:29:42 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.05 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.05 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 22:31:15 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.07 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.07 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 22:33:01 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.12 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.12 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 22:37:18 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 248 rows and 3 columns
+Presolve time: 0.01s
+Presolved: 1076 rows, 1547 columns, 8012 nonzeros
+Variable types: 0 continuous, 1547 integer (924 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.9840000e+33   2.480000e+32   1.984000e+03     15s
+
+Root relaxation: time limit, 0 iterations, 0.00 seconds (0.00 work units)
+
+Explored 1 nodes (0 simplex iterations) in 15.38 seconds (0.01 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 2: 7.9e+11 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000099150e+11, best bound -, gap -
+
+User-callback calls 149, time in user-callback 15.37 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 22:38:15 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.53 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.53 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 22:48:28 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.01 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.01 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:01:50 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.02 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.01 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:01:59 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.03 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.03 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:03:55 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 248 rows and 3 columns
+Presolve time: 0.01s
+Presolved: 1076 rows, 1547 columns, 8012 nonzeros
+Variable types: 0 continuous, 1547 integer (924 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.9840000e+33   2.480000e+32   1.984000e+03     15s
+
+Root relaxation: time limit, 0 iterations, 0.00 seconds (0.00 work units)
+
+Explored 1 nodes (0 simplex iterations) in 15.45 seconds (0.01 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 2: 7.9e+11 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000099150e+11, best bound -, gap -
+
+User-callback calls 149, time in user-callback 15.44 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:04:25 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 248 rows and 3 columns
+Presolve time: 0.01s
+Presolved: 1076 rows, 1547 columns, 8012 nonzeros
+Variable types: 0 continuous, 1547 integer (924 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.9840000e+33   2.480000e+32   1.984000e+03     15s
+
+Root relaxation: time limit, 0 iterations, 0.00 seconds (0.00 work units)
+
+Explored 1 nodes (0 simplex iterations) in 15.36 seconds (0.01 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 2: 7.9e+11 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000099150e+11, best bound -, gap -
+
+User-callback calls 149, time in user-callback 15.35 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:05:51 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.00 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.00 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:06:20 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 248 rows and 3 columns
+Presolve time: 0.01s
+Presolved: 1076 rows, 1547 columns, 8012 nonzeros
+Variable types: 0 continuous, 1547 integer (924 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Explored 0 nodes (0 simplex iterations) in 15.45 seconds (0.01 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 2: 7.9e+11 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000099150e+11, best bound -, gap -
+
+User-callback calls 142, time in user-callback 15.44 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:07:08 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 248 rows and 3 columns
+Presolve time: 0.01s
+Presolved: 1076 rows, 1547 columns, 8012 nonzeros
+Variable types: 0 continuous, 1547 integer (924 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.9840000e+33   2.480000e+32   1.984000e+03     15s
+
+Root relaxation: time limit, 0 iterations, 0.00 seconds (0.00 work units)
+
+Explored 1 nodes (0 simplex iterations) in 15.35 seconds (0.01 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 2: 7.9e+11 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000099150e+11, best bound -, gap -
+
+User-callback calls 149, time in user-callback 15.34 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:09:54 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 248 rows and 3 columns
+Presolve time: 0.01s
+Presolved: 1076 rows, 1547 columns, 8012 nonzeros
+Variable types: 0 continuous, 1547 integer (924 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.9840000e+33   2.480000e+32   1.984000e+03     15s
+
+Root relaxation: time limit, 0 iterations, 0.00 seconds (0.00 work units)
+
+Explored 1 nodes (0 simplex iterations) in 15.35 seconds (0.01 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 2: 7.9e+11 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000099150e+11, best bound -, gap -
+
+User-callback calls 149, time in user-callback 15.34 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:10:44 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0xf3b13eff
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.900000e+11
+Presolve removed 248 rows and 3 columns
+Presolve time: 0.01s
+Presolved: 1076 rows, 1547 columns, 8012 nonzeros
+Variable types: 0 continuous, 1547 integer (924 binary)
+Found heuristic solution: objective 7.900000e+11
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.9840000e+33   2.480000e+32   1.984000e+03     15s
+
+Root relaxation: time limit, 0 iterations, 0.00 seconds (0.00 work units)
+
+Explored 1 nodes (0 simplex iterations) in 15.33 seconds (0.01 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 2: 7.9e+11 7.9e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.900000099150e+11, best bound -, gap -
+
+User-callback calls 149, time in user-callback 15.32 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:14:14 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0x9af94fd7
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.440000e+11
+Presolve removed 248 rows and 3 columns
+Presolve time: 0.00s
+Presolved: 1076 rows, 1547 columns, 8012 nonzeros
+Variable types: 0 continuous, 1547 integer (924 binary)
+Found heuristic solution: objective 7.440000e+11
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.9840000e+33   2.480000e+32   1.984000e+03     15s
+
+Root relaxation: time limit, 7 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0          -    0      7.4400e+11          -      -     -   15s
+
+Explored 1 nodes (7 simplex iterations) in 15.50 seconds (0.01 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 2: 7.44e+11 7.44e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.440000099380e+11, best bound -, gap -
+
+User-callback calls 154, time in user-callback 15.49 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:15:03 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0x9af94fd7
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.440000e+11
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 5.05 seconds (0.00 work units)
+Thread count was 1 (of 20 available processors)
+
+Solution count 1: 7.44e+11 
+
+Time limit reached
+Warning: some integer variables take values larger than the maximum
+         supported value (2000000000)
+Best objective 7.440000103430e+11, best bound -, gap -
+
+User-callback calls 27, time in user-callback 5.05 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:18:18 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1324 rows, 1550 columns and 8269 nonzeros
+Model fingerprint: 0x9af94fd7
+Variable types: 0 continuous, 1550 integer (927 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 7.440000e+11
+Presolve removed 248 rows and 3 columns
+Presolve time: 0.01s
+Presolved: 1076 rows, 1547 columns, 8012 nonzeros
+Variable types: 0 continuous, 1547 integer (924 binary)
+Found heuristic solution: objective 7.440000e+11
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.9840000e+33   2.480000e+32   1.984000e+03     15s
+     333   -1.3400000e+03   0.000000e+00   0.000000e+00     15s
+
+Root relaxation: objective -1.340000e+03, 333 iterations, 0.00 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -1340.0000    0    4 7.4400e+11 -1340.0000   100%     -   15s
+H    0     0                    7.440000e+11 -1340.0000   100%     -   47s
+H    0     0                    6.600000e+11 -1340.0000   100%     -   57s
+     0     0 -1340.0000    0    8 6.6000e+11 -1340.0000   100%     -   57s
+H    0     0                    6.600000e+11 -1340.0000   100%     -   68s
+H    0     0                    3.960000e+11 -1340.0000   100%     -  121s
+     0     0 -1340.0000    0    7 3.9600e+11 -1340.0000   100%     -  121s
+     0     0 -1340.0000    0    5 3.9600e+11 -1340.0000   100%     -  121s
+     0     0 -1340.0000    0    5 3.9600e+11 -1340.0000   100%     -  121s
+
+Cutting planes:
+  Gomory: 5
+  Cover: 7
+  GUB cover: 1
+  Zero half: 41
+  Lazy constraints: 8
+
+Explored 1 nodes (356 simplex iterations) in 142.43 seconds (0.10 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 6: 3.96e+11 6.6e+11 6.6e+11 ... 7.44e+11
+
+Time limit reached
+Best objective 3.960000159580e+11, best bound -1.340000000000e+03, gap 100.0000%
+
+User-callback calls 223, time in user-callback 142.36 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:31:00 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1211 rows, 973 columns and 10493 nonzeros
+Model fingerprint: 0xcaefdd9c
+Variable types: 0 continuous, 973 integer (336 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+01]
+  Objective range  [1e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 4e+01]
+Presolve removed 287 rows and 154 columns
+Presolve time: 0.01s
+Presolved: 924 rows, 819 columns, 7763 nonzeros
+Variable types: 0 continuous, 819 integer (329 binary)
+Found heuristic solution: objective 0.0000000
+
+Root relaxation: objective -7.030000e+02, 338 iterations, 0.01 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -703.00000    0    6    0.00000 -703.00000      -     -    1s
+H    0     0                    -428.0000000 -703.00000  64.3%     -    2s
+H    0     0                    -548.0000000 -703.00000  28.3%     -    3s
+H    0     0                    -580.0000000 -703.00000  21.2%     -    4s
+     0     0 -703.00000    0    6 -580.00000 -703.00000  21.2%     -    4s
+H    0     0                    -590.0000000 -703.00000  19.2%     -    6s
+     0     0 -703.00000    0    4 -590.00000 -703.00000  19.2%     -    6s
+H    0     0                    -596.0000000 -703.00000  18.0%     -    7s
+H    0     0                    -699.0000000 -703.00000  0.57%     -    8s
+H    0     0                    -700.0000000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0  357 -700.00000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0    4 -700.00000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0    7 -700.00000 -703.00000  0.43%     -    9s
+H    0     0                    -701.0000000 -703.00000  0.29%     -   11s
+     0     0 -703.00000    0    8 -701.00000 -703.00000  0.29%     -   11s
+H    0     0                    -703.0000000 -703.00000  0.00%     -   12s
+     0     0 -703.00000    0    8 -703.00000 -703.00000  0.00%     -   12s
+
+Cutting planes:
+  Gomory: 1
+  Cover: 15
+  MIR: 1
+  GUB cover: 1
+  Zero half: 56
+
+Explored 1 nodes (690 simplex iterations) in 12.34 seconds (0.12 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 10: -703 -701 -700 ... 0
+No other solutions better than -703
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.030000000000e+02, best bound -7.030000000000e+02, gap 0.0000%
+
+User-callback calls 279, time in user-callback 12.24 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:31:44 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1211 rows, 973 columns and 10493 nonzeros
+Model fingerprint: 0xcaefdd9c
+Variable types: 0 continuous, 973 integer (336 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+01]
+  Objective range  [1e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 4e+01]
+Presolve removed 287 rows and 154 columns
+Presolve time: 0.01s
+Presolved: 924 rows, 819 columns, 7763 nonzeros
+Variable types: 0 continuous, 819 integer (329 binary)
+Found heuristic solution: objective 0.0000000
+
+Root relaxation: objective -7.030000e+02, 338 iterations, 0.00 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -703.00000    0    6    0.00000 -703.00000      -     -    1s
+H    0     0                    -428.0000000 -703.00000  64.3%     -    2s
+H    0     0                    -548.0000000 -703.00000  28.3%     -    3s
+H    0     0                    -580.0000000 -703.00000  21.2%     -    4s
+     0     0 -703.00000    0    6 -580.00000 -703.00000  21.2%     -    4s
+H    0     0                    -590.0000000 -703.00000  19.2%     -    5s
+     0     0 -703.00000    0    4 -590.00000 -703.00000  19.2%     -    5s
+H    0     0                    -596.0000000 -703.00000  18.0%     -    7s
+H    0     0                    -699.0000000 -703.00000  0.57%     -    8s
+H    0     0                    -700.0000000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0  357 -700.00000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0    4 -700.00000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0    7 -700.00000 -703.00000  0.43%     -    9s
+H    0     0                    -701.0000000 -703.00000  0.29%     -   10s
+     0     0 -703.00000    0    8 -701.00000 -703.00000  0.29%     -   10s
+H    0     0                    -703.0000000 -703.00000  0.00%     -   12s
+     0     0 -703.00000    0    8 -703.00000 -703.00000  0.00%     -   12s
+
+Cutting planes:
+  Gomory: 1
+  Cover: 15
+  MIR: 1
+  GUB cover: 1
+  Zero half: 56
+
+Explored 1 nodes (690 simplex iterations) in 12.13 seconds (0.12 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 10: -703 -701 -700 ... 0
+No other solutions better than -703
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.030000000000e+02, best bound -7.030000000000e+02, gap 0.0000%
+
+User-callback calls 282, time in user-callback 12.02 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:32:26 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1211 rows, 973 columns and 10493 nonzeros
+Model fingerprint: 0xcaefdd9c
+Variable types: 0 continuous, 973 integer (336 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+01]
+  Objective range  [1e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 4e+01]
+Presolve removed 287 rows and 154 columns
+Presolve time: 0.01s
+Presolved: 924 rows, 819 columns, 7763 nonzeros
+Variable types: 0 continuous, 819 integer (329 binary)
+Found heuristic solution: objective 0.0000000
+
+Root relaxation: objective -7.030000e+02, 338 iterations, 0.01 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -703.00000    0    6    0.00000 -703.00000      -     -    1s
+H    0     0                    -428.0000000 -703.00000  64.3%     -    2s
+H    0     0                    -548.0000000 -703.00000  28.3%     -    3s
+H    0     0                    -580.0000000 -703.00000  21.2%     -    4s
+     0     0 -703.00000    0    6 -580.00000 -703.00000  21.2%     -    4s
+H    0     0                    -590.0000000 -703.00000  19.2%     -    5s
+     0     0 -703.00000    0    4 -590.00000 -703.00000  19.2%     -    5s
+H    0     0                    -596.0000000 -703.00000  18.0%     -    7s
+H    0     0                    -699.0000000 -703.00000  0.57%     -    8s
+H    0     0                    -700.0000000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0  357 -700.00000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0    4 -700.00000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0    7 -700.00000 -703.00000  0.43%     -    9s
+H    0     0                    -701.0000000 -703.00000  0.29%     -   10s
+     0     0 -703.00000    0    8 -701.00000 -703.00000  0.29%     -   10s
+H    0     0                    -703.0000000 -703.00000  0.00%     -   12s
+     0     0 -703.00000    0    8 -703.00000 -703.00000  0.00%     -   12s
+
+Cutting planes:
+  Gomory: 1
+  Cover: 15
+  MIR: 1
+  GUB cover: 1
+  Zero half: 56
+
+Explored 1 nodes (690 simplex iterations) in 12.08 seconds (0.12 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 10: -703 -701 -700 ... 0
+No other solutions better than -703
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.030000000000e+02, best bound -7.030000000000e+02, gap 0.0000%
+
+User-callback calls 283, time in user-callback 11.98 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:32:49 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1211 rows, 973 columns and 10493 nonzeros
+Model fingerprint: 0xcaefdd9c
+Variable types: 0 continuous, 973 integer (336 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+01]
+  Objective range  [1e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 4e+01]
+Presolve removed 287 rows and 154 columns
+Presolve time: 0.01s
+Presolved: 924 rows, 819 columns, 7763 nonzeros
+Variable types: 0 continuous, 819 integer (329 binary)
+Found heuristic solution: objective 0.0000000
+
+Root relaxation: objective -7.030000e+02, 338 iterations, 0.00 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -703.00000    0    6    0.00000 -703.00000      -     -    1s
+H    0     0                    -428.0000000 -703.00000  64.3%     -    2s
+H    0     0                    -548.0000000 -703.00000  28.3%     -    3s
+H    0     0                    -580.0000000 -703.00000  21.2%     -    4s
+     0     0 -703.00000    0    6 -580.00000 -703.00000  21.2%     -    4s
+H    0     0                    -590.0000000 -703.00000  19.2%     -    5s
+     0     0 -703.00000    0    4 -590.00000 -703.00000  19.2%     -    5s
+H    0     0                    -596.0000000 -703.00000  18.0%     -    7s
+H    0     0                    -699.0000000 -703.00000  0.57%     -    8s
+H    0     0                    -700.0000000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0  357 -700.00000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0    4 -700.00000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0    7 -700.00000 -703.00000  0.43%     -    9s
+H    0     0                    -701.0000000 -703.00000  0.29%     -   10s
+     0     0 -703.00000    0    8 -701.00000 -703.00000  0.29%     -   10s
+H    0     0                    -703.0000000 -703.00000  0.00%     -   12s
+     0     0 -703.00000    0    8 -703.00000 -703.00000  0.00%     -   12s
+
+Cutting planes:
+  Gomory: 1
+  Cover: 15
+  MIR: 1
+  GUB cover: 1
+  Zero half: 56
+
+Explored 1 nodes (690 simplex iterations) in 12.14 seconds (0.12 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 10: -703 -701 -700 ... 0
+No other solutions better than -703
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.030000000000e+02, best bound -7.030000000000e+02, gap 0.0000%
+
+User-callback calls 283, time in user-callback 12.04 sec
+
+Gurobi 9.5.2 (win64) logging started Sat Oct  8 23:33:48 2022
+
+Set parameter LogFile to value "logs/elderax/model_optimize-test_model_build.log"
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (win64)
+Thread count: 12 physical cores, 20 logical processors, using up to 10 threads
+Optimize a model with 1211 rows, 973 columns and 10493 nonzeros
+Model fingerprint: 0xcaefdd9c
+Variable types: 0 continuous, 973 integer (336 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+01]
+  Objective range  [1e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 4e+01]
+Presolve removed 287 rows and 154 columns
+Presolve time: 0.01s
+Presolved: 924 rows, 819 columns, 7763 nonzeros
+Variable types: 0 continuous, 819 integer (329 binary)
+Found heuristic solution: objective 0.0000000
+
+Root relaxation: objective -7.030000e+02, 338 iterations, 0.00 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -703.00000    0    6    0.00000 -703.00000      -     -    1s
+H    0     0                    -428.0000000 -703.00000  64.3%     -    2s
+H    0     0                    -548.0000000 -703.00000  28.3%     -    3s
+H    0     0                    -580.0000000 -703.00000  21.2%     -    4s
+     0     0 -703.00000    0    6 -580.00000 -703.00000  21.2%     -    4s
+H    0     0                    -590.0000000 -703.00000  19.2%     -    6s
+     0     0 -703.00000    0    4 -590.00000 -703.00000  19.2%     -    6s
+H    0     0                    -596.0000000 -703.00000  18.0%     -    7s
+H    0     0                    -699.0000000 -703.00000  0.57%     -    8s
+H    0     0                    -700.0000000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0  357 -700.00000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0    4 -700.00000 -703.00000  0.43%     -    9s
+     0     0 -703.00000    0    7 -700.00000 -703.00000  0.43%     -    9s
+H    0     0                    -701.0000000 -703.00000  0.29%     -   10s
+     0     0 -703.00000    0    8 -701.00000 -703.00000  0.29%     -   10s
+H    0     0                    -703.0000000 -703.00000  0.00%     -   12s
+     0     0 -703.00000    0    8 -703.00000 -703.00000  0.00%     -   12s
+
+Cutting planes:
+  Gomory: 1
+  Cover: 15
+  MIR: 1
+  GUB cover: 1
+  Zero half: 56
+
+Explored 1 nodes (690 simplex iterations) in 12.17 seconds (0.12 work units)
+Thread count was 10 (of 20 available processors)
+
+Solution count 10: -703 -701 -700 ... 0
+No other solutions better than -703
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -7.030000000000e+02, best bound -7.030000000000e+02, gap 0.0000%
+
+User-callback calls 285, time in user-callback 12.05 sec
